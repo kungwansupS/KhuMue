@@ -1,0 +1,892 @@
+= pre-mech =
+{{ClassSetupsItem|melee|pre-mech|weapon|{{item|Bananarang}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|weapon|{{item|Chain Guillotines}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|weapon|{{item|Comet Quasher|scale=0.75}}|This is difficult to use and is best on worms and other multi-hit scenarios.|'''† C'''}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|weapon|{{item|Shadowflame Knife}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|weapon|{{item|Storm Saber|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|armor|{{item|Cobalt armor|image=Cobalt armor Helmet.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|armor|{{item|Palladium armor|image=Palladium armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|accessoryOffense|{{item|Power Glove}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|accessoryOffense|{{item|Warrior Emblem}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-mech|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|weapon|{{item|Daedalus Stormbow}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|weapon|{{item|Dart Pistol}} / {{item|Dart Rifle}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|weapon|{{item|Needler}}|This should be used with {{item|Endless Musket Pouch}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|weapon|{{item|Polaris Parrotfish}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|weapon|{{item|Uzi}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|armor|{{item|Cobalt armor|image=Cobalt armor Mask.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|armor|{{item|Palladium armor|image=Palladium armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|accessoryOffense|{{item|Magic Quiver}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|accessoryOffense|{{item|Ranger Emblem}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|ammo|{{item|Cursed Arrow|s}} / {{item|Ichor Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|ammo|{{item|Unholy Arrow|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|ammo|{{item|Cursed Bullet|s}} / {{item|Ichor Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|ammo|{{item|Exploding Bullet|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|ammo|{{item|Endless Musket Pouch}}|These should be used with {{item|Needler}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-mech|ammo|{{item|Cursed Dart|s}} / {{item|Ichor Dart|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|weapon|{{item|Blood Thorn}}|This requires boss preparation and is difficult to obtain.|'''† *'''}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|weapon|{{item|Death Valley Duster}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|weapon|{{item|Meteor Staff}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|weapon|{{item|Nimbus Rod}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|weapon|{{item|Poseidon}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|weapon|{{item|Shadowflame Hex Doll}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|armor|{{item|Cobalt armor|image=Cobalt armor Hat.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|armor|{{item|Palladium armor|image=Palladium armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|accessoryGeneral|{{item|Permafrost's Concoction}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|accessoryDefense|{{item|Mana Polarizer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|accessoryOffense|{{item|Sorcerer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-mech|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|minions|{{item|Ancient Ice Chunk}}|This requires being close to the boss to perform well.|'''†'''}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|minions|{{item|Spider Staff}}|Background walls are not required.}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|sentries|{{item|Queen Spider Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|weaponSummon|{{item|Cool Whip}} / {{item|Firecracker}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|armor|{{item|Spider armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|accessoryOffense|{{item|The First Shadowflame}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|accessoryOffense|{{item|Jelly-Charged Battery}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|accessoryOffense|{{item|Pygmy Necklace}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-mech|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponSpam|{{item|Cobalt Kunai}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponSpam|{{item|Cursed Dagger}} / {{item|Ichor Spear|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponSpam|{{item|Ice Star|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponSpam|{{item|Palladium Javelin|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponSpam|{{item|Prismalline|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponStealth|{{item|Cursed Dagger}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponStealth|{{item|Equanimity|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponStealth|{{item|Ice Star|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponStealth|{{item|Palladium Javelin|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|weaponStealth|{{item|Prismalline|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|armor|{{item|Titan Heart armor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|accessorySpam|{{item|Rogue Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|accessoryStealth|{{item|Filthy Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|accessoryStealth|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|accessoryStealth|{{item|Mirage Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-mech|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|pre-mech|armor|{{item|Crystal Assassin armor}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryGeneral|{{item|Amalgamated Brain|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryGeneral|{{item|Frost Flare}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryGeneral|{{item|Grand Gelatin|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryDefense|{{item|Charm of Myths}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryDefense|{{item|Frost Barrier}}|This should be used for Cryogen.}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryDefense|{{item|Giant Tortoise Shell}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryDefense|{{item|Honey Dew}} / {{item|Radiant Ooze}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|pre-mech|accessoryOffense|{{item|Putrid Scent}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryMobilityPrimary|{{item|Angel Wings}}|This has increased vertical speed.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryMobilityPrimary|{{item|Demon Wings}}|This has increased fall speed.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryMobilityPrimary|{{item|Bundle of Horseshoe Balloons}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryMobility|{{item|Counter Scarf}} / {{item|Deep Diver}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryMobility|{{item|Fairy Boots}} / {{item|Terraspark Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-mech|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Heartreach Potion|s}}|Use on Queen Slime or Destroyer.}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Photosynthesis Potion|s}}|Use on Queen Slime or Destroyer.}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffDefense|{{item|Warmth Potion|s}}|Use on Cryogen.}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-mech|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-mech|buffOffense|{{item|Wrath Potion|s}}}}
+
+= post-mech1 =
+{{ClassSetupsItem|melee|post-mech1|weapon|{{item|Chain Guillotines}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|weapon|{{item|Inferna Cutter|scale=0.75}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|weapon|{{item|Majestic Guard|scale=0.75}}|This is difficult to use and should be used with {{item|Power Glove}}.|'''† Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|weapon|{{item|Shadowflame Knife}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|weapon|{{item|Storm Saber}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|armor|{{item|Mythril armor|image=Mythril armor Helmet.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|armor|{{item|Orichalcum armor|image=Orichalcum armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|accessoryOffense|{{item|Power Glove}}|This should be used with {{item|Majestic Guard|scale=0.5}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|accessoryOffense|{{item|Warrior Emblem}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech1|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|weapon|{{item|Buzzkill|scale=0.75}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|weapon|{{item|Daedalus Stormbow}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|weapon|{{item|Dart Pistol}} / {{item|Dart Rifle}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|weapon|{{item|Megashark}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|weapon|{{item|Polaris Parrotfish}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|armor|{{item|Mythril armor|image=Mythril armor Hat.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|armor|{{item|Orichalcum armor|image=Orichalcum armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|accessoryOffense|{{item|Magic Quiver}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|accessoryOffense|{{item|Ranger Emblem}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|ammo|{{item|Cursed Arrow|s}} / {{item|Ichor Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|ammo|{{item|Unholy Arrow|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|ammo|{{item|Ichor Bullet|s}} / {{item|Cursed Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech1|ammo|{{item|Cursed Dart|s}} / {{item|Ichor Dart|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|weapon|{{item|Blood Thorn}}|This requires boss preparation.|'''†'''}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|weapon|{{item|Brimrose Staff}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|weapon|{{item|Nimbus Rod}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|weapon|{{item|R-GSS: Vulcan}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|weapon|{{item|Snowstorm Staff}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|weapon|{{item|Unholy Trident}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|armor|{{item|Apprentice armor}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|armor|{{item|Mythril armor|image=Mythril armor Hood.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|armor|{{item|Orichalcum armor|image=Orichalcum armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|accessoryDefense|{{item|Mana Polarizer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|accessoryOffense|{{item|Sorcerer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech1|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|minions|{{item|Deepsea Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|minions|{{item|Spider Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|minions|{{item|Igneous Exaltation|scale=0.75}}|This is difficult to use, and is best on worms and other multi-hit scenarios.|'''† C'''}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|sentries|{{item|Orthocera Shell}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|weaponSummon|{{item|Cool Whip}} / {{item|Firecracker}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|armor|{{item|Spider armor}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|armor|{{item|Squire armor}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|accessoryOffense|{{item|The First Shadowflame}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|accessoryOffense|{{item|Jelly-Charged Battery}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|accessoryOffense|{{item|Nuclear Fuel Rod}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech1|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponSpam|{{item|Blazing Star}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponSpam|{{item|Cobalt Kunai}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponSpam|{{item|Ice Star|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponSpam|{{item|Palladium Javelin|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponSpam|{{item|Prismalline|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponSpam|{{item|Scourge of the Seas|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponStealth|{{item|Blazing Star}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponStealth|{{item|Equanimity|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponStealth|{{item|Ice Star|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponStealth|{{item|Palladium Javelin|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|weaponStealth|{{item|Scourge of the Seas|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|armor|{{item|Monk armor}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|armor|{{item|Titan Heart armor}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|accessorySpam|{{item|Rogue Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|accessorySpam|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|accessoryStealth|{{item|Electrician's Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|accessoryStealth|{{item|Mirage Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|accessoryStealth|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech1|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|post-mech1|armor|{{item|Crystal Assassin armor}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryGeneral|{{item|Amalgamated Brain|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryGeneral|{{item|Frost Flare}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryGeneral|{{item|Moon Stone}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryDefense|{{item|Giant Tortoise Shell}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryDefense|{{item|Honey Dew}} / {{item|Radiant Ooze}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryMobilityPrimary|{{item|Butterfly Wings}}|This has increased acceleration.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryMobilityPrimary|{{item|Flame Wings}}|This has increased vertical mobility.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryMobility|{{item|Evasion Scarf}} / {{item|Deep Diver}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryMobility|{{item|Fairy Boots}} / {{item|Terraspark Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech1|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|post-mech1|accessoryOffense|{{item|Abaddon}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffDefense|{{item|Heartreach Potion|s}}|Use on Destroyer.}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffDefense|{{item|Photosynthesis Potion|s}}|Use on Destroyer.}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|post-mech1|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech1|buffOffense|{{item|Wrath Potion|s}}}}
+= post-mech2 =
+-->{{ClassSetupsItem|melee|post-mech2|weapon|{{item|Chain Guillotines}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|weapon|{{item|Darklight Greatsword|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|weapon|{{item|Inferna Cutter|scale=0.75}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|weapon|{{item|Majestic Guard|scale=0.75}}|This is difficult to use and is best on worms and other mult-hit scenarios.|'''† C'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|weapon|{{item|Starnight Lance|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|armor|{{item|Adamantite armor|image=Adamantite armor Helmet.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|armor|{{item|Orichalcum armor|image=Orichalcum armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|accessoryOffense|{{item|Warrior Emblem}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|melee|post-mech2|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|weapon|{{item|Buzzkill|scale=0.75}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|weapon|{{item|Flak Toxicannon}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|weapon|{{item|Hellborn}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|weapon|{{item|Megashark}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|weapon|{{item|Phantom Phoenix}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|armor|{{item|Adamantite armor|image=Adamantite armor Mask.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|armor|{{item|Orichalcum armor|image=Orichalcum armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|accessoryOffense|{{item|Magic Quiver}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|accessoryOffense|{{item|Ranger Emblem}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|ammo|{{item|Cinder Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|ammo|{{item|Holy Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|ammo|{{item|Unholy Arrow|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|ammo|{{item|Ichor Bullet|s}} / {{item|Cursed Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-mech2|ammo|{{item|Rocket I|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|weapon|{{item|Brimrose Staff}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|weapon|{{item|Frigidflash Bolt}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|weapon|{{item|Ion Blaster}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|weapon|{{item|Nimbus Rod}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|weapon|{{item|R-GSS: Vulcan}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|weapon|{{item|Unholy Trident}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|armor|{{item|Adamantite armor|image=Adamantite armor Headgear.png}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|armor|{{item|Orichalcum armor|image=Orichalcum armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|accessoryDefense|{{item|Mana Polarizer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|accessoryOffense|{{item|Sorcerer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-mech2|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|minions|{{item|Daedalus Golem Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|minions|{{item|Deepsea Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|minions|{{item|Dormant Brimseeker}}|Keep the Brimseekers in their empowered state, even if using a whip.}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|sentries|{{item|Orthocera Shell}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|weaponSummon|{{item|Cool Whip}} / {{item|Firecracker}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|armor|{{item|Daedalus armor|image=Daedalus armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|armor|{{item|Squire armor|image=Squire armor.png}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|accessoryOffense|{{item|The First Shadowflame}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|accessoryOffense|{{item|Jelly-Charged Battery}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|accessoryOffense|{{item|Nuclear Fuel Rod}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|post-mech2|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponSpam|{{item|Adamantite Throwing Axe}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponSpam|{{item|Blazing Star}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponSpam|{{item|Consecrated Water}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponSpam|{{item|Crystal Piercer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponSpam|{{item|Ice Star|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponStealth|{{item|Adamantite Throwing Axe}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponStealth|{{item|Blazing Star}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponStealth|{{item|Consecrated Water}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponStealth|{{item|Crystal Piercer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponStealth|{{item|Desecrated Water}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|weaponStealth|{{item|Palladium Javelin|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|armor|{{item|Daedalus armor|image=Daedalus armor Facemask.png}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|armor|{{item|Monk armor|image=Monk armor.png}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|accessorySpam|{{item|Rogue Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|accessorySpam|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|accessoryStealth|{{item|Electrician's Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|accessoryStealth|{{item|Mirage Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|accessoryStealth|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|buffOffense|{{item|Flask of Cursed Flames}} / {{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|rogue|post-mech2|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|post-mech2|armor|{{item|Crystal Assassin armor}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryGeneral|{{item|Amalgamated Brain|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryGeneral|{{item|Frost Flare}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryGeneral|{{item|Moon Stone}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryDefense|{{item|Giant Tortoise Shell}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryDefense|{{item|Honey Dew}} / {{item|Radiant Ooze}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryMobilityPrimary|{{item|Butterfly Wings}}|This has increased acceleration.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryMobilityPrimary|{{item|Flame Wings}}|This has increased vertical mobility.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryMobility|{{item|Evasion Scarf}} / {{item|Ornate Shield}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryMobility|{{item|Fairy Boots}} / {{item|Terraspark Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-mech2|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|post-mech2|accessoryOffense|{{item|Abaddon}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffDefense|{{item|Heartreach Potion|s}}|Use on Destroyer.}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffDefense|{{item|Photosynthesis Potion|s}}|Use on Destroyer.}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|post-mech2|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-mech2|buffOffense|{{item|Wrath Potion|s}}}}
+= pre-plantera =
+{{ClassSetupsItem|melee|pre-plantera|weapon|{{item|Biome Blade}}|All attunements but '''Decay's Retort''' and '''Heaven's Might''' are viable.}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|weapon|{{item|Chlorophyte Partisan}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|weapon|{{item|Darklight Greatsword|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|weapon|{{item|Pwnagehammer}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|weapon|{{item|True Excalibur}}|This is risky to use.|†}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|armor|{{item|Chlorophyte armor|image=Chlorophyte armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|armor|{{item|Hallowed armor|image=Hallowed armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|armor|{{item|Turtle armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|accessoryOffense|{{item|Mechanical Glove}}}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|buffOffense|{{item|Flask of Brimstone}}|This should be used for Plantera.}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|buffOffense|{{item|Flask of Ichor}}|This should be used for Calamitas Clone.}}<!--
+-->{{ClassSetupsItem|melee|pre-plantera|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|weapon|{{item|Animosity}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|weapon|{{item|Chlorophyte Shotbow}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|weapon|{{item|Hellborn}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|weapon|{{item|Pulse Bow}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|armor|{{item|Chlorophyte armor|image=Chlorophyte armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|armor|{{item|Hallowed armor|image=Hallowed armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|accessoryOffense|{{item|Magic Quiver}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|accessoryOffense|{{item|Ranger Emblem}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|ammo|{{item|Chlorophyte Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|ammo|{{item|Holy Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|ammo|{{item|Verium Bolt|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-plantera|ammo|{{item|Hallow-Point Round|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|weapon|{{item|Gleaming Magnolia}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|weapon|{{item|Shadecrystal Barrage}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|weapon|{{item|SHPC|scale=0.75}}|This should be used with {{item|Soul of Sight|ext=gif|Souls of Sight}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|weapon|{{item|Venom Staff}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|armor|{{item|Chlorophyte armor|image=Chlorophyte armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|armor|{{item|Brimflame armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|armor|{{item|Hallowed armor|image=Hallowed armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|accessoryDefense|{{item|Mana Polarizer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|accessoryOffense|{{item|Celestial Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|magic|pre-plantera|ammo|{{item|Soul of Sight|ext=gif|Souls of Sight}}|This should be used with {{item|SHPC|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|minions|{{item|Daedalus Golem Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|minions|{{item|Dormant Brimseeker}}|Keep the Brimseekers in their empowered state, even if using a whip.}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|minions|{{item|Vengeful Sun Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|sentries|{{item|Cryogenic Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|sentries|{{item|Orthocera Shell}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|weaponSummon|{{item|Durendal}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|armor|{{item|Daedalus armor|image=Daedalus armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|armor|{{item|Hallowed armor|image=Hallowed armor Hood.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|armor|{{item|Squire armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|accessoryOffense|{{item|The First Shadowflame}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|accessoryGeneral|{{item|Hallowed Rune}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|accessoryOffense|{{item|Jelly-Charged Battery}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|accessoryOffense|{{item|Nuclear Fuel Rod}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|buffOffense|{{item|Flask of Brimstone}}|This should be used on Plantera.}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|buffOffense|{{item|Flask of Ichor}}|This should be used on Calamitas Clone.}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-plantera|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponSpam|{{item|Blazing Star}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponSpam|{{item|Desecrated Water}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponSpam|{{item|Ice Star|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponSpam|{{item|Skyfin Bombers}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponSpam|{{item|Totality Breakers}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponStealth|{{item|Crushsaw Crasher}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponStealth|{{item|Deep Wounder|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponStealth|{{item|Desecrated Water}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponStealth|{{item|Palladium Javelin|scale=0.75}}}}<!-- i genuinely dislike thinking about this class
+-->{{ClassSetupsItem|rogue|pre-plantera|weaponStealth|{{item|Totality Breakers}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|armor|{{item|Daedalus armor|image=Daedalus armor Facemask.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|armor|{{item|Monk armor|image=Monk armor.png}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|armor|{{item|Umbraphile armor}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|accessorySpam|{{item|Rogue Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|accessorySpam|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|accessoryStealth|{{item|Electrician's Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|accessoryStealth|{{item|Mirage Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|accessoryStealth|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|buffOffense|{{item|Flask of Brimstone}}|This should be used for Plantera.}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|buffOffense|{{item|Flask of Ichor}}|This should be used for Calamitas Clone.}}<!--
+-->{{ClassSetupsItem|rogue|pre-plantera|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryGeneral|{{item|Amalgamated Brain|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryGeneral|{{item|Moon Stone}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryDefense|{{item|Giant Tortoise Shell}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryDefense|{{item|Honey Dew}} / {{item|Radiant Ooze}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryMobilityPrimary|{{item|Butterfly Wings}}|This has increased acceleration.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryMobilityPrimary|{{item|Flame Wings}}|This has increased vertical mobility.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryMobility|{{item|Angel Treads}} / {{item|Fairy Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|accessoryMobility|{{item|Evasion Scarf}} / {{item|Ornate Shield}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|pre-plantera|accessoryOffense|{{item|Abaddon}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-plantera|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-plantera|buffOffense|{{item|Wrath Potion|s}}}}
+= pre-golem =
+{{ClassSetupsItem|melee|pre-golem|weapon|{{item|Ark of the Ancients}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|weapon|{{item|Blighted Cleaver|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|weapon|{{item|Botanic Piercer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|weapon|{{item|Hellkite|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|weapon|{{item|Vampire Knives}}|This is used for support and the [[Crimson Key]] to obtain this drops more commonly from [[Crimson Mimic]]s.|'''+''' <small>(note)</small>}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|armor|{{item|Chlorophyte armor|image=Chlorophyte armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|armor|{{item|Hallowed armor|image=Hallowed armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|accessoryOffense|{{item|Mechanical Glove}}}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|buffOffense|{{item|Flask of Brimstone}}|This is for all bosses that are not Leviathan and Anahita.}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|buffOffense|{{item|Flask of Venom}}|This is for Leviathan and Anahita.}}<!--
+-->{{ClassSetupsItem|melee|pre-golem|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|weapon|{{item|Bladedge Railbow}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|weapon|{{item|Blossom Flux}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|weapon|{{item|Hydra}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|weapon|{{item|Megalodon}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|weapon|{{item|Wildfire Bloom|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|armor|{{item|Hallowed armor|image=Hallowed armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|armor|{{item|Shroomite armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|accessoryOffense|{{item|Deadshot Brooch}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|accessoryOffense|{{item|Ranger Emblem}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|ammo|{{item|Venom Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-golem|ammo|{{item|Venom Bullet|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|weapon|{{item|Alula Australis}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|weapon|{{item|Primordial Earth}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|weapon|{{item|Rainbow Gun}}|This is used for support and the [[Hallowed Key]] to obtain this drops more commonly from [[Hallowed Mimic]]s.|'''+''' <small>(note)</small>}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|weapon|{{item|SHPC|scale=0.75}}|This should be used with {{item|Soul of Sight|ext=gif|Souls of Sight}}.|'''Ω<sup>1</sup>''' }}<!--
+-->{{ClassSetupsItem|magic|pre-golem|weapon|{{item|Undine's Retribution|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|weapon|{{item|Wasp Gun}}|This should be used with {{item|Mana Regeneration Potion|s}} '''instead''' of {{item|Super Mana Potion|Mana Potions}}.}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|armor|{{item|Brimflame armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|armor|{{item|Hallowed armor|image=Hallowed armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|armor|{{item|Spectre armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|accessoryDefense|{{item|Mana Polarizer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|accessoryOffense|{{item|Celestial Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|magic|pre-golem|ammo|{{item|Soul of Sight|ext=gif|Souls of Sight}}|This should be used with {{item|SHPC|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|minions|{{item|Desert Tiger Staff}}|The [[Desert Key]] to obtain this drops more commonly from [[Sand Elemental]]s.}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|minions|{{item|Plantation Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|minions|{{item|Sand Sharknado Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|minions|{{item|Viral Sprout}}|This should be used with {{item|Evergreen Gin}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|sentries|{{item|Dreadmine Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|sentries|{{item|Hive Pod}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|sentries|{{item|Staff of the Frost Hydra}}|The [[Frozen Key]] to obtain this drops more commonly from [[Ice Golem]]s.}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|weaponSummon|{{item|Borealis Bomber|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|weaponSummon|{{item|Morning Star}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|armor|{{item|Fathom Swarmer armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|armor|{{item|Squire armor|image=Squire armor.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|armor|{{item|Tiki armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|accessoryGeneral|{{item|Hallowed Rune}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|accessoryOffense|{{item|Jelly-Charged Battery}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|accessoryOffense|{{item|The First Shadowflame}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|accessoryOffense|{{item|Starbuster Core}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|buffOffense|{{item|Evergreen Gin}}|This should be used with {{item|Viral Sprout}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|buffOffense|{{item|Flask of Brimstone}}|This should be used for Astrum Aureus and Golem.}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|buffOffense|{{item|Flask of Venom}}|This should be used for Leviathan and Anahita.}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-golem|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponSpam|{{item|Defective Sphere}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponSpam|{{item|Fantasy Talisman}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponSpam|{{item|Leviathan Teeth}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponSpam|{{item|Phantasmal Ruin|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponSpam|{{item|Samsara Slicer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponSpam|{{item|Stellar Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponStealth|{{item|Duststorm in a Bottle}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponStealth|{{item|Leviathan Teeth}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponStealth|{{item|Phantasmal Ruin|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponStealth|{{item|Samsara Slicer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|weaponStealth|{{item|Stellar Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|armor|{{item|Umbraphile armor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|accessorySpam|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|accessoryStealth|{{item|Electrician's Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|accessoryStealth|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|buffOffense|{{item|Flask of Brimstone}}|This is for all bosses that are not Leviathan and Anahita.}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|buffOffense|{{item|Flask of Venom}}|This is for Leviathan and Anahita.}}<!--
+-->{{ClassSetupsItem|rogue|pre-golem|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|pre-golem|armor|{{item|Reaver armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryGeneral|{{item|Amalgamated Brain|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryGeneral|{{item|Moon Stone}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryDefense|{{item|Bloom Stone|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryDefense|{{item|Frozen Shield|scale=0.75}} / {{item|Hero Shield|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryDefense|{{item|Living Dew}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryMobilityPrimary|{{item|Spectre Wings}}|This has increased acceleration.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryMobility|{{item|Angel Treads}} / {{item|Fairy Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-golem|accessoryMobility|{{item|Asgard's Valor|scale=0.75}} / {{item|Master Ninja Gear}}|Master Ninja Gear has a faster dash and a consistent dodge on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-golem|accessoryOffense|{{item|Sand Shark Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffDefense|{{item|Heartreach Potion|s}}|Use on Astrum Aureus.}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffDefense|{{item|Photosynthesis Potion|s}}|Use on Astrum Aureus.}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-golem|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-golem|buffOffense|{{item|Wrath Potion|s}}}}
+= post-golem =
+{{ClassSetupsItem|melee|post-golem|weapon|{{item|Aegis Blade}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|melee|post-golem|weapon|{{item|Christmas Tree Sword}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|weapon|{{item|Fallen Paladin's Hammer}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|weapon|{{item|Lucrecia}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|weapon|{{item|Omniblade|scale=0.75}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|post-golem|armor|{{item|Beetle armor}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|accessoryOffense|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|melee|post-golem|accessoryOffense|{{item|Fire Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|melee|post-golem|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|weapon|{{item|Electrosphere Launcher}}|This is best on worms and other multi-hit scenarios, and should be used with {{item|Rocket III|s}}.|'''C Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|weapon|{{item|Nullification Pistol}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|weapon|{{item|Snowman Cannon}}|This should be used with {{item|Cluster Rocket I|s}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|weapon|{{item|Stynger}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|weapon|{{item|Xenopopper}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|armor|{{item|Plague Reaper armor}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|armor|{{item|Shroomite armor}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|accessoryOffense|{{item|Deadshot Brooch}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|accessoryOffense|{{item|Recon Scope}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|ammo|{{item|Bubonic Round|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|ammo|{{item|Chlorophyte Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|ammo|{{item|Hailstorm Bullet|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|ammo|{{item|Rocket III}}|This should be used with {{item|Electrosphere Launcher}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|post-golem|ammo|{{item|Cluster Rocket I}}|This should be used with {{item|Snowman Cannon}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|post-golem|weapon|{{item|Alula Australis}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|weapon|{{item|Bat Scepter}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|weapon|{{item|Charged Blaster Cannon}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|weapon|{{item|Rainbow Gun}}|This is used for support and the [[Hallowed Key]] to obtain this drops more commonly from [[Hallowed Mimic]]s.|'''+''' <small>(note)</small>}}<!--
+-->{{ClassSetupsItem|magic|post-golem|weapon|{{item|Razorpine}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|weapon|{{item|Wingman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|armor|{{item|Brimflame armor}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|accessoryOffense|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|accessoryOffense|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|magic|post-golem|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|post-golem|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|minions|{{item|Raven Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|minions|{{item|Resurrection Butterfly}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|minions|{{item|Sand Sharknado Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|minions|{{item|Wither Blossoms Staff|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|post-golem|minions|{{item|Xeno Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|sentries|{{item|Dreadmine Staff}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|sentries|{{item|Hive Pod}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|sentries|{{item|Staff of the Frost Hydra}}|The [[Frozen Key]] to obtain this drops more commonly from [[Ice Golem]]s.}}<!--
+-->{{ClassSetupsItem|summon|post-golem|weaponSummon|{{item|Dark Harvest}} / {{item|Morning Star}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|accessoryGeneral|{{item|Hallowed Rune}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|accessoryOffense|{{item|Papyrus Scarab}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|accessoryOffense|{{item|Star-Tainted Generator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|accessoryOffense|{{item|Statis' Blessing}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|post-golem|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponSpam|{{item|Doomsday Device}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponSpam|{{item|Epidemic Shredder}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponSpam|{{item|Plaguenade}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponSpam|{{item|Stellar Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponStealth|{{item|Doomsday Device}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponStealth|{{item|Leviathan Teeth}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponStealth|{{item|Plaguenade}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponStealth|{{item|Samsara Slicer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|weaponStealth|{{item|Stellar Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Hood.png}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|armor|{{item|Shinobi Infiltrator armor|image=Shinobi Infiltrator armor.png}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessorySpam|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessorySpam|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessorySpam|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessoryStealth|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessoryStealth|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|rogue|post-golem|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|post-golem|armor|{{item|Reaver armor}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryGeneral|{{item|Celestial Shell}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryDefense|{{item|Bloom Stone|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryDefense|{{item|Frozen Shield|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryDefense|{{item|Living Dew}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryMobilityPrimary|{{item|Hadal Mantle}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryMobilityPrimary|{{item|Spectre Wings}}|This has increased acceleration.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryMobility|{{item|Leviathan Ambergris}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryMobility|{{item|Angel Treads}} / {{item|Fairy Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryMobility|{{item|Asgard's Valor|scale=0.75}} / {{item|Master Ninja Gear}} / {{item|Shield of the High Ruler|scale=0.75}}|Master Ninja Gear has a faster dash and a consistent dodge on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|post-golem|accessoryMobility|{{item|Interstellar Stompers}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|post-golem|accessoryOffense|{{item|Sand Shark Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|post-golem|accessoryOffense|{{item|Apollyon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffDefense|{{item|Heartreach Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffDefense|{{item|Photosynthesis Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|post-golem|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|post-golem|buffOffense|{{item|Wrath Potion|s}}}}
+= pre-lunar =
+{{ClassSetupsItem|melee|pre-lunar|weapon|{{item|Briny Baron|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|weapon|{{item|Exalted Oathblade|scale=0.7}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|weapon|{{item|Flying Dragon}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|weapon|{{item|Galvanizing Glaive}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|weapon|{{item|Lucrecia}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|armor|{{item|Beetle armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|accessoryGeneral|{{item|Bloody Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|accessoryOffense|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|accessoryOffense|{{item|Fire Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|melee|pre-lunar|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|weapon|{{item|Aerial Bane}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|weapon|{{item|B-GSS: Nidhogg}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|weapon|{{item|The Hive}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|weapon|{{item|Nullification Pistol}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|weapon|{{item|Stynger}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|armor|{{item|Plague Reaper armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|armor|{{item|Shroomite armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|accessoryOffense|{{item|Alchemical Decanter}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|accessoryOffense|{{item|Deadshot Brooch}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|accessoryOffense|{{item|Recon Scope}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|ammo|{{item|Venom Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-lunar|ammo|{{item|Rocket III}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|weapon|{{item|Bubble Gun}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|weapon|{{item|Hematemesis}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|weapon|{{item|Plague Staff}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|weapon|{{item|Rainbow Gun}}|This is used for support and the [[Hallowed Key]] to obtain this drops more commonly from [[Hallowed Mimic]]s.|'''+''' <small>(note)</small>}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|weapon|{{item|Stellar Tune}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|weapon|{{item|Wingman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|armor|{{item|Brimflame armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|accessoryOffense|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|accessoryOffense|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-lunar|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|minions|{{item|Fuel Cell Bundle}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|minions|{{item|Infected Remote}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|minions|{{item|Resurrection Butterfly}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|minions|{{item|Wither Blossoms Staff|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|minions|{{item|Xeno Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|sentries|{{item|Dreadmine Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|sentries|{{item|Spikecrag Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|weaponSummon|{{item|Dark Harvest}} / {{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|armor|{{item|Plaguebringer armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|accessoryGeneral|{{item|Hallowed Rune}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|accessoryOffense|{{item|Papyrus Scarab}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|accessoryOffense|{{item|Star-Tainted Generator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|accessoryOffense|{{item|Statis' Blessing}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-lunar|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponSpam|{{item|Corpus Avertor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponSpam|{{item|Cranium Smasher|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponSpam|{{item|Plaguenade}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponSpam|{{item|Stellar Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponSpam|{{item|The Syringe}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponStealth|{{item|Corpus Avertor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponStealth|{{item|Duke's Decapitator|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponStealth|{{item|Leviathan Teeth}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponStealth|{{item|Plaguenade}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|weaponStealth|{{item|System Bane}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Hood.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|armor|{{item|Shinobi Infiltrator armor|image=Shinobi Infiltrator armor.png}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessorySpam|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessorySpam|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessorySpam|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessoryStealth|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessoryStealth|{{item|Ruin Medallion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-lunar|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|support|{{item|Betsy's Wrath}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|support|{{item|Lunic Eye}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|armor|{{item|Reaver armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryGeneral|{{item|Celestial Shell}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryDefense|{{item|Blood Pact|scale=0.75}}|This should be used with {{item|Bloom Stone|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryDefense|{{item|Bloom Stone|scale=0.75}}|This should be used with {{item|Blood Pact|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryDefense|{{item|Frozen Shield|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryDefense|{{item|Living Dew}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryDefense|{{item|Star Veil}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobilityPrimary|{{item|Betsy's Wings}}|This should be used with {{item|Angel Treads}}.}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobilityPrimary|{{item|Empress Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobilityPrimary|{{item|Fishron Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobility|{{item|Angel Treads}} / {{item|Fairy Boots}}|Fairy boots offer defensive benefits.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobility|{{item|Asgard's Valor|scale=0.75}} / {{item|Master Ninja Gear}} / {{item|Shield of the High Ruler|scale=0.75}}|Master Ninja Gear has a faster dash and a consistent dodge on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobility|{{item|Interstellar Stompers}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|accessoryMobility|{{item|Soaring Insignia}}|This no longer grants infinite flight.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-lunar|accessoryOffense|{{item|Sand Shark Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|pre-lunar|accessoryOffense|{{item|Apollyon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buff|{{item|Greater Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffDefense|{{item|Heartreach Potion|s}}|Use on the Plaguebringer Goliath.}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffDefense|{{item|Photosynthesis Potion|s}}|Use on the Plaguebringer Goliath.}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-lunar|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-lunar|buffOffense|{{item|Wrath Potion|s}}}}
+
+= pre-moonlord =
+{{ClassSetupsItem|melee|pre-moonlord|weapon|{{item|Entropic Claymore|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|weapon|{{item|Grand Guardian|scale=0.75}}|This is risky to use and should be used with {{item|Hide of Astrum Deus|scale=0.75}}.|'''†''' '''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|weapon|{{item|Lucrecia}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|weapon|{{item|Storm Ruler}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|armor|{{item|Beetle armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|accessoryOffense|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|accessoryOffense|{{item|Fire Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|accessoryGeneral|{{item|Hide of Astrum Deus|scale=0.75}}|This should be used with {{item|Grand Guardian|scale=0.75}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|melee|pre-moonlord|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|weapon|{{item|B-GSS: Nidhogg}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|weapon|{{item|Dead Sun's Wind|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|weapon|{{item|Plague Tainted SMG|scale=0.75}}|This should be used with {{item|Bubonic Round|s}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|weapon|{{item|Vortexpopper|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|armor|{{item|Lunic Corps armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|armor|{{item|Plague Reaper armor}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|accessoryOffense|{{item|Deadshot Brooch}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|accessoryOffense|{{item|Recon Scope}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|ammo|{{item|Bubonic Round|s}}|This should be used with {{item|Plague Tainted SMG|scale=0.75}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|ammo|{{item|Chlorophyte Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-moonlord|ammo|{{item|Exploding Bullet|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|weapon|{{item|Apoctosis Array|scale=0.75}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|weapon|{{item|Nebula Arcanum}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|weapon|{{item|Nebula Blaze}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|weapon|{{item|Star Shower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|weapon|{{item|The Swarmer|scale=0.75}}|This should be used with {{item|Hive Pack}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|accessoryOffense|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|accessoryOffense|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|accessoryOffense|{{item|Hive Pack}}|This should be used with {{item|The Swarmer|scale=0.75}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|buff|{{item|Super Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-moonlord|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|minions|{{item|Fuel Cell Bundle}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|minions|{{item|Stardust Cell Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|minions|{{item|Wither Blossoms Staff}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|sentries|{{item|Spikecrag Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|armor|{{item|Plaguebringer armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|accessoryGeneral|{{item|Heart of the Elements}}|This should be used with {{item|Heartreach Potion}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|accessoryOffense|{{item|Papyrus Scarab}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|accessoryOffense|{{item|Star-Tainted Generator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|accessoryOffense|{{item|Statis' Curse}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|buffDefense|{{item|Heartreach Potion|s}}|This should be used with {{item|Heart of the Elements}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-moonlord|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponSpam|{{item|Plaguenade}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponSpam|{{item|Radiant Star}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponSpam|{{item|Regulus Riot}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponSpam|{{item|Shard of Antumbra|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponSpam|{{item|Star of Destruction|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponStealth|{{item|Duke's Decapitator|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponStealth|{{item|Leviathan Teeth}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponStealth|{{item|Regulus Riot}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponStealth|{{item|Shard of Antumbra|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|weaponStealth|{{item|Star of Destruction|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|armor|{{item|Hydrothermic armor|image=Hydrothermic armor Hood.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|armor|{{item|Shinobi Infiltrator armor|image=Shinobi Infiltrator armor.png}}|This works as a rogue armor.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessorySpam|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessorySpam|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessorySpam|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessoryStealth|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessoryStealth|{{item|Eye of the Golem}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|buffOffense|{{item|Flask of Brimstone}} / {{item|Flask of Venom}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-moonlord|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|support|{{item|Betsy's Wrath}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|support|{{item|Eye of Magnus}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|support|{{item|Rod of Discord}}|Calamity increases this item's drop rate to {{expert|2%}}.}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|armor|{{item|Astral armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|armor|{{item|Reaver armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryGeneral|{{item|Celestial Shell}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryDefense|{{item|Ambrosial Ampoule}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryDefense|{{item|Blood Pact|scale=0.75}}|This should be used with {{item|Bloom Stone|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryDefense|{{item|Bloom Stone|scale=0.75}}|This should be used with {{item|Blood Pact|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryDefense|{{item|Deific Amulet}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryDefense|{{item|Frozen Shield|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryDefense|{{item|Infected Jewel|scale=0.75}}|Use on Astrum Deus.}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobilityPrimary|{{item|Betsy's Wings}}|This should be used with {{item|Angel Treads}}.}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobilityPrimary|{{item|Empress Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobilityPrimary|{{item|Fishron Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobility|{{item|Angel Treads}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobility|{{item|Asgard's Valor|scale=0.75}} / {{item|Master Ninja Gear}} / {{item|Shield of the High Ruler|scale=0.75}}|Master Ninja Gear has a faster dash and a consistent dodge on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobility|{{item|Interstellar Stompers}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|accessoryMobility|{{item|Soaring Insignia}}|This no longer grants infinite flight.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-moonlord|accessoryOffense|{{item|Sand Shark Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner-stealth|pre-moonlord|accessoryOffense|{{item|Apollyon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buff|{{item|Super Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-moonlord|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-moonlord|buffOffense|{{item|Wrath Potion|s}}}}

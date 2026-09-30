@@ -1,0 +1,60 @@
+{
+  "exitWhenDone": true,
+  "itemStep": 1,
+  "sweepThai": true,
+  "progress": true,
+  "shots": [
+    {
+      "name": "mp-home",
+      "page": "home",
+      "lang": "en-US",
+      "wait": 60
+    },
+    {
+      "name": "mp-progression",
+      "page": "progression"
+    },
+    {
+      "name": "mp-entry-bereftvassal",
+      "page": "entry:BereftVassal"
+    },
+    {
+      "name": "mp-entry-solynmeet",
+      "page": "entry:SolynMeet"
+    },
+    {
+      "name": "mp-item-hermes",
+      "page": "item:Terraria/HermesBoots"
+    },
+    {
+      "name": "mp-th-home",
+      "page": "home",
+      "lang": "th-TH",
+      "wait": 90
+    },
+    {
+      "name": "mp-th-progression",
+      "page": "progression"
+    },
+    {
+      "name": "mp-c-sidebar-items",
+      "page": "home",
+      "lang": "en-US",
+      "click": [
+        92,
+        228
+      ],
+      "expect": "ItemsPage",
+      "wait": 30
+    },
+    {
+      "name": "mp-c-close",
+      "page": "home",
+      "click": [
+        -28,
+        27
+      ],
+      "expect": "closed"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "exitWhenDone": true,
+  "itemStep": 50,
+  "shots": [
+    { "name": "tip-auric", "page": "item:CalamityMod/AuricBar", "lang": "en-US", "hover": "CalamityMod/AuricBar", "wait": 40 },
+    { "name": "tip-shadowspec", "page": "item:CalamityMod/ShadowspecBar", "hover": "CalamityMod/ShadowspecBar" },
+    { "name": "tip-zenith", "page": "item:Terraria/Zenith", "hover": "Terraria/Zenith" }
+  ]
+}

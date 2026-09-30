@@ -1,0 +1,2720 @@
+{{legacy nav tab}}
+{{guide header|2}}
+{{dablink|This is the guide that relates to the {{eversions|desktop=y|console=y|mobile=y}}. For the guide that relates to the {{eversions|old-gen=y|3ds=y}}, see [[Legacy:Guide:Class setups]].}}
+{{for|detailed armor recommendations at every stage of the game|Guide:Armor progression}}
+{{redirect|Setup|the game mechanic|Loadouts}}
+
+''[[Terraria]]'' has no formal player class or leveling system. However, [[weapons]] can be grouped into four distinct categories based on their [[damage type]] – [[melee]], [[ranged]], [[magic]], and [[Summon weapons|summoner]]. Each class has its strengths and weaknesses and has a wide variety of weapons to choose from.
+
+; Melee
+The melee class sports high [[defense]] and decent crowd control, but many melee weapons have a short attack range, and those that are viable at a distance tend to do lower damage than their close-range counterparts. This encourages melee users to use their defense to tank hits while attacking with their stronger close-ranged weapons. Melee weapons include swords, spears, yoyos, and boomerangs.
+
+; Ranged
+Rangers are able to attack from a distance, doing high single-target, piercing, or splash damage. They utilize weapons like bows and guns, as well as thrown objects. Ranged users must constantly acquire [[Ammunition items|ammunition]], unless using the [[Endless Quiver]] or [[Endless Musket Pouch]] or using a ranged weapon that doesn't require ammunition such as the [[Toxikarp]] or [[Paintball Gun]].
+
+; Magic
+Mages are fragile but highly varied in attack style, often utilizing special mechanics such as homing, lifesteal, and area-of-effect damage. They are held back by reliance on [[mana]], which regenerates very slowly unless the [[Mana Regeneration]] buff is in effect. Magic users can often sustain their mana using [[Mana Star]]s when fighting many enemies at once, but must craft or purchase [[Recovery potions|mana potions]] if they wish to recover mana instantly during boss fights. Most pre-Plantera magic weapons are specialized for crowd control, with weaker single-target damage than other classes.
+
+; Summoner
+Summoners deal most of their damage using autonomous minions and/or sentries, and their attacks usually have excellent accuracy. However, most summoning armor sets have low defense in exchange for their high damage potential. [[Whips]] are primary weapons that focus summons and increase their damage. While many players do challenges where only summon damage is allowed ([[Whips]], [[Summon weapons]] and [[Mounts]]), the summoning class was balanced around the idea of the player also using the strongest normal weapon available to them in addition to minions and whips.<ref>https://forums.terraria.org/index.php?threads/journeys-end-1-4-official-item-balance-feedback-and-discussion-thread.88978/post-1995397</ref> 
+Summoners can gain synergistic benefits from hybridizing with other classes:
+* Melee provides significantly higher defense when using melee armor pieces on hybrid sets. Melee speed also improves the speed of whips, and summons gain armor penetration as long as a [[Sharpening Station|Sharpened]] buff is active while a melee weapon is held.
+* Ranged allows summoners to attack from far greater distances than they can reach with whips, and ranged weapons tend to be strong in general.
+* Magic provides a variety of long-ranged attacks, and whips can be used while waiting for mana to regenerate.
+* Whips cause minions to switch targets to whichever enemy was last struck, which can be undesirable when fighting bosses that spawn smaller enemies. In these cases, it's often ideal to manually set one's minions to target the boss, and use any weapon except whips. 
+
+Each class gains more complex abilities as the game progresses, enabling more strategic variety in combat. It is advised for players to try out every weapon they find to help determine what works best for them. It is also recommended to use [[buff potions]] and [[Recovery potions|healing potions]] to increase efficiency and survivability in combat (especially during [[events]] and [[boss]] fights).
+
+In general, it is recommended to focus on gear that benefits one class. Equipment slots are limited, and many [[armor]]s and [[accessories]] only benefit a specific class, especially later into the game. Summoners are an exception to this rule, since summons can deal damage alongside melee/ranged/magic weapons, so summoning gear will always provide a benefit as long as summons are being used. All classes can use at least two minions at all times even without using summoning gear (by using a [[Bewitching Table]]), so it's recommended to always utilize these free slots regardless of primary class.
+
+Note that although it is beneficial to only focus on one class between melee/ranged/magic at a time, there is little benefit to specializing in one class over the course of an entire playthrough, and one should strongly consider switching classes if they happen to obtain a powerful weapon from a different class.
+
+Even when not specifically using a hybrid set, backup weapons from another class can be helpful should the situation require a different weapon. For example, [[Giant Cursed Skull]]s might pose a threat to non-summoners, but a whip such as [[Durendal]] can kill them easily even without summon damage boosts.
+<!--
+
+-->{{options/set|infocard|css=width:260px;flex:1 0 260px;|class=guide-class-setups}}<!-- 
+-->{{options/set|item|wrap=y|icons=n|class=break|css=display:block;margin:0.5em 0;}}{{options/snap|item|inbox}}{{options/reset|item}}
+== Pre-Bosses ==
+Prior to encountering a [[Bosses|boss]], set bonuses from wooden and ore armor will almost exclusively provide additional defense, and accessories will not discriminate by weapon type when giving bonuses. When combined with the general scarcity of weapons and the need to survive, there is little point to sticking to a "class" this early on. For these reasons, players are recommended to make use of whatever they can get their hands on.  Players can acquire a gun or magic weapon early on by smashing one of the Shadow Orbs (in Corruption worlds) or the Crimson Hearts (in Crimson worlds).
+
+{{flexstart|css=gap:var(--layout-gap);}}<!--Pre-Bosses-->
+
+{{infocard/start|type=Pre-Bosses|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Starfury}}<!--
+	-->{{item|Blade of Grass|scale=0.85}}<!--
+	-->{{item|Amazon}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Enchanted Sword}}<!--
+	-->{{item|Trimarang}}<!--
+	-->{{item|Thorn Chakram}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ball O' Hurt|bignote={{footnote|name=Corruption}}}}<!--
+    -->{{item|Blade of Grass}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Flaming Mace}}<!--
+	-->{{item|Storm Spear}}<!--
+	-->{{item|The Rotted Fork|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Light's Bane|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Blood Butcherer|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Earlygame|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ancient Shadow armor|bignote={{footnote|name=AncientShadow|While it is theoretically possible to get in [[Crimson]] worlds with a [[Corrupt Statue]], it is usually only obtainable in [[Corruption]] worlds, unless an artificial Corruption is created in [[Hardmode]] via buying [[Corrupt Seeds]] from the [[Dryad]] while in a [[Graveyard]].}}}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Platinum armor}}<!--
+    -->{{item|Jungle armor}}<!--
+	-->{{item|Gold armor}}<!--
+	-->{{item|Gladiator armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Feral Claws}}<!--
+	-->{{item|White String}}<!--
+	-->{{item|Counterweights}}<!--
+    -->{{item|Magma Stone}}<!--
+-->{{infocard/box/end}}<!--
+
+
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Melee" end-->
+
+{{infocard/start|type=Pre-Bosses|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Boomstick}}<!--
+	-->{{item|Blood Rain Bow}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Musket|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|The Undertaker|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Minishark}}<!--
+	-->{{item|Paintball Gun}}<!--
+	-->{{item|Bone Javelin|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Tendon Bow|image=Tendon Bow.png/Demon Bow.png|Tendon/Demon Bow}}<!--
+	-->{{item|Grenade|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Bone Throwing Knife|s}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Earlygame|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ancient Shadow armor|bignote={{footnote|name=AncientShadow}}}}<!--
+	-->{{item|Gi}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Fossil armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Archery Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Frostburn Arrow|s}}<!--
+	-->{{item|Silver Bullet|s}}<!--
+	-->{{item|Tungsten Bullet|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Unholy Arrow|s}}<!--
+	-->{{item|Musket Ball|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Jester's Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Unholy Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Ranged" end-->
+
+{{infocard/start|type=Pre-Bosses|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+    -->{{item|Demon Scythe|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{item|Thunder Zapper}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+    -->{{item|Demon Scythe|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Diamond Staff}}<!--
+    -->{{item|Ruby Staff}}<!---
+    -->{{item|Vilethorn|bignote={{footnote|name=Corruption}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!---
+	-->{{item|Crimson Rod|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Earlygame|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Jungle armor}}<!---
+-->{{infocard/box/end|title=Defensive}}<!--
+-->{{infocard/box/start|title=Glass Cannon}}<!--
+	-->{{item|Wizard Hat}}<!--
+	-->{{item|Mystic Robe}}<!--
+	-->{{item|Jungle Pants}}<!--
+-->{{infocard/box/end|title=Glass Cannon}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Magic Hat}}<!--
+	-->{{item|Diamond Robe}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!--
+ 	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Magnet Flower}}<!--
+   -->{{item|Mana Regeneration Band}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Mana Potion}}<!--
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+Mages must increase their [[mana]] capacity through the use of {{item|Mana Crystal|s}} before magic weapons become viable. The [[Magic Hat]] and [[Wizard Hat]] will provide a set bonus when used in conjunction with any [[robe]]. [[Jungle armor]] and [[Ancient Cobalt armor]] can be used interchangeably, with each piece providing the same benefits, and the set bonus being given even when a mix of the 2 armors is used. Depending on the player's skill level, the [[Demon Scythe]] can technically be obtained at any point in the game, as Demons will always naturally spawn in [[the Underworld]].
+
+{{infocard/end}}<!--Infocard "Magic" end-->
+
+{{infocard/start|type=Pre-Bosses|name=Summoning|theme=summoning}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Minion Mixing}}<!--
+	-->{{item|Vampire Frog Staff|note=(1x)}}<!--
+	-->{{item|Flinx Staff|note=(2x)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Finch Staff}}<!--
+	-->{{item|Abigail's Flower}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Snapthorn}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Leather Whip}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Earlygame|Armor]]}}<!--
+	-->{{item|Jungle Hat}}<!--
+	-->{{item|Flinx Fur Coat}}<!--
+	-->{{item|Jungle Pants}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Feral Claws}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Summoning Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+{{infocard/end}}<!--Infocard "Summoning" end-->
+
+{{infocard/start|type=Pre-Bosses|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Earlygame|Armor]]}}<!--
+	-->{{item|Flinx Fur Coat}}<!--
+	-->{{item|Platinum armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+	-->{{item|Hermes Boots}}<!--
+	-->{{item|Magiluminescence}}<!--
+	-->{{item|Extra jump|Extra jump|image=Extra jumps in a Bottles.gif}}<!--
+	-->{{item|Balloon Pufferfish}}<!--
+	-->{{item|Shiny Red Balloon}}<!--
+	-->{{item|Frog Leg}}<!--
+	-->{{item|Lucky Horseshoe}}<!--
+	-->{{item|Panic Necklace}}<!--
+	-->{{item|Fledgling Wings}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+	-->{{item|Band of Regeneration}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+	-->{{item|Shark Tooth Necklace}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Healing Potion}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!--Pre-Bosses-->
+
+== Pre-[[Skeletron]]==
+
+After defeating the first [[bosses]], you gain access to the first few class-specific accessories and armor, along with [[Shadow armor|Shadow]]/[[Crimson armor|Crimson]] armor and [[Hellstone]], the final ore of pre-hardmode. For mages, mana management is less of a problem with an item like the [[Mana Flower]] and enough [[Mana Potion|Mana Potions]]. 
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-Skeletron -->
+
+{{infocard/start|type=Pre-Skeletron|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Hive-Five}}<!--
+	-->{{item|Flamarang}}<!--
+	-->{{item|Volcano}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Starfury}}<!--
+	-->{{item|Amazon}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Volcano}}<!--
+	-->{{item|Hive-Five}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Thorn Chakram}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Feral Claws}}<!--
+	-->{{item|White String}}<!--
+	-->{{item|Counterweights}}<!--
+	-->{{item|Magma Stone}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Molten armor}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Shadow armor|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Crimson armor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Sharpening Station}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!--
+	-->{{item|Flask of Poison}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Melee" end-->
+
+{{infocard/start|type=Pre-Skeletron|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Star Cannon|bignote={{footnote|name=pre-bonemanammo}}}}<!--
+	-->{{item|The Bee's Knees|note=(Wooden Arrows)}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Molten Fury}}<!--
+	-->{{item|Boomstick}}<!--
+	-->{{item|Pew-matic Horn}}<!--
+    -->{{item|Beenade|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Star Cannon|bignote={{footnote|name=pre-bonemanammo}}}}<!--
+	-->{{item|The Bee's Knees|note=(Wooden Arrows)}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Molten Fury}}<!--
+    -->{{item|Beenade|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Shadow armor|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Crimson armor|bignote={{footnote|name=Crimson}}}}<!--
+    -->{{item|Gi}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Fossil armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Archery Potion}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Hellfire Arrow|s}}<!---
+    -->{{item|Party Bullet|s}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Shimmer Arrow|s}}<!--
+	-->{{item|Frostburn Arrow|s}}<!--
+	-->{{item|Silver Bullet|s}}<!--
+	-->{{item|Tungsten Bullet|s}}<!--
+	-->{{item|Musket Ball|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Jester's Arrow|s}}<!--
+    -->{{item|Meteor Shot|s}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Unholy Arrow|s}}<!--
+	-->{{item|Frostburn Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Ranged" end-->
+
+{{infocard/start|type=Pre-Skeletron|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Demon Scythe}}<!--
+	-->{{item|Gray Zapinator}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Bee Gun}}<!--
+	-->{{item|Thunder Zapper}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Demon Scythe}}<!--
+	-->{{item|Gray Zapinator}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Space Gun}}<!--
+	-->{{item|Bee Gun}}<!--
+	-->{{item|Diamond Staff}}<!--
+	-->{{item|Ruby Staff}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Crimson Rod|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Weather Pain}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Jungle armor}}<!--
+-->{{infocard/box/end|title=Tank}}<!--
+-->{{infocard/box/start|title=Offensive}}<!---
+	-->{{item|Wizard Hat}}<!--
+	-->{{item|Mystic Robe}}<!--
+	-->{{item|Meteor Leggings}}<!--
+-->{{infocard/box/end|title=Offensive}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Magic Hat}}<!--
+	-->{{item|Diamond Robe}}<!--
+	-->{{item|Meteor armor|note=(Gray Zapinator)}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!--
+ 	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Magnet Flower}}<!--
+   -->{{item|Mana Regeneration Band}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Mana Potion}}<!--
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Magic" end-->
+
+{{infocard/start|type=Pre-Skeletron|name=Summoning|theme=summoning}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Minion Mixing}}<!--
+	-->{{item|Vampire Frog Staff|note=(1x)}}<!--
+	-->{{item|Flinx Staff|note=(2x)}}<!--
+	-->{{item|Imp Staff|note=(1x)}}<!--
+	-->{{item|Hornet Staff|note=(1x)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{item|Finch Staff|note=(Requires whip stacking to be effective)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Snapthorn}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Leather Whip}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Sentries}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Houndius Shootius}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Ballista Rod}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Obsidian armor}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Bee armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{item|Feral Claws}}<!--
+	-->{{item|Pygmy Necklace}}<!--
+	-->{{item|Apprentice's Scarf}}<!--
+	-->{{item|Squire's Shield}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Summoning Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Summoning" end-->
+
+{{infocard/start|type=Pre-Skeletron|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor_progression#Late pre-Hardmode|Armor]]}}<!--
+   -->{{item|Bee armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Bundle of Horseshoe Balloons}}<!--
+	-->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Amphibian Boots}}<!--
+	-->{{item|Lightning Boots}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Extra jump|Extra jump|image=Extra jumps Horseshoe Balloon.gif}}<!--
+	-->{{item|Spectre Boots}}<!--
+	-->{{item|Magiluminescence}}<!--
+	-->{{item|Panic Necklace}}<!--
+-->{{infocard/box/end}}<!--
+    --><div> {{anchor|pre_skeletron_survivability}}<!--
+
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Brain of Confusion|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Band of Regeneration}}<!--
+-->{{infocard/box/end}}<!--
+    --></div><!--
+
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+	-->{{item|Shark Tooth Necklace}}<!--
+    -->{{item|Stinger Necklace}}<!--
+    -->{{item|Hive Pack}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Healing Potion}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!--Pre-Skeletron-->
+
+== Pre-[[Wall of Flesh]] ==
+Defeating Skeletron provides access to the [[Dungeon]], giving access to [[Necro armor]] and new weapons from Dungeon and [[Shadow Chest]]s.
+<section begin="prewall" /> <!-- This section is transcluded on [[Guide:Walkthrough]]. Caution: All {{footnote}}s used in this section must have their contents defined here at least once. Otherwise they will cause an error on the Guide:Walkthrough page. -->
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-Wall of Flesh -->
+
+{{infocard/start|type=Pre-Wall of Flesh|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!-- 
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!-- 
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Night's Edge|scale=0.85}}<!--
+-->{{infocard/box/end}}<!--	
+	-->{{item|Dark Lance|scale=0.75}}<!--
+	-->{{item|Hive-Five}}<!--
+	-->{{item|Flamarang}}<!--
+	-->{{item|Cascade}}<!--
+    -->{{item|Starfury}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Night's Edge|scale=0.85}}<!--
+	-->{{item|Sunfury|scale=0.85}}<!--
+-->{{infocard/box/end}}<!--	
+	-->{{item|Dark Lance|scale=0.75}}<!--
+	-->{{item|Hive-Five}}<!--
+	-->{{item|Cascade}}<!--
+-->{{infocard/box/end}}<!--	
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+	-->{{item|Molten armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!-- 
+	-->{{item|Feral Claws}}<!--
+	-->{{item|Counterweights|Counterweight}}<!--
+	-->{{item|Strings|String|image=White String.png}}<!--
+	-->{{item|Magma Stone}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Sharpening Station}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!--
+	-->{{item|Flask of Poison}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Melee" end-->
+
+{{infocard/start|type=Pre-Wall of Flesh|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!-- 
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Star Cannon|bignote={{footnote|name=pre-bonemanammo|Due to this weapon being expensive to use, this weapon should be used with [[Fossil armor]] for its ammo conservation.}}}}<!--
+    -->{{item|Phoenix Blaster}}<!--
+	-->{{item|Hellwing Bow}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|The Bee's Knees|note=(Wooden Arrows)}}<!-- 
+	-->{{item|Quad-Barrel Shotgun}}<!--
+    -->{{item|Beenade|s}}<!--
+	-->{{item|Molten Fury}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Star Cannon|bignote={{footnote|name=pre-bonemanammo}}}}<!--
+	-->{{item|Hellwing Bow|note=(Unholy or Wooden Arrows){{footnote|name=hellwingspecial|Unholy Arrows are better against medium crowd of up to 6 enemies, Wooden Arrows are better against large crowds, but due to the bow's inaccuracy, it is difficult to pierce every enemy with it.}}}}<!-- 
+-->{{infocard/box/end}}<!--
+	-->{{item|The Bee's Knees|note=(Wooden Arrows)}}<!-- 
+	-->{{item|Phoenix Blaster}}<!--
+    -->{{item|Beenade|s}}<!--
+	-->{{item|Molten Fury}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+	-->{{item|Necro armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Archery Potion}}<!--
+	-->{{item|Ammo Reservation Potion}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Hellfire Arrow|s}}<!--
+	-->{{item|Party Bullet|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Jester's Arrow|s}}<!--
+	-->{{item|Meteor Shot|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Unholy Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Ranged" end-->
+
+{{infocard/start|type=Pre-Wall of Flesh|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!-- 
+-->{{infocard/box/start|title=Single-Target Weapons}}<!-- 
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Demon Scythe}}<!--
+    -->{{item|Aqua Scepter}}<!--
+	-->{{item|Gray Zapinator}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Flamelash}}<!--
+	-->{{item|Flower of Fire}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Aqua Scepter}}<!--
+	-->{{item|Demon Scythe}}<!--
+	-->{{item|Gray Zapinator}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Water Bolt}}<!--
+    -->{{item|Flamelash}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Crimson Rod|bignote={{footnote|name=Crimson|Exclusive to [[Crimson]] worlds, unless an artificial Crimson is created in [[Hardmode]] via buying [[Crimson Seeds]] from the [[Dryad]] while in a [[Graveyard]].}}}}<!-- the content of this footnote must be defined within this section at least once; see the top of this section for an explanation
+	-->{{item|Weather Pain}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Defensive}}<!--
+	-->{{item|Jungle armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Wizard Hat}}<!--
+	-->{{item|Mystic Robe}}<!--
+	-->{{item|Meteor Leggings}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Magic Hat}}<!--
+	-->{{item|Diamond Robe}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!-- 
+	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Magnet Flower}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!-- 
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+
+{{infocard/end}}<!--Infocard "Magic" end-->
+
+{{infocard/start|type=Pre-Wall of Flesh|name=Summoning|theme=summon}}
+{{options/restore|item|inbox}}<!-- 
+-->{{infocard/box/start|title=Minions}}<!--
+    -->{{infocard/box/start|title=Best}}<!--
+        -->{{infocard/box/start|title=Minion Mixing}}<!--
+	        -->{{item|Vampire Frog Staff|note=(2x)}}<!--
+	        -->{{item|Flinx Staff|note=(2x)}}<!--
+	        -->{{item|Imp Staff|note=(1x)}}<!--
+	    -->{{infocard/box/end}}<!--
+		-->{{item|Finch Staff|note=(Requires whip stacking to be effective)}}<!--
+	-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Spinal Tap}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Snapthorn}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+	-->{{item|Bee armor}}<!--
+	-->{{item|Obsidian armor}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!-- 
+	-->{{item|Feral Claws}}<!--
+	-->{{item|Pygmy Necklace}}<!--
+	-->{{item|Apprentice's Scarf}} or {{item|Squire's Shield}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!-- 
+	-->{{item|Summoning Potion}}<!--
+	-->{{item|Bewitching Table}}<!--
+	-->{{item|War Table}}<!--
+	-->{{item|Flask of Poison}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+[[Bee armor]] is preferable if you are planning to use your minions more often and would like to play a more passive role focusing on dodging more than attacking yourself, but [[Obsidian armor]] trades 1 of your minions for +7% additional summon damage, +30% whip range, and +15% speed.
+
+{{infocard/end}}<!--Infocard "Summoning" end-->
+
+{{infocard/start|type=Pre-Wall of Flesh|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+ 
+-->{{infocard/box/start|title=[[Guide:Armor progression#Late pre-Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Hybrid Summoner}}<!--
+	-->{{item|Bee Headgear}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Molten armor}}<!--
+	-->{{item|Gladiator armor}}<!--
+	-->{{item|Crimson armor|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Shadow armor|bignote={{footnote|name=Corruption|Exclusive to [[Corruption]] worlds, unless an artificial Corruption is created in [[Hardmode]] via buying [[Corrupt Seeds]] from the [[Dryad]] while in a [[Graveyard]].}}}}<!-- the content of this footnote must be defined within this section at least once; see the top of this section for an explanation
+	-->{{item|Gi}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Bundle of Horseshoe Balloons}}<!--
+	-->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Amphibian Boots}}<!--
+	-->{{item|Lightning Boots|note=(or better)|image=Lightning Boots.png/Frostspark Boots.png/Terraspark Boots.png}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Extra jump|Extra jump|image=Extra jumps Horseshoe Balloon.gif}}<!--
+	-->{{item|Magiluminescence}}<!--
+	-->{{item|Panic Necklace}}<!--
+-->{{infocard/box/end}}<!--
+
+    --><div> {{anchor|pre-wall survivability}}<!--
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Brain of Confusion|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Obsidian Shield}}<!--
+	-->{{item|Stinger Necklace}}<!--
+-->{{infocard/box/end}}<!--
+
+    --></div><!--
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+	-->{{item|Stinger Necklace}}<!--
+	-->{{item|Shark Tooth Necklace}}<!--
+	-->{{item|Bone Glove}}<!--
+	-->{{item|Bone Helm}}<!--
+	-->{{item|Hive Pack}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Mounts}}<!--
+	-->{{item|Golf Cart|Golf Cart}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!-- 
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Heartreach Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Gravitation Potion}}<!--
+	-->{{item|Slice of Cake}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+
+{{flexend|}}<!-- Wall of Flesh --><section end="prewall" />
+
+== Pre-[[mechanical bosses]] ==
+At this point in the game, damage bonuses from armor and accessories become more significant, so it is recommended to choose a class to specialize in. Ranger is generally agreed to have the best weapons at this stage. However, melee also improves significantly due to melee armors having significantly higher defense than any other class. Magic is still heavily focused on crowd control, making it an effective class for those who want to take out [[The Destroyer]] first. Summoners have their best weapons locked behind [[Dreadnautilus]] and [[Queen Slime]], but they receive Hardmode upgrades earlier than the other classes because Spider equipment can be crafted at an Iron or Lead Anvil. It is recommended to mix your chosen class with summoner if you are running a primarily offensive loadout.
+
+This is also the point where a fully-defensive build begins to diverge from damage builds thanks to the availability of the [[Flesh Knuckles]] and [[Star Veil]] coupled with greater access to damage accessories, so it is a good time to decide whether you want to run a primarily offensive or defensive loadout and [[reforge]] your accessories accordingly.
+
+<section begin="premech" /><!-- This section is transcluded on [[Guide:Walkthrough/Hardmode]]. Caution: All {{footnote}}s used in this section must have their contents defined here at least once. Otherwise they will cause an error on the Guide:Walkthrough/Hardmode page -->
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-mechanical bosses -->
+
+{{infocard/start|type=Pre-Mech Bosses|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single Target Weapons}}<!--
+
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Bananarang}}<!--
+	-->{{item|Shadowflame Knife}}<!--
+	-->{{item|Chain Guillotines|bignote={{footnote|name=Corruption|Exclusive to [[Corruption]] worlds, unless an artificial Corruption is created in [[Hardmode]] via buying [[Corrupt Seeds]] from the [[Dryad]] while in a [[Graveyard]].}}}}<!-- the content of this footnote must be defined within this section at least once; see the top of this section for an explanation
+	-->{{item|Fetid Baghnakhs|bignote={{footnote|name=Tank_Build|Most effective on a tank build.}}}}<!--
+-->{{infocard/box/end}}<!--	
+-->{{infocard/box/start|title=Great}}<!--
+	-->{{item|Amarok}}<!--
+	-->{{item|Ice Sickle}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Hel-Fire}}<!--
+	-->{{item|Gradient}}<!--
+	-->{{item|Chik}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Drippler Crippler}}<!--
+	-->{{item|Fetid Baghnakhs|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--	
+	-->{{item|Flying Knife}}<!--
+	-->{{item|Dao of Pow}}<!--
+	-->{{item|Bladetongue}}<!--
+-->{{infocard/box/end}}<!--	
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Early Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Offensive}}<!--
+    -->{{item|Adamantite Helmet}}<!--
+    -->{{item|Frost Breastplate}}<!--
+    -->{{item|Mythril Greaves}}<!--
+-->{{infocard/box/end}}<!--	
+-->{{infocard/box/start|title=Defensive}}<!--
+    -->{{item|Titanium Mask}}<!--
+    -->{{item|Frost Breastplate}}<!--
+    -->{{item|Frost Leggings}}<!--
+-->{{infocard/box/end}}<!--	
+-->{{infocard/box/end}}<!--
+	-->{{item|Titanium armor|image=Titanium armor Mask.png}}<!--
+	-->{{item|Adamantite armor|image=Adamantite armor Helmet.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!-- 
+	-->{{item|Warrior Emblem}}<!--
+	-->{{item|Yoyo Bag}}<!-- 
+	-->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles|If the player is playing [[Multiplayer]] and is a tank, the [[Flesh Knuckles]] and/or its upgrades should be used for increased [[aggro]].}}}}<!--
+	-->{{item|Moon Charm}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions/Flasks}}<!-- 
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson|Exclusive to [[Crimson]] worlds, unless an artificial Crimson is created in [[Hardmode]] via buying [[Crimson Seeds]] from the [[Dryad]] while in a [[Graveyard]].}}}}<!-- the content of this footnote must be defined within this section at least once; see the top of this section for an explanation
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Cursed Flames|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Sharpening Station}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Melee" end-->
+
+{{infocard/start|type=Pre-Mech Bosses|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Daedalus Stormbow|note=(Ichor Arrow/Holy Arrow)}}<!--
+	-->{{item|Dart Rifle|image=Dart Rifle.png/Dart Pistol.png|Dart Rifle/Pistol|note=(Ichor Dart/Cursed Dart)}}<!--
+    -->{{item|Coin Gun|bignote={{footnote|name=pre-mechammo|Due to this weapon's high ammo cost, it should be used with [[Adamantite armor]] for its ammo conservation.}}|note=(Gold Coin)}}<!--
+    -->{{item|Uzi}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Gatligator|bignote={{footnote|name=Tank_Build}}}}<!--
+    -->{{item|Onyx Blaster}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Star Cannon|bignote={{footnote|name=pre-mechammo}}}}<!--
+	-->{{item|Dart Rifle|image=Dart Rifle.png/Dart Pistol.png|Dart Rifle/Pistol|note=Cursed/Crystal Dart}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Uzi|note=(Endless Musket Pouch)}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Early Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Offensive}}<!--
+	-->{{item|Adamantite Mask}}<!--
+	-->{{item|Frost Breastplate}}<!--
+	-->{{item|Mythril Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+    -->{{item|Frost armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Adamantite armor|image=Adamantite armor Mask.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ranger Emblem}}<!--
+-->{{infocard/box/end}}<!-- 
+	-->{{item|Magic Quiver|bignote={{footnote|name=Quivers|Quivers don't boost ammunition damage, so they add less than 10% total damage. Due to this, accessories that grant general damage boosts are preferred.}}}}<!-- 
+	-->{{item|Stalker's Quiver|bignote={{footnote|name=Quivers}}}}<!-- 
+	-->{{item|Molten Quiver|bignote={{footnote|name=Quivers}}}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Archery Potion}}<!--
+	-->{{item|Ammo Reservation Potion}}<!--
+	-->{{item|Ammo Box}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Crystal Bullet|bignote={{footnote|name=Crystal Bullet|Highest single-target {{DPS}}.}}}}<!--
+	-->{{item|Ichor Arrow|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Cursed Arrow|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Ichor Dart|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control}}<!--
+	-->{{item|Cursed Dart|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Crystal Dart}}<!--
+	-->{{item|Jester's Arrow}}<!--
+	-->{{item|Unholy Arrow}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Ranged" end-->
+
+{{infocard/start|type=Pre-Mech Bosses|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!-- 
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Orange Zapinator}}<!--
+    -->{{item|Spirit Flame}}<!--
+    {{DPS}} for Orange Zapinator: (100*(1+10/50))*(60/36)=200
+-->{{infocard/box/end}}<!--
+	-->{{item|Sky Fracture}}<!--
+	-->{{item|Crystal Serpent}}<!--
+	-->{{item|Meteor Staff}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!-- 
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Orange Zapinator}}<!--
+	-->{{item|Life Drain|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Meteor Staff}}<!--
+	-->{{item|Golden Shower|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Shadowflame Hex Doll|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Nimbus Rod}}<!--
+	-->{{item|Clinger Staff}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Early Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Offensive}}<!--
+	-->{{item|Adamantite Headgear|}}<!--
+	-->{{item|Adamantite Breastplate}}<!--
+	-->{{item|Forbidden Treads}}<!--
+-->{{infocard/box/end}}<!-- 
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Titanium Mask}}<!--
+	-->{{item|Adamantite Breastplate}}<!--
+	-->{{item|Forbidden Treads}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Adamantite armor|image=Adamantite armor Headgear.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!-- 
+	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Sorcerer Emblem}}<!-- 
+	-->{{item|Mana Cloak}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!-- 
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+	-->{{item|Crystal Ball}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Magic" end-->
+
+{{infocard/start|type=Pre-Mech Bosses|name=Summoning|theme=summon}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Sanguine Staff|bignote={{footnote|name=Firecracker|Should be used with [[Firecracker]].}}}}<!--
+	-->{{item|Blade Staff}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Spider Staff}}<!--
+	-->{{item|Abigail's Flower|bignote={{footnote|name=Firecracker}}}}<!-- 
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Firecracker}}<!--
+	-->{{item|Cool Whip}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Spinal Tap}}<!--
+	-->{{item|Snapthorn}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Sentries}}<!--
+	-->{{item|Queen Spider Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Early Hardmode|Armor]]}}<!--
+
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Spider armor}}<!--
+-->{{infocard/box/end}}<!--	
+
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Titanium Mask}}<!--
+	-->{{item|Forbidden Robes}}<!--
+	-->{{item|Spider Greaves}}<!--
+-->{{infocard/box/end}}<!--	
+
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Accessories}}<!-- 
+	-->{{item|Summoner Emblem}}<!--
+	-->{{item|Berserker's Glove}}<!--
+	-->{{item|Pygmy Necklace}}<!-- 
+    -->{{item|Apprentice's Scarf}} or {{item|Squire's Shield}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!-- 
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Cursed Flames|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Summoning Potion}}<!--
+	-->{{item|Bewitching Table}}<!-- 
+	-->{{item|War Table}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+For the mechanical bosses you have a choice between two whip-summon combinations. The [[Firecracker]] pairs well with the [[Sanguine Staff]] due to its high base damage getting increased with the Firecracker's debuff that increases summon damage by 2.75×, as well as the [[Snapthorn]] in order to attack faster with the Firecracker. The [[Blade Staff]] pairs well with whip stacking the [[Cool Whip]], [[Durendal]] (after one mechanical boss), [[Spinal Tap]], and [[Snapthorn]] to the Blade Staff's low damage highly benefiting from the tag damage that the mentioned whips inflict.
+
+{{infocard/end}}<!--Infocard "Summoning" end-->
+
+{{infocard/start|type=Pre-Mech Bosses|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Early Hardmode|Armor]]}}<!--
+-->{{infocard/box/start|title=Hybrid Summoner}}<!--
+	-->{{item|Spider Greaves|bignote={{footnote|name=Spidermythril|Use this instead of [[Mythril Greaves]]. The [[Orichalcum Leggings]] are a weaker alternative.}}}}<!-- 
+	-->{{item|Forbidden Robes|bignote={{footnote|Mages should use this instead of [[Adamantite Breastplate]].}}}}<!-- 
+-->{{infocard/box/end}}<!--
+	-->{{item|Crystal Assassin armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Fairy Wings|Wings|image=Fairy Wings.png/Frozen Wings.png/Fin Wings.png/Harpy Wings.png}}<!--
+    -->{{item|Bundle of Horseshoe Balloons|bignote={{footnote|name=use with Mounts|This is especially strong if used with mounts.}}}}<!--
+	-->{{item|Amphibian Boots}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+    -->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Lightning Boots|note=(or better)|image=Lightning Boots.png/Frostspark Boots.png/Terraspark Boots.png}}<!--
+-->{{infocard/box/end}}<!--
+--><div> {{anchor|pre-mech survivability}}<!--
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Star Veil}}<!--
+	-->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Brain of Confusion|bignote={{footnote|name=Crimson}}}}<!--
+    -->{{item|Flesh Knuckles|bignote={{footnote|name=flesh knuckles}}}}<!--
+    -->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Ankh Shield|note=(or [[Obsidian Shield]])}}<!--
+	-->{{item|Charm of Myths}}<!--
+	-->{{item|Frozen Turtle Shell}}<!--
+-->{{infocard/box/end}}<!--
+--></div><!--
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Putrid Scent|bignote={{footnote|name=Corruption}}}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Stinger Necklace}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Mounts}}<!-- 
+	-->{{item|Goat Mount|Goat}}<!--
+	-->{{item|Unicorn Mount|Unicorn}}<!--
+	-->{{item|Basilisk Mount|Basilisk}}<!--
+	-->{{item|Lilith's Necklace|Wolf|image=Wolf (mount).png}}<!--
+	-->{{item|Winged Slime Mount|Winged Slime}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!-- 
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Heartreach Potion}}<!--
+	-->{{item|Lifeforce Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Slice of Cake}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!-- Pre-mechanical bosses --><section end="premech" />
+
+== Pre-[[Plantera]] ==
+At this point, players are expected to have chosen between melee, ranged, magic, summoning, or a hybrid of summoning and another class. This is also where significant armor variety starts to show up within the same class, with players choosing between Hallowed armor, Chlorophyte armor, and tier 2 Old One's Army armor. For magic and ranged, the choice lies between Hallowed armor (for offensive loadouts in need of a defensive effect) or Chlorophyte armor (for all-out offense). Melee users should use Turtle armor for pure defense, or some combination of Hallowed/Chlorophyte Mask, Monk's Shirt/Squire's Plating, and Squire's Greaves for the highest overall stats. If a reliable source of [[Defender Medal]]s is not available, full Chlorophyte armor also works for offensive melee sets, and for defensive ranged/magic sets.
+
+As was the case in previous stages, ranged provides the highest long-distance {{DPS}}, melee provides the best tanking ability, magic provides the most unique weapon effects, and summoner provides the most effortless mob clearing.
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-Plantera -->
+
+{{infocard/start|type=Pre-Plantera|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|True Excalibur}}<!--
+	-->{{item|True Night's Edge}}<!--
+	-->{{item|Death Sickle}}<!--
+	-->{{item|Fetid Baghnakhs|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--	
+	-->{{item|Yelets}}<!--
+	-->{{item|Red's Throw}}<!--
+	-->{{item|Valkyrie Yoyo}}<!--
+	-->{{item|Mushroom Spear}}<!--
+	-->{{item|Chlorophyte Partisan}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|True Excalibur}}<!--
+	-->{{item|True Night's Edge}}<!--
+	-->{{item|Fetid Baghnakhs|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Drippler Crippler}}<!--
+-->{{infocard/box/end}}<!--	
+	-->{{item|Death Sickle}}<!--
+	-->{{item|Chlorophyte Partisan}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Hallowed Mask}}<!--
+	-->{{item|Turtle Scale Mail}}<!--
+	-->{{item|Squire's Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Hallowed Mask}}<!-- 
+	-->{{item|Monk's Shirt}}<!--
+	-->{{item|Squire's Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Turtle armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Hallowed armor|image=Hallowed armor Mask.png}}<!--
+	-->{{item|Chlorophyte armor|image=Chlorophyte armor Mask.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Warrior Emblem}}<!--
+	-->{{item|Mechanical Glove}}<!--
+	-->{{item|Fire Gauntlet}}<!-- 
+	-->{{item|Yoyo Bag}}<!--
+	-->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions/Flasks}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Cursed Flames}}<!--
+	-->{{item|Sharpening Station}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "melee" end-->
+
+{{infocard/start|type=Pre-Plantera|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flamethrower}}<!--
+	-->{{item|Chlorophyte Shotbow|note=(Holy Arrows)}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Megashark|note=(Crystal Bullets)}}<!--
+	-->{{item|Phantom Phoenix|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flamethrower}}<!--
+	-->{{item|Pulse Bow|note=(Cursed/Ichor Arrows)}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Megashark|note=(High Velocity Bullets)}}<!--
+	-->{{item|Phantom Phoenix|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Chlorophyte Shotbow|note=(Chlorophyte Arrows)}}<!--
+	-->{{item|Super Star Shooter}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Chlorophyte armor|image=Chlorophyte armor Helmet.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+    -->{{item|Chlorophyte armor|image=Chlorophyte armor Mask.png|note=(Mask)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Adamantite Mask}}<!--
+	-->{{item|Huntress's Jerkin}}<!--
+	-->{{item|Mythril Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Hallowed armor|image=Hallowed armor Helmet.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ranger Emblem}}<!--
+-->{{infocard/box/end}}<!-- 
+	-->{{item|Magic Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+	-->{{item|Stalker's Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+	-->{{item|Molten Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Archery Potion}}<!--
+	-->{{item|Ammo Reservation Potion}}<!--
+	-->{{item|Ammo Box}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Crystal Bullet|s|bignote={{footnote|name=Crystal Bullet}}}}<!--
+	-->{{item|Holy Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Ichor Arrow|s|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Fallen Star|s}}<!--
+	-->{{item|Ichor Dart|s|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|High Velocity Bullet|s|bignote={{footnote|name=Crystal Bullet}}}}<!--
+	-->{{item|Chlorophyte Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Cursed Dart|s}}<!--
+	-->{{item|Fallen Star|s}}<!--
+	-->{{item|Crystal Dart|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "ranged" end-->
+
+{{infocard/start|type=Pre-Plantera|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Venom Staff}}<!--
+	-->{{item|Orange Zapinator}}<!--
+	-->{{item|Shadowflame Hex Doll|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Tome of Infinite Wisdom|note=({{key|use}})}}<!--
+	-->{{item|Unholy Trident}}<!--
+	-->{{item|Rainbow Rod}}<!--
+	-->{{item|Spirit Flame}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Venom Staff}}<!--
+	-->{{item|Orange Zapinator}}<!--
+    -->{{item|Magical Harp}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Tome of Infinite Wisdom|note=({{key|open}})}}<!--
+	-->{{item|Unholy Trident}}<!--
+	-->{{item|Rainbow Rod}}<!--
+    -->{{item|Life Drain|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Nimbus Rod}}<!--
+	-->{{item|Clinger Staff|bignote={{footnote|name=Corruption}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Chlorophyte armor|image=Chlorophyte armor Headgear.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Hallowed Headgear}}<!--
+	-->{{item|Chlorophyte Plate Mail}}<!--
+	-->{{item|Apprentice's Trousers}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+    -->{{item|Hallowed Headgear}}<!--
+    -->{{item|Squire's Plating}}<!-- 
+    -->{{item|Apprentice's Trousers}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Hallowed armor|image=Hallowed armor Headgear.png}}<!--
+	-->{{item|Forbidden Treads}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Celestial Emblem}}<!--
+	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Sorcerer Emblem}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+	-->{{item|Crystal Ball}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "magic" end-->
+
+{{infocard/start|type=Pre-Plantera|name=Summoning|theme=summon}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Minion Mixing}}<!--
+	-->{{item|Spider Staff|note=(3x)}}<!--
+	-->{{item|Optic Staff|note=(Rest of the minion slots)}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Blade Staff|note=(Requires whip stacking to be best)}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Abigail's Flower|bignote={{footnote|name=Firecracker}}}}<!--
+	-->{{item|Sanguine Staff|bignote={{footnote|name=Firecracker}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Durendal}}<!--
+	-->{{item|Firecracker}}<!--
+	-->{{item|Cool Whip}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Spinal Tap}}<!--
+	-->{{item|Snapthorn}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Sentries}}<!--
+	-->{{item|Queen Spider Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Hallowed armor|image=Hallowed armor Hood.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Spider armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Squire armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Summoner Emblem|}}<!--
+	-->{{item|Berserker's Glove}}<!--
+	-->{{item|Pygmy Necklace}}<!-- 
+    -->{{item|Apprentice's Scarf}}<!--
+	-->{{item|Squire's Shield}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Cursed Flames|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Summoning Potion}}<!--
+	-->{{item|Bewitching Table}}<!--
+	-->{{item|War Table}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+For [[Plantera]] the same whip-summon combinations apply but most summoners replace the [[Sanguine Staff]] with the [[Optic Staff]] after defeating [[The Twins]].
+
+The Tavernkeep's armors provide minion and sentry bonuses while also providing significant melee, ranged, and magic bonuses. Hybridization is required to bring out their full potential. When using the Blade Staff, be sure to use Durendal, Snapthorn, Spinal Tap, and Flask of Ichor for best efficiency.
+
+{{infocard/end}}<!--Infocard "summoning" end-->
+
+{{infocard/start|type=Pre-Plantera|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Hybrid Summoner}}<!--
+    -->{{item|Forbidden Robes|bignote={{footnote|Mages should use this instead of [[Mystic Robe]] or [[Chlorophyte Plate Mail]]. The [[Apprentice's Robe]] is a weaker alternative.}}}}<!--
+    -->{{item|Spider Greaves|bignote={{footnote|name=Spidermythril|}}}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Crystal Assassin armor}}<!--
+	-->{{item|Squire's Great Helm}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+    -->{{item|Wings|image=Jetpack.png/Butterfly Wings.png/Bee Wings.png/Flame Wings.png/Bat Wings.png}}<!--
+    -->{{item|Amphibian Boots}}<!--
+	-->{{item|Bundle of Horseshoe Balloons|bignote={{footnote|name=use with Mounts}}}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Lightning Boots|note=(or better)|image=Lightning Boots.png/Frostspark Boots.png/Terraspark Boots.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+--><div> {{anchor|pre-plant survivability}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+    -->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+    -->{{item|Brain of Confusion|bignote={{footnote|name=Crimson}}}}<!--
+    -->{{item|Star Veil}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Ankh Shield|note=(or [[Obsidian Shield]])}}<!--
+	-->{{item|Charm of Myths}}<!--
+	-->{{item|Moon Stone}}<!--
+    -->{{item|Flesh Knuckles|bignote={{footnote|name=flesh knuckles}}}}<!--
+    -->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+-->{{infocard/box/end}}<!--
+--></div><!--
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Avenger Emblem}}<!--
+    -->{{item|Moon Stone}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Putrid Scent|bignote={{footnote|name=Corruption}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mounts}}<!--
+	-->{{item|Winged Slime Mount|Winged Slime}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Heartreach Potion}}<!--
+	-->{{item|Lifeforce Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Slice of Cake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+The [[Shield of Cthulhu]] remains viable well into [[Hardmode]] because of its useful dash ability.
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!-- Pre-Plantera -->
+
+== Pre-[[Golem]] ==
+With the Hardmode [[Dungeon]] and the final version of the [[Solar Eclipse]] now available, players have access to a variety of new equipment. Furthermore, any [[Biome Key]]s you have obtained are now usable. You could attempt to bypass this stage by killing the [[Empress of Light]], [[Duke Fishron]], or summoning the [[Frost Moon]], but most players will find it easier and more logical to kill Golem first.
+
+The transition from pre-Plantera to post-Plantera comes with a significant improvement to the equipment available, with the most prominent new items being melee weapons ([[Terra Blade]], [[Vampire Knives]]) and magic armor ([[Spectre armor]]). With the exception of the Terra Blade providing near-endgame levels of power, the classes are otherwise very balanced at this stage.
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-Golem -->
+
+{{infocard/start|type=Pre-Golem|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Terra Blade|note=gloves should be used over emblems}}<!--
+	-->{{item|Vampire Knives|bignote={{footnote|name=VampireKnives|Always exclusive to [[Crimson]] worlds even if an artificial biome is created. If one wants to obtain this weapon on a corruption world, then they will have to go into a [[crimson]] or [[drunk world|drunk]] world and kill [[Plantera]] on the other world.}}}}<!--
+	<!-- Please do NOT add any item requiring the player to summon the Frost or Pumpkin Moon or defeat Golem, Empress of Light, or Duke Fishron to this section.
+-->{{infocard/box/end}}<!--
+	-->{{item|Keybrand|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Psycho Knife|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Scourge of the Corruptor|bignote={{footnote|name=CorruptScourge|Always exclusive to [[Corruption]] worlds even if an artificial biome is created. If one wants to obtain this weapon on a crimson world, then they will have to go into a [[corrupt]] or [[drunk world]] and kill [[Plantera]] on the other world.}}}}<!--
+	-->{{item|Seedler}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+	-->{{item|The Eye of Cthulhu}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+	-->{{item|Flower Pow}}<!--
+	-->{{item|Paladin's Hammer}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Hallowed Mask}}<!--
+	-->{{item|Squire's Plating}}<!--
+	-->{{item|Squire's Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Hallowed Mask}}<!--
+	-->{{item|Monk's Shirt}}<!--
+	-->{{item|Squire's Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Turtle armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Hallowed armor|image=Hallowed armor Mask.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Warrior Emblem}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Mechanical Glove}}<!--
+	-->{{item|Fire Gauntlet}}<!--
+	-->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Yoyo Bag}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions/Flasks}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor}}<!--
+	-->{{item|Flask of Venom}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Sharpening Station}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "melee" end-->
+
+{{infocard/start|type=Pre-Golem|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Nail Gun}}<!--
+	<!-- Please do NOT add any item requiring the player to summon the Frost or Pumpkin Moon or defeat Golem, Empress of Light, or Duke Fishron to this section.
+-->{{infocard/box/end}}<!--
+	-->{{item|Sniper Rifle}}<!--
+	-->{{item|Chlorophyte Shotbow}}<!--
+	-->{{item|Piranha Gun}}<!--
+	-->{{item|Venus Magnum}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Nail Gun}}<!--
+	-->{{item|Pulse Bow|note=(Venom Arrows)}}<!--
+	<!-- Please do NOT add any item requiring the player to summon the Frost or Pumpkin Moon or defeat Golem, Empress of Light, or Duke Fishron to this section.
+-->{{infocard/box/end}}<!--
+	-->{{item|Piranha Gun}}<!--
+	-->{{item|Venus Magnum|note=(Endless Musket Pouch)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+	-->{{item|Shroomite armor}}<!--
+	-->{{item|Mythril Greaves}}<!--
+	-->{{item|Adamantite Mask|note=to be used with Rockets}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ranger Emblem}}<!--
+-->{{infocard/box/end}}<!-- 
+	-->{{item|Magic Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+	-->{{item|Stalker's Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+	-->{{item|Molten Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Archery Potion}}<!--
+	-->{{item|Ammo Reservation Potion}}<!--
+	-->{{item|Ammo Box}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Crystal Bullet|s|bignote={{footnote|name=Crystal Bullet}}}}<!--
+	-->{{item|Ichor Arrow|s|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Chlorophyte Bullet|s}}<!--
+	-->{{item|Venom Arrow|s}}<!--
+	-->{{item|Holy Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Mini Nuke I|s}}<!--
+	-->{{item|Chlorophyte Arrow|s}}<!--
+	-->{{item|High Velocity Bullet|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Nano Bullet|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "ranged" end-->
+
+{{infocard/start|type=Pre-Golem|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Spectre Staff|scale=0.8}}<!--
+	-->{{item|Inferno Fork|scale=0.8}}<!--
+	<!-- Please do NOT add Razorpine, Blizzard Staff, Bubble Gun, Razorblade Typhoon, Bat Scepter, Stellar Tune, or Nightglow to this section.
+-->{{infocard/box/end}}<!--
+	-->{{item|Wasp Gun|note=(with [[Hive Pack]])}}<!--
+	-->{{item|Toxic Flask}}<!--
+	-->{{item|Resonance Scepter}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Wasp Gun|note=(with [[Hive Pack]])}}<!--
+	-->{{item|Inferno Fork|scale=0.8}}<!--
+	-->{{item|Shadowbeam Staff}}<!--
+	<!-- Please do NOT add Razorpine, Blizzard Staff, Bubble Gun, Razorblade Typhoon, Bat Scepter, Stellar Tune, or Nightglow to this section.
+-->{{infocard/box/end}}<!--
+	-->{{item|Spectre Staff|scale=0.8}}<!--
+	-->{{item|Toxic Flask}}<!--
+	-->{{item|Resonance Scepter}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Rainbow Gun}}<!--
+	-->{{item|Magnet Sphere}}<!--
+	-->{{item|Nimbus Rod}}<!--
+	-->{{item|Clinger Staff}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Spectre armor|image=Spectre armor Mask.png|note=(Mask)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Spectre armor|image=Spectre armor Hood.png|note=(Hood)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Celestial Emblem}}<!--
+	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Sorcerer Emblem}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+	-->{{item|Crystal Ball}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "magic" end-->
+
+{{infocard/start|type=Pre-Golem|name=Summoning|theme=summon}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Deadly Sphere Staff}}<!--
+	-->{{item|Desert Tiger Staff|bignote={{footnote|name=Firecracker}}}}<!--
+	<!-- Please do NOT add Terraprisma or Raven Staff to this section.
+-->{{infocard/box/end}}<!--
+	-->{{item|Optic Staff|bignote={{footnote|name=Firecracker}}}}<!--
+	-->{{item|Blade Staff|bignote={{footnote|Optimal for Dungeon exploration, but decent for Golem as well|name=BStaff}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+	-->{{item|Morning Star}}<!--
+	-->{{item|Durendal}}<!--
+	-->{{item|Firecracker}}<!--
+	<!-- Please do NOT add Kaleidoscope or Dark Harvest to this section.
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Sentries}}<!--
+	-->{{item|Staff of the Frost Hydra}}<!--
+	-->{{item|Queen Spider Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Offensive}}<!--
+	-->{{item|Tiki armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Squire's Great Helm}}<!--
+    -->{{item|Squire's Plating}}<!--
+	-->{{item|Tiki Pants}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Squire armor}}<!--
+	-->{{item|Hallowed armor|image=Hallowed armor Hood.png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Summoner Emblem}}<!--
+	-->{{item|Hercules Beetle}}<!--
+	-->{{item|Pygmy Necklace}}<!--
+	-->{{item|Berserker's Glove}}<!--
+    -->{{item|Apprentice's Scarf}}<!--
+	-->{{item|Squire's Shield}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Venom}}<!--
+	-->{{item|Summoning Potion}}<!--
+	-->{{item|Bewitching Table}}<!--
+	-->{{item|War Table}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "summoning" end-->
+
+{{infocard/start|type=Pre-Golem|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Pre-Plantera|Armor]]}}<!--
+-->{{infocard/box/start|title=Hybrid Summoner}}<!--
+	-->{{item|Tiki Pants|bignote={{footnote|name=Spidermythril|}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Squire's Great Helm}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Weapons}}<!--
+	-->{{item|Vampire Knives|bignote={{footnote|name=VampireKnives}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Master Ninja Gear}}<!---
+	-->{{item|Amphibian Boots}}<!--
+	-->{{item|Hoverboard}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Lightning Boots|note=(or better)|image=Lightning Boots.png/Frostspark Boots.png/Terraspark Boots.png}}<!--
+	-->{{item|Mothron Wings}}<!--
+	-->{{item|Bone Wings}}<!--
+	-->{{item|Spectre Wings}}<!--
+-->{{infocard/box/end}}<!--
+--><div> {{anchor|pre-golem survivability}}<!--
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Brain of Confusion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Star Veil}}<!--
+	-->{{item|Frozen Shield}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Master Ninja Gear|bignote={{footnote|name=ninja_gear_surival|The [[Black Belt]] is an alternative. The Master Ninja Gear and the Black Belt do not stack.}}}}<!---
+	-->{{item|Charm of Myths}}<!--
+	-->{{item|Hero Shield|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Flesh Knuckles|bignote={{footnote|name=flesh knuckles}}}}<!--
+    -->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Moon Stone}}<!--
+-->{{infocard/box/end}}<!--
+--></div><!--
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Avenger Emblem}}<!--
+    -->{{item|Moon Stone}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Spore Sac}}<!--
+    -->{{item|Putrid Scent|bignote={{footnote|name=Corruption}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Lifeforce Potion}}<!--
+	-->{{item|Gravitation Potion}}<!--
+	-->{{item|Slice of Cake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!-- Pre-Golem -->
+
+== Pre-[[Lunatic Cultist]] ==
+Equipment from Golem, [[Martian Invasion]], and the final tier of the [[Old One's Army]] is now available. Challenging [[Duke Fishron]], [[Empress of Light]], the [[Pumpkin Moon]], and the [[Frost Moon]] is also now feasible. This stage marks the availability of the first Hardmode magic weapons that truly excel against single targets. 
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-Lunatic Cultist -->
+
+{{infocard/start|type=Pre-Lunatic Cultist|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flying Dragon}}<!--
+	-->{{item|Influx Waver|scale=0.85|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Terra Blade}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Seedler|scale=0.75}}<!--
+	-->{{item|North Pole|scale=0.85}}<!--
+	-->{{item|Flairon}}<!--
+	-->{{item|The Eye of Cthulhu}}<!--
+	-->{{item|Starlight|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|The Horseman's Blade|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Sky Dragon's Fury|scale=0.85|note=({{key|use}})|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flying Dragon}}<!--
+	-->{{item|Terra Blade}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|North Pole|scale=0.85}}<!--
+	-->{{item|Starlight|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Christmas Tree Sword|scale=0.85}}<!--
+	-->{{item|Sky Dragon's Fury|scale=0.85|note=({{key|open}})}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Post-Golem (Old One's Army, Tier 3)|Armor]]}}<!--
+-->{{infocard/box/start|title=General/Defensive}}<!--
+	-->{{item|Hallowed Mask}}<!--
+	-->{{item|Valhalla Knight's Breastplate}}<!--
+	-->{{item|Valhalla Knight's Greaves}}<!--
+	-->{{item|Beetle armor|image=Beetle armor Shell.png|note=(Shell)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Hallowed Mask}}<!--
+	-->{{item|Shinobi Infiltrator's Torso}}<!--
+	-->{{item|Valhalla Knight's Greaves}}<!--
+	-->{{item|Beetle armor|image=Beetle armor Scale Mail.png|note=(Scale Mail)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Warrior Emblem}}<!--
+	-->{{item|Mechanical Glove}}<!--
+	-->{{item|Fire Gauntlet}}<!--
+	-->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Yoyo Bag}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions/Flasks}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Venom}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!--
+	-->{{item|Sharpening Station}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+Both sets of Beetle armor are viable for different situations. However, the offensive variant is not optimal when using weapons that have their {{DPS}} unaffected by melee speed, such as Vampire Knives.
+
+{{infocard/end}}<!--Infocard "melee" end-->
+
+{{infocard/start|type=Pre-Lunatic Cultist|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Aerial Bane|note=(Venom Arrows)}}<!--
+	-->{{item|Tsunami}}<!--
+    -->{{item|Eventide}}<!--
+	-->{{item|Xenopopper|note=(Crystal Bullets)}}<!--
+	-->{{item|Snowman Cannon|scale=0.75}}<!--
+-->{{infocard/box/end}}<!--
+-->{{item|Xenopopper|note=(Chlorophyte Bullets)}}<!--
+	-->{{item|Sniper Rifle}}<!--
+	-->{{item|Piranha Gun|note=(with [[Shroomite Helmet]])}}<!--
+	-->{{item|Chain Gun}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Snowman Cannon|scale=0.75}}<!--
+	-->{{item|Stake Launcher}}<!--
+	-->{{item|Eventide|note=(Endless Quiver)}}<!--
+	-->{{item|Elf Melter|note=(with [[Shroomite Helmet]])}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Piranha Gun|note=(with [[Shroomite Helmet]])}}<!--
+	-->{{item|Aerial Bane}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression##Post-Golem (Old One's Army, Tier 3)|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Offensive}}<!--
+	-->{{item|Adamantite Mask|note=(for rocket weapons and weapons of all types)}} or<!-- 
+	-->{{item|Shroomite Headgear|note=(for arrow weapons)}} or<!--
+	-->{{item|Shroomite Mask|note=(for bullet weapons)}}<!--
+	<!-- Please do NOT add Shroomite Helmet, it is only optimal for Piranha Gun and Elf Melter which are not listed in this guide
+	-->{{item|Red Riding Dress}}<!--
+	-->{{item|Red Riding Leggings}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Chlorophyte Helmet}}<!--
+	-->{{item|Valhalla Knight's Breastplate}}<!--
+	-->{{item|Valhalla Knight's Greaves}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{item|Shroomite armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Recon Scope}}<!--
+	-->{{item|Sniper Scope}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Ranger Emblem}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Archery Potion}}<!--
+	-->{{item|Ammo Reservation Potion}}<!--
+	-->{{item|Ammo Box}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Crystal Bullet|s|bignote={{footnote|name=Crystal Bullet}}}}<!--
+	-->{{item|Chlorophyte Bullet|s}}<!--
+	-->{{item|Ichor Arrow|s|bignote={{footnote|name=Crimson}}}}<!--
+    -->{{item|Mini Nuke I|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Nano Bullet|s}}<!--
+	-->{{item|Venom Arrow|s}}<!--
+	-->{{item|Rocket III|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|High Velocity Bullet|s}}<!--
+	-->{{item|Chlorophyte Arrow|s}}<!--
+	-->{{item|Mini Nuke I|s}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Rocket III|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "ranged" end-->
+
+{{infocard/start|type=Pre-Lunatic Cultist|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Blizzard Staff|scale=0.65}}<!--
+	-->{{item|Bubble Gun}}<!--
+	-->{{item|Stellar Tune}}<!--
+	-->{{item|Razorpine}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Laser Machinegun}}<!--
+	-->{{item|Charged Blaster Cannon}}<!--
+	-->{{item|Betsy's Wrath|scale=0.65}}<!--
+	-->{{item|Nightglow}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Razorblade Typhoon}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Charged Blaster Cannon}}<!--
+	-->{{item|Nightglow}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Rainbow Gun}}<!--
+	-->{{item|Magnet Sphere}}<!--
+    -->{{item|Nimbus Rod}}<!--
+    -->{{item|Clinger Staff}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Post-Golem (Old One's Army, Tier 3)|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General/Offensive}}<!--
+	-->{{item|Spectre Mask}}<!--
+	-->{{item|Spectre Robe}}<!--
+	-->{{item|Dark Artist's Leggings}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Spectre armor|image=Spectre armor Hood.png|note=(Hood)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Spectre armor|image=Spectre armor Mask.png|note=(Mask)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Celestial Emblem}}<!--
+	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Sorcerer Emblem}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+	-->{{item|Crystal Ball}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+Both the Spectre Mask and Spectre Hood are useful for offense and defense, respectively. Generally speaking, a full set of Spectre armor with the Mask pales in comparison to a mix of Spectre Mask/Dark Artist's Robes/Dark Artist's Leggings due to the set bonus of Spectre Mask being capped at 400 {{DPS}}.
+
+{{infocard/end}}<!--Infocard "magic" end-->
+
+{{infocard/start|type=Pre-Lunatic Cultist|name=Summoning|theme=summon}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Terraprisma|bignote={{footnote|While the Terraprisma is an incredibly powerful weapon, it is also extraordinarily difficult to obtain. It requires you to defeat the Empress of Light during the daytime which is able to kill the player in one hit regardless of equipment that provide defense or dodging effects such as [[Holy Protection]]. For strategies on how to fight the enraged Empress of Light, see [[Guide:Obtaining a Terraprisma]].}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Second Best}}<!--
+	-->{{item|Xeno Staff}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Tempest Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Kaleidoscope}}<!--
+	-->{{item|Morning Star}}<!--
+	-->{{item|Dark Harvest}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Firecracker}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Sentries}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ballista Staff}}<!--
+	-->{{item|Explosive Trap Staff}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Queen Spider Staff}}<!--
+	-->{{item|Lightning Aura Staff}}<!--
+    -->{{item|Staff of the Frost Hydra}}<!--
+	<!-- Flameburst Staff is intentionally omitted.
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Post-Golem (Old One's Army, Tier 3)|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=General}}<!--
+	-->{{item|Tiki armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Spooky armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+    -->{{item|Valhalla Knight armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Valhalla Knight's Breastplate|bignote={{footnote|The head and leg slots of Valhalla Knight armor can be swapped for pieces that provide minion capacity, while still retaining the breastplate's high health regeneration.}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Summoner Emblem}}<!--
+	-->{{item|Hercules Beetle}}<!--
+	-->{{item|Papyrus Scarab}}<!--
+	-->{{item|Necromantic Scroll}}<!--
+	-->{{item|Pygmy Necklace}}<!--
+	-->{{item|Berserker's Glove}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Venom}}<!--
+	-->{{item|Summoning Potion}}<!--
+	-->{{item|Bewitching Table}}<!--
+	-->{{item|War Table}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "summoning" end-->
+
+{{infocard/start|type=Pre-Lunatic Cultist|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Weapons}}<!--
+	-->{{item|Vampire Knives|bignote={{footnote|name=VampireKnives}}}}<!--
+	-->{{item|Betsy's Wrath}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Post-Golem (Old One's Army, Tier 3)|Armor]]}}<!--
+-->{{infocard/box/start|title=Hybrid Summoner}}<!--
+	-->{{item|Shinobi Infiltrator's Helmet|bignote={{footnote|Melee users should use this over [[Chlorophyte Mask]].}}}}<!--
+	-->{{item|Spooky Breastplate|bignote={{footnote|Use this instead of [[Monk's Shirt]], [[Dark Artist's Robes]], or [[Spectre Robe]]. Do ''not'' use this over [[Red Riding Dress]].}}}}<!--
+    -->{{item|Spooky Leggings|bignote={{footnote|Use this or [[Tiki Pants]] instead of [[Red Riding Leggings]]. Do ''not'' use this over [[Dark Artist's Leggings]] or [[Valhalla Knight's Greaves]].}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Beetle armor|image=Beetle armor Shell.png|note=(Shell)}}<!--
+	-->{{item|Valhalla Knight's Breastplate}}<!--	
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Soaring Insignia}}<!--
+	-->{{item|Master Ninja Gear|note=(not needed if using Betsy's Wings)}}<!--
+	-->{{item|Betsy's Wings}}<!--
+    -->{{item|Empress Wings}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Amphibian Boots}}<!--
+	-->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Lightning Boots|note=(or better)|image=Lightning Boots.png/Frostspark Boots.png/Terraspark Boots.png}}<!--
+	-->{{item|Fishron Wings}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Frozen Shield}}<!--
+	-->{{item|Star Veil}}<!--
+	-->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Brain of Confusion}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Master Ninja Gear|bignote={{footnote|name=ninja_gear_surival}}}}<!--
+	-->{{item|Hero Shield|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Flesh Knuckles|bignote={{footnote|name=flesh knuckles}}}}<!--
+    -->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Celestial Shell}}<!--
+	-->{{item|Charm of Myths}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Celestial Shell}}<!--
+    -->{{item|Destroyer Emblem}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Avenger Emblem}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mounts}}<!--
+	-->{{item|Scutlix Mount|Scutlix}}<!--
+	-->{{item|Cute Fishron|Cute Fishron}}<!--
+	-->{{item|Witch's Broom|Witch's Broom}}<!--
+	-->{{item|UFO Mount|UFO}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Lifeforce Potion}}<!--
+	-->{{item|Gravitation Potion}}<!--
+	-->{{item|Slice of Cake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!-- Pre-Lunatic Cultist -->
+
+== Pre-[[Moon Lord]] ==
+The armor, accessories, and buffs/potions from the [[Guide:Class setups#Pre-Lunatic Cultist|Pre-Lunatic Cultist]] section should be used.
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Pre-Moon Lord -->
+
+{{infocard/start|type=Pre-Moon Lord|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+	-->{{item|Daybreak}}<!--
+    -->{{item|Flying Dragon|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+	-->{{item|Flying Dragon}}<!--
+	-->{{item|Terra Blade}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Melee" end-->
+
+{{infocard/start|type=Pre-Moon Lord|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single Target Weapons}}<!--
+	-->{{item|Phantasm}}<!--
+	-->{{item|Vortex Beater}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Single-Target Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ichor Arrow|s}}<!--
+	-->{{item|Crystal Bullet|s}}<!--
+-->{{infocard/box/end|title=Best}}<!--
+	-->{{item|Venom Arrow|s}}<!--
+	-->{{item|Chlorophyte Bullet|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd Control Ammunition}}<!--
+	-->{{item|Chlorophyte Arrow|s}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Ranged" end-->
+
+{{infocard/start|type=Pre-Moon Lord|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+	-->{{item|Nebula Blaze}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Crowd Control Weapons}}<!--
+	-->{{item|Nebula Arcanum}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Magic" end-->
+
+{{infocard/start|type=Pre-Moon Lord|name=Summoning|theme=summoning}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Stardust Dragon Staff|bignote={{footnote|name=Firecracker}}}}<!--
+	-->{{item|Terraprisma}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Stardust Cell Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Kaleidoscope}}<!--
+	-->{{item|Morning Star}}<!--
+	-->{{item|Dark Harvest}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Firecracker}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Summoning" end-->
+
+{{infocard/start|type=Pre-Moon Lord|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+
+-->{{infocard/box/start|title=Weapons}}<!--
+	-->{{item|Betsy's Wrath}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Super Healing Potion}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!--Pre-Moon Lord-->
+
+== Endgame ==
+At this point you are free to use whatever you want, since the [[Zenith]] kills everything easily regardless of what equipment you're wearing, and most of the other Moon Lord drops aren't far behind. Since there is no more combat-related content left in the game, the hands-off nature of summoner makes it convenient for those who want to transition from combat to building, terraforming, or other activities.
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Endgame -->
+
+{{infocard/start|type=Endgame|name=Melee|theme=melee}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Zenith}}<!--
+    -->{{item|Vampire Knives|bignote={{footnote|name=VampireKnives}}}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Meowmere}}<!--
+	-->{{item|Star Wrath|scale=0.85}}<!--
+	-->{{item|Terrarian}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Zenith}}<!--
+-->{{infocard/box/end}}<!--
+    -->{{item|Meowmere}}<!--
+	-->{{item|Solar Eruption|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Terrarian}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Endgame|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Solar Flare armor}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Valhalla Knight's Greaves|note=Best stats{{footnote|More specifically, it trades 1 regeneration, 15% melee speed, the dash, and 30% damage reduction for 20% melee critical strike chance, 20% summon damage, and 4 defense.}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Warrior Emblem}}<!--
+	-->{{item|Mechanical Glove}}<!--
+	-->{{item|Fire Gauntlet}}<!--
+	-->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Yoyo Bag}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions/Flasks}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Sake}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Venom}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sharpening Station}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "melee" end-->
+
+{{infocard/start|type=Endgame|name=Ranged|theme=ranged}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|S.D.M.G.|note=(Crystal Bullet)}}<!--
+   	-->{{item|Phantasm|note=(Ichor Arrow)|bignote={{footnote|name=Tank_Build}}}}<!--
+    -->{{item|Celebration Mk2|scale=0.75|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Vortex Beater|bignote={{footnote|name=Tank_Build}}}}<!--
+	-->{{item|Snowman Cannon}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|S.D.M.G.|note=(Luminite Bullet)}}<!--
+   	-->{{item|Phantasm|note=(Luminite/Chlorophyte Arrow)|bignote={{footnote|name=Tank_Build}}}}<!--
+    -->{{item|Celebration Mk2|scale=0.75|bignote={{footnote|name=Tank_Build}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Snowman Cannon}}<!--
+	-->{{item|Eventide|note=(Endless Quiver)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=[[Guide:Armor progression#Endgame|Armor]]}}<!--
+	-->{{item|Vortex armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Ranger Emblem}}<!--
+	-->{{item|Magic Quiver|bignote={{footnote|name = Quivers}}}}<!-- 
+	-->{{item|Recon Scope}}<!--
+	-->{{item|Sniper Scope}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Swiftness Potion}}<!--
+	-->{{item|Archery Potion}}<!--
+	-->{{item|Ammo Reservation Potion}}<!--
+	-->{{item|Ammo Box}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Ammunition}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Crystal Bullet|bignote={{footnote|name=Crystal Bullet}}}}<!--
+	-->{{item|Chlorophyte Bullet|bignote={{footnote|name=Chlorophyte Bullet|Has homing, making it the most consistent bullet.}}}}<!--
+	-->{{item|Luminite Bullet|bignote={{footnote|name=Luminite Bullet|Has piercing, making it have the highest multi-target {{DPS}}.}}}}<!--
+	-->{{item|Luminite Arrow}}<!--
+	-->{{item|Mini Nuke I}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Endless Musket Pouch}}<!--
+	-->{{item|Holy Arrow}}<!--
+	-->{{item|Ichor Arrow|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Chlorophyte Arrow}}<!--
+	-->{{item|Venom Arrow}}<!--
+	-->{{item|Endless Quiver}}<!--
+	-->{{item|Rocket III}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "ranged" end-->
+
+{{infocard/start|type=Endgame|name=Magic|theme=magic}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Single-Target Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Last Prism}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Lunar Flare}}<!--
+	-->{{item|Nebula Blaze}}<!--
+	-->{{item|Betsy's Wrath}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Crowd-Control Weapons}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Last Prism}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Nebula Arcanum}}<!--
+	-->{{item|Razorblade Typhoon}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Support Weapons}}<!--
+	-->{{item|Nimbus Rod}}<!--
+	-->{{item|Magnet Sphere}}<!--
+	-->{{item|Rainbow Gun}}<!--
+	-->{{item|Clinger Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Endgame|Armor]]}}<!--
+	-->{{item|Nebula armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Celestial Emblem}}<!--
+	-->{{item|Celestial Cuffs}}<!--
+	-->{{item|Sorcerer Emblem}}<!--
+	-->{{item|Arcane Flower}}<!--
+	-->{{item|Mana Cloak}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Mana Regeneration Potion}}<!--
+	-->{{item|Magic Power Potion}}<!--
+	-->{{item|Crystal Ball}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "magic" end-->
+
+{{infocard/start|type=Endgame|name=Summoning|theme=summon}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Minions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Stardust Dragon Staff|bignote={{footnote|name=Firecracker}}}}<!--
+	-->{{item|Terraprisma}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Stardust Cell Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Whips}}<!--
+	-->{{item|Kaleidoscope}}<!--
+	-->{{item|Firecracker}}<!--
+	-->{{item|Morning Star}}<!--
+	-->{{item|Dark Harvest}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=Sentries}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Lunar Portal Staff}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Rainbow Crystal Staff}}<!--
+    -->{{item|Ballista Staff}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Endgame|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Offensive}}<!--
+	-->{{item|Stardust armor|bignote={{footnote|If using [[Firecracker]], the Stardust Helmet should be swapped for a Tiki Mask.}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Defensive}}<!--
+	-->{{item|Valhalla Knight armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Papyrus Scarab}}<!--
+	-->{{item|Summoner Emblem}}<!--
+	-->{{item|Hercules Beetle}}<!--
+	-->{{item|Necromantic Scroll}}<!--
+	-->{{item|Pygmy Necklace}}<!--
+	-->{{item|Berserker's Glove}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Flask of Ichor|bignote={{footnote|name=Crimson}}}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Flask of Venom}}<!--
+	-->{{item|Summoning Potion}}<!--
+	-->{{item|Bewitching Table}}<!--
+	-->{{item|War Table}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+For [[Moon Lord]] and endgame there are once again two whip-summon combinations. The [[Stardust Dragon Staff]] benefits greatly from the [[Firecracker]] due to its high base damage and Firecracker multiplying it. But due to the Firecracker's range, it requires you to get close to enemies and bosses. The [[Terraprisma]] benefits from the [[Kaleidoscope]] due to its low damage benefitting from the high tag damage from the Kaleidoscope. But due to the obtainability of the summon, it requires you to fight the [[Empress of Light]] during daytime which is an insta-kill boss. Note that a [[Dark Harvest]] should be used as a secondary whip in both combinations to provide a whip speed buff for the primary whip.
+
+{{infocard/end}}<!--Infocard "summoning" end-->
+
+{{infocard/start|type=Endgame|name=Mixed|theme=default}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Weapons}}<!--
+	-->{{item|Vampire Knives|bignote={{footnote|name=VampireKnives}}}}<!--
+	-->{{item|Betsy's Wrath}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression#Endgame|Armor]]}}<!--
+-->{{infocard/box/start|title=Hybrid Summoner}}<!--
+	-->{{item|Stardust Plate}}<!--
+	-->{{item|Stardust Leggings}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Valhalla Knight's Breastplate}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mobility Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Celestial Starboard}}<!--
+	-->{{item|Soaring Insignia}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Master Ninja Gear}}<!--
+	-->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Amphibian Boots}}<!--
+	-->{{item|Solar Wings}}<!--
+	-->{{item|Stardust Wings}}<!--
+	-->{{item|Nebula Mantle}}<!--
+	-->{{item|Vortex Booster}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Survivability Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Frozen Shield}}<!--
+	-->{{item|Star Veil}}<!--
+	-->{{item|Worm Scarf|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Brain of Confusion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Celestial Shell}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Charm of Myths}}<!--
+	-->{{item|Hero Shield|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Flesh Knuckles|bignote={{footnote|name=flesh knuckles}}}}<!--
+    -->{{item|Berserker's Glove|bignote={{footnote|name=flesh knuckles}}}}<!--
+	-->{{item|Master Ninja Gear|bignote={{footnote|name=ninja_gear_surival}}}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Offensive Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Celestial Shell}}<!--
+	-->{{item|Destroyer Emblem}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Avenger Emblem}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mounts}}<!--
+	-->{{item|Scutlix Mount|Scutlix}}<!--
+	-->{{item|UFO Mount|UFO}}<!--
+	-->{{item|Cute Fishron|Cute Fishron}}<!--
+	-->{{item|Witch's Broom|Witch's Broom}}<!--
+	-->{{item|Winged Slime Mount|Winged Slime}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Well Fed|Food buffs|image=Well_Fed.png/Plenty_Satisfied.png/Exquisitely_Stuffed.png}}<!--
+	-->{{item|Ironskin Potion}}<!--
+	-->{{item|Endurance Potion}}<!--
+	-->{{item|Rage Potion|bignote={{footnote|name=Crimson}}}}<!--
+	-->{{item|Wrath Potion|bignote={{footnote|name=Corruption}}}}<!--
+	-->{{item|Regeneration Potion}}<!--
+	-->{{item|Lifeforce Potion}}<!--
+	-->{{item|Gravitation Potion}}<!--
+	-->{{item|Slice of Cake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "Mixed" end-->
+
+{{flexend|}}<!-- Endgame -->
+
+== Other ==
+{{for|cosplay setups|Guide:Ideas#Cosplay}}
+Some equipment sets are not meant for fighting, but for other activities, such as fishing, building and exploring. All equipment is optional and makes it easier to perform the task, but otherwise simply use what is at hand.
+
+{{flexstart|css=gap:var(--layout-gap);}}<!-- Other -->
+
+{{infocard/start|name=Wiring}}
+
+The [[Mechanic]] NPC unlocks wiring, selling the basic tools. 
+
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Tools}}<!--
+	-->{{item|The Grand Design}}<!--
+	-->{{item|Actuation Rod}}<!--
+	-->{{item|Wire|note=and other [[Guide:Wiring|wiring items]]}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Presserator}}<!--
+	-->{{item|Hand Of Creation}}<!--
+	-->{{item|Toolbelt}}<!--
+	-->{{item|Toolbox}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Architect Gizmo Pack}}<!--
+	-->{{item|Mechanical Ruler}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+Summoner gear might prove useful to defend against enemies while engineering.
+
+{{infocard/end}}<!--Infocard "wiring" end-->
+
+{{infocard/start|name=Building}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Tools}}<!--
+	-->{{item|Spectre Paintbrush}}<!--
+	-->{{item|Spectre Paint Roller}}<!--
+	-->{{item|Spectre Paint Scraper}}<!--
+	-->{{item|The Grand Design}}<!--
+	-->{{item|Bottomless Water Bucket}}<!--
+	-->{{item|Bottomless Lava Bucket}}<!--
+	-->{{item|Bottomless Honey Bucket}}<!--
+	-->{{item|Bottomless Shimmer Bucket}}<!--
+	-->{{item|Ultra Absorbant Sponge}}<!--
+	-->{{item|Ice Rod}}<!--
+	-->{{item|Cosmic Car Key|note=or similar mounts}}<!--
+-->{{infocard/box/start|title=Hooks}}<!--
+    -->{{item|Static Hook}}<!--
+    -->{{item|Lunar Hook|note=for straight vertical builds}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Toolbelt}}<!--
+	-->{{item|Toolbox}}<!--
+	-->{{item|Hand Of Creation}}<!--
+    -->[[Movement accessories]]<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Architect Gizmo Pack}}<!--
+	-->{{item|Mechanical Ruler}}<!--
+	-->{{item|Ancient Chisel}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Potions}}<!--
+	-->{{item|Builder Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+Summoner gear is useful for defending against enemies while building.
+
+{{infocard/end}}<!--Infocard "building" end-->
+
+{{infocard/start|name=Fishing}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Tools}}<!--
+	-->{{item|Golden Fishing Rod}}<!--
+	-->{{item|Hotline Fishing Hook}}<!--
+	-->{{item|Chum Caster}}<!--
+	-->{{item|Chum Bucket}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression|Armor]]}}<!--
+	-->{{item|Angler armor}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories/Mounts}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Angler Earring}}<!--
+	-->{{item|Angler Tackle Bag}}<!--
+	-->{{item|Lavaproof Tackle Bag}}<!--
+	-->{{item|Fishing Bobber}}<!---
+	-->{{item|Mollusk Whistle}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|High Test Fishing Line}}<!--
+	-->{{item|Tackle Box}}<!--
+	-->{{item|Lavaproof Fishing Hook}}<!--
+	-->{{item|Inner Tube}}<!--
+	-->{{item|Fish Finder}}<!--
+	-->{{item|Fishron Wings}} or {{item|Neptune's Shell}}<!--
+	-->{{item|Shield of Cthulhu}}<!--
+	-->{{item|Bone Helm}}<!--
+	-->{{item|Spore Sac}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Potions}}<!--
+	-->{{item|Fishing Potion}}<!--
+	-->{{item|Sonar Potion}}<!--
+	-->{{item|Crate Potion}}<!--
+	-->{{item|Ale}}<!--
+	-->{{item|Sake}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Bait}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Master Bait}}<!--
+	-->{{item|Magma Snail}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Journeyman Bait}}<!--
+	-->{{item|Hell Butterfly}}<!--
+	-->{{item|Enchanted Nightcrawler}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+Summoner gear might prove useful to defend against enemies while fishing. A Shield of Cthulhu can be used without interrupting fishing. If you obtained a [[Hotline Fishing Hook]], you don't need to use lava bait anymore. The [[Chum Caster]] is optimal if you are trying to fish up [[Blood Moon]] enemies. The [[Inner Tube]] and [[Mollusk Whistle]] only provide a fishing bonus while in water, and do not stack with one another. For this reason, the [[Mollusk Whistle]] may be preferable due to saving an accessory slot.
+
+{{infocard/end}}<!--Infocard "fishing" end-->
+
+{{infocard/start|name=Catching}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Tools}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Golden Bug Net}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Second Best}}<!--
+	-->{{item|Lavaproof Bug Net}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Bug Net}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+	-->{{item|Lifeform Analyzer}}<!--
+	-->{{item|Guide to Critter Companionship}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Buffs/Potions}}<!--
+	-->{{item|Battle Potion}}<!--
+	-->{{item|Water Candle|s}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "catching" end-->
+
+{{infocard/start|name=Exploring/Mining}}
+{{options/restore|item|inbox}}<!--
+-->{{infocard/box/start|title=Tools}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+-->{{infocard/box/start|title=Mining}}<!--
+-->{{infocard/box/start|title=General/Small Tunnels}}<!--
+	-->{{item|Luminite Pickaxes}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Mass Excavation}}<!--
+	-->{{item|Celebration Mk2|scale=0.75|note=(Rocket IV or Mini Nuke II)}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Bigger Tunnels/Precise Mass Excavation}}<!--
+	-->{{item|Drill Containment Unit}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Lighting}}<!--
+	-->{{item|Zenith}}<!--
+-->{{infocard/box/start|title=Finding Ores}}<!--
+	-->{{item|Spelunker Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Bomb}}<!--
+	-->{{item|Dynamite}}<!--
+	-->{{item|Spelunker Glowstick}}<!--
+	-->{{item|Flare Gun|note=(Spelunker Flare)}}<!--
+	-->{{item|Fairies|image=Pink Fairy.png}}<!--
+	-->{{item|Binoculars}}<!--
+	-->{{item|Rod of Harmony}}<!--
+	-->{{item|Flying Dragon|scale=0.65}}<!--
+	-->{{item|Solar Eruption}}<!--
+	-->{{item|Shellphone}}<!--
+-->{{infocard/box/end}}<!--
+
+-->{{infocard/box/start|title=[[Guide:Armor progression|Armor]]}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Ultrabright Helmet}}<!--
+	-->{{item|Mining Shirt}}<!--
+	-->{{item|Mining Pants}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Mining Helmet}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Accessories}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Hand Of Creation}}<!--
+    -->{{item|Celestial Shell}}<!--
+	-->{{item|Arctic Diving Gear}}<!--
+	-->{{item|Fire Gauntlet}}<!--
+	-->[[Movement accessories]]<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Ancient Chisel}}<!--
+	-->{{item|Magma Stone}}<!--
+    -->{{item|Celestial Stone}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Potions}}<!--
+	-->{{item|Dangersense Potion}}<!--
+	-->{{item|Gravitation Potion}}<!--
+	-->{{item|Mining Potion}}<!--
+	-->{{item|Obsidian Skin Potion}}<!--
+	-->{{item|Spelunker Potion}}<!--
+	-->{{item|Water Walking Potion}}<!--
+	-->{{item|Teleportation Potion}}<!--
+	-->{{item|Recall Potion}}<!--
+	-->{{item|Wormhole Potion}}<!--
+	-->{{item|Calming Potion}}<!--
+-->{{infocard/box/end}}<!--
+-->{{infocard/box/start|title=Light Pets}}<!--
+-->{{infocard/box/start|title=Best}}<!--
+	-->{{item|Suspicious Looking Tentacle|image=Suspicious Looking Eye (light pet).gif}}<!--
+-->{{infocard/box/end}}<!--
+	-->{{item|Magic Lantern|image=Magic Lantern (light pet).png}}<!--
+-->{{infocard/box/end}}<!--
+-->{{options/reset|item}}
+
+{{infocard/end}}<!--Infocard "exploring/mining" end-->
+
+{{flexend|}}<!-- Other -->
+
+== External links ==
+* [https://drive.google.com/drive/folders/1BOFcsgKl2gvc7IaFYKHusIQYlhtMj5bm Jason's Terraria Guide]
+
+== Footnotes ==
+{{footnotelist}}
+{{reflist}}
+
+{{Guides}}
+
+{{language info|en=Guide:Class setups}}

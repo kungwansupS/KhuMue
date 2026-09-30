@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>KhuMue</AssemblyName>
+    <RootNamespace>KhuMue</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Same values tMLMod.targets uses; declared here so a plain compile (BuildMod=false) also works. -->
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+  </PropertyGroup>
+
+  <!--
+    Inside tModLoader/ModSources the parent tModLoader.targets is used.
+    For an external checkout, pass -p:TMLInstallPath="path/to/tModLoader".
+  -->
+  <Import Project="$(TMLInstallPath)/tMLMod.targets"
+          Condition="'$(TMLInstallPath)' != '' and Exists('$(TMLInstallPath)/tMLMod.targets')" />
+  <Import Project="../tModLoader.targets"
+          Condition="'$(TMLInstallPath)' == '' and Exists('../tModLoader.targets')" />
+
+  <Target Name="MissingTModLoaderTargets" BeforeTargets="PrepareForBuild"
+          Condition="('$(TMLInstallPath)' == '' and !Exists('../tModLoader.targets')) or ('$(TMLInstallPath)' != '' and !Exists('$(TMLInstallPath)/tMLMod.targets'))">
+    <Error Text="tModLoader targets were not found. Put KhuMue in ModSources or build with -p:TMLInstallPath=&quot;path/to/tModLoader&quot;." />
+  </Target>
+
+  <ItemGroup>
+    <!-- Lets the test-only QA driver (tools/GuideQaProbe) inspect pages. No effect on players. -->
+    <InternalsVisibleTo Include="GuideQaProbe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Tools and documents are never part of the mod assembly. -->
+    <Compile Remove="tools/**;docs/**" />
+    <None Remove="tools/**;docs/**" />
+    <AdditionalFiles Remove="tools/**;docs/**" />
+  </ItemGroup>
+</Project>

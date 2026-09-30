@@ -1,0 +1,35 @@
+Khu Mue [Calamity] 2.0
+
+"Khu mue" (คู่มือ) is Thai for "guide". Open it with your guide key or type /khumue in chat. Khu Mue reads your world and tells you what to do next, how to start it and what to bring.
+
+- Home: where your world is, the next step of the route with how to summon it, what else you can do now, and permanent upgrades you have not used.
+- Progression: every boss, event and quest of your mods in order, with live done / next / available / locked status.
+- Gear: recommended weapons, armor, accessories and buffs for each class and stage (Calamity and Terraria wikis).
+- Items: search any item (English or Thai) and see every recipe (with total base materials), drop, shop, bag and Shimmer result read live from your game, plus the chests, fishing spots and Angler rewards it comes from.
+- Upgrades: every permanent upgrade and what this character has used.
+- Guides: Calamity mechanics, add-on mods and the traps that are easy to regret.
+
+Recipes, drops, shops, Shimmer and stats are read from the running game, so they always match your mods. The route and gear advice was checked by hand against: Calamity 2.2.4, Catalyst 1.1.8, Hunt of the Old God 1.2.3, Wrath of the Gods 1.2.31, Infernum 2.0.1.35, Calamity Fables 0.1.24, Spirit Reforged 0.2.2.8. Works without any of them too.
+
+Thai: the guide includes a full Thai translation. Thai letters need a Thai language pack that adds the Thai font.
+Key: tModLoader leaves new mod keys unbound. Set one in Settings > Controls (search for Khu Mue). The default, B, is also vanilla's Quick Buff key.
+
+Gear recommendations adapted from the Calamity Mod Wiki (CC BY-NC-SA 3.0) and the Terraria Wiki (CC BY-NC-SA 4.0).
+
+----
+
+Khu Mue [Calamity] 2.0 (คู่มือ Calamity)
+
+เปิดด้วยปุ่มที่ตั้งไว้ หรือพิมพ์ /khumue ในช่องแชต Khu Mue อ่านสถานะโลกของคุณ แล้วบอกว่าควรทำอะไรต่อ เริ่มอย่างไร และควรเตรียมอะไร
+
+- หน้าแรก: โลกของคุณอยู่ช่วงไหน ขั้นต่อไปพร้อมวิธีเรียกบอส สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้
+- ความก้าวหน้า: บอส อีเวนต์ และเควสต์ทั้งหมดของม็อดที่เปิดอยู่ พร้อมสถานะจากโลกจริง
+- ชุดแนะนำ: อาวุธ ชุดเกราะ เครื่องประดับ และบัฟ ตามคลาสและช่วงของเกม (จากวิกิ Calamity และ Terraria)
+- ไอเทม: ค้นหาไอเทมทั้งชื่อไทยและอังกฤษ ดูสูตรคราฟต์ (พร้อมวัตถุดิบพื้นฐานรวม) ดรอป ร้านค้า ถุง และ Shimmer ที่อ่านจากเกมโดยตรง รวมถึงหีบที่พบ จุดตกปลา และรางวัลของ Angler
+- อัปเกรดถาวร: รายการอัปเกรดถาวรทั้งหมด และตัวละครนี้ใช้อะไรไปแล้วบ้าง
+- คู่มือ: ระบบของ Calamity ม็อดเสริม และกับดักที่พลาดแล้วเสียดาย
+
+สูตรคราฟต์ ดรอป ร้านค้า Shimmer และค่าสถานะอ่านจากเกมที่กำลังเล่นอยู่ จึงตรงกับม็อดของคุณเสมอ ส่วนเส้นทางและชุดแนะนำตรวจสอบด้วยมือกับ Calamity 2.2.4, Catalyst 1.1.8, Hunt of the Old God 1.2.3, Wrath of the Gods 1.2.31, Infernum 2.0.1.35, Calamity Fables 0.1.24 และ Spirit Reforged 0.2.2.8 และใช้ได้แม้ไม่มีม็อดเหล่านี้
+
+ภาษาไทย: มีคำแปลภาษาไทยครบในตัว การแสดงตัวอักษรไทยต้องใช้ม็อดภาษาไทยที่มีฟอนต์ไทย
+ปุ่ม: tModLoader ไม่ตั้งปุ่มให้ม็อดใหม่เอง ตั้งได้ที่ Settings > Controls (ค้นหา Khu Mue) ค่าเริ่มต้นคือ B ซึ่งซ้ำกับ Quick Buff ของเกม

@@ -1,0 +1,6 @@
+displayName = Khu Mue [Calamity]
+author = KhuMue Contributors
+version = 2.2.0
+side = Client
+includeSource = true
+buildIgnore = .git\*, .gitignore, tools\*, docs\*, art\*, *.md, icon_workshop.png, bin\*, obj\*

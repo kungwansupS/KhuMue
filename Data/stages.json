@@ -1,0 +1,34 @@
+{
+  "calamity": [
+    {"id": "pre-boss", "era": "pre", "when": "always", "targets": ["KingSlime", "DesertScourge", "FablesDesertScourge", "EyeOfCthulhu", "SirNautilus", "Scarabeus"]},
+    {"id": "pre-evil1", "era": "pre", "when": "v.EyeOfCthulhu | cal.DesertScourge", "targets": ["EaterOfWorlds", "BrainOfCthulhu", "Crabulon", "FablesCrabulon", "GiantClam", "AcidRain1", "GoblinArmy", "ScourgeVsScarab"]},
+    {"id": "pre-evil2", "era": "pre", "when": "v.EvilBoss", "targets": ["HiveMind", "Perforators", "OldOnesArmy"]},
+    {"id": "pre-skeletron", "era": "pre", "when": "cal.HiveMind | cal.Perforators", "targets": ["Skeletron", "QueenBee", "Deerclops"]},
+    {"id": "pre-wof", "era": "pre", "when": "v.Skeletron", "targets": ["SlimeGod", "WallOfFlesh"]},
+    {"id": "pre-mech", "era": "hm", "when": "v.Hardmode", "targets": ["QueenSlime", "Cryogen", "Twins", "Destroyer", "SkeletronPrime", "PirateInvasion", "Dreadnautilus"]},
+    {"id": "post-mech1", "era": "hm", "when": "v.MechAny", "targets": ["AquaticScourge", "AcidRain2", "SolarEclipse"]},
+    {"id": "post-mech2", "era": "hm", "when": "v.MechTwo", "targets": ["BrimstoneElemental"]},
+    {"id": "pre-plantera", "era": "hm", "when": "v.MechAll", "targets": ["CalamitasClone", "Plantera"]},
+    {"id": "pre-golem", "era": "hm", "when": "v.Plantera", "targets": ["Leviathan", "AstrumAureus", "GreatSandShark", "Golem"]},
+    {"id": "post-golem", "era": "hm", "when": "v.Golem", "targets": ["PlaguebringerGoliath", "DukeFishron", "EmpressOfLight", "Ravager", "MartianMadness", "PumpkinMoon", "FrostMoon", "Betsy"]},
+    {"id": "pre-lunar", "era": "hm", "when": "v.Golem & (cal.PlaguebringerGoliath | cal.Ravager | v.DukeFishron | v.EmpressOfLight)", "targets": ["LunaticCultist", "CelestialPillars"]},
+    {"id": "pre-moonlord", "era": "hm", "when": "v.Cultist", "targets": ["AstrumDeus", "Astrageldon", "BereftVassal", "MoonLord"]},
+    {"id": "pre-provi", "era": "post", "when": "v.MoonLord", "targets": ["ProfanedGuardians", "Dragonfolly", "Providence"]},
+    {"id": "pre-polter", "era": "post", "when": "cal.Providence", "targets": ["CeaselessVoid", "StormWeaver", "Signus", "Polterghast"]},
+    {"id": "pre-dog", "era": "post", "when": "cal.Polterghast", "targets": ["AcidRain3", "OldDuke", "DevourerOfGods"]},
+    {"id": "pre-yharon", "era": "post", "when": "cal.DevourerOfGods", "targets": ["Yharon"]},
+    {"id": "pre-scal-exo", "era": "end", "when": "cal.Yharon", "targets": ["ExoMechs", "SupremeCalamitas", "Mars"]},
+    {"id": "endgame", "era": "end", "when": "cal.ExoMechs & cal.SupremeCalamitas", "targets": ["BossRush", "PrimordialWyrm", "Goozma", "AvatarOfEmptiness", "NamelessDeity"]}
+  ],
+  "vanilla": [
+    {"id": "v-pre-boss", "era": "pre", "when": "always", "targets": ["KingSlime", "EyeOfCthulhu", "EaterOfWorlds", "BrainOfCthulhu", "GoblinArmy", "QueenBee"]},
+    {"id": "v-pre-skeletron", "era": "pre", "when": "v.EvilBoss", "targets": ["Skeletron", "Deerclops", "OldOnesArmy"]},
+    {"id": "v-pre-wof", "era": "pre", "when": "v.Skeletron", "targets": ["WallOfFlesh"]},
+    {"id": "v-pre-mech", "era": "hm", "when": "v.Hardmode", "targets": ["QueenSlime", "Twins", "Destroyer", "SkeletronPrime", "PirateInvasion"]},
+    {"id": "v-pre-plantera", "era": "hm", "when": "v.MechAll", "targets": ["Plantera", "SolarEclipse"]},
+    {"id": "v-pre-golem", "era": "hm", "when": "v.Plantera", "targets": ["Golem", "DukeFishron", "EmpressOfLight", "PumpkinMoon", "FrostMoon"]},
+    {"id": "v-pre-cultist", "era": "hm", "when": "v.Golem", "targets": ["LunaticCultist", "MartianMadness", "Betsy"]},
+    {"id": "v-pre-moonlord", "era": "hm", "when": "v.Cultist", "targets": ["CelestialPillars", "MoonLord"]},
+    {"id": "v-endgame", "era": "post", "when": "v.MoonLord", "targets": []}
+  ]
+}

@@ -1,0 +1,7 @@
+displayName = Better Guide QA driver (test profile only)
+author = KhuMue Contributors
+version = 0.2.0
+side = Client
+modReferences = KhuMue
+includeSource = false
+buildIgnore = bin\*, obj\*, *.csproj

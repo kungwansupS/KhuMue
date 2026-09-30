@@ -1,0 +1,41 @@
+[
+  { "id": "LifeCrystal", "item": "Terraria/LifeCrystal", "group": "life", "max": 15, "available": "always" },
+  { "id": "LifeFruit", "item": "Terraria/LifeFruit", "group": "life", "max": 20, "available": "v.MechAny" },
+  { "id": "SanguineTangerine", "item": "CalamityMod/SanguineTangerine", "group": "life", "mod": "CalamityMod", "available": "v.MechAll" },
+  { "id": "MiracleFruit", "item": "CalamityMod/MiracleFruit", "group": "life", "mod": "CalamityMod", "available": "v.Golem" },
+  { "id": "TaintedCloudberry", "item": "CalamityMod/TaintedCloudberry", "group": "life", "mod": "CalamityMod", "available": "cal.Providence" },
+  { "id": "SacredStrawberry", "item": "CalamityMod/SacredStrawberry", "group": "life", "mod": "CalamityMod", "available": "cal.Yharon" },
+
+  { "id": "ManaCrystal", "item": "Terraria/ManaCrystal", "group": "mana", "max": 9, "available": "always" },
+  { "id": "CometShard", "item": "CalamityMod/CometShard", "group": "mana", "mod": "CalamityMod", "available": "v.EvilBoss" },
+  { "id": "EtherealCore", "item": "CalamityMod/EtherealCore", "group": "mana", "mod": "CalamityMod", "available": "cal.AstrumDeus & v.Cultist" },
+  { "id": "PhantomHeart", "item": "CalamityMod/PhantomHeart", "group": "mana", "mod": "CalamityMod", "available": "cal.Polterghast" },
+
+  { "id": "DemonHeart", "item": "Terraria/DemonHeart", "group": "slot", "available": "v.Hardmode", "requires": "w.Expert" },
+  { "id": "CelestialOnion", "item": "CalamityMod/CelestialOnion", "group": "slot", "mod": "CalamityMod", "available": "v.MoonLord" },
+
+  { "id": "AegisCrystal", "item": "Terraria/AegisCrystal", "group": "stats", "available": "always" },
+  { "id": "AegisFruit", "item": "Terraria/AegisFruit", "group": "stats", "available": "v.MechAny" },
+  { "id": "ArcaneCrystal", "item": "Terraria/ArcaneCrystal", "group": "stats", "available": "always" },
+  { "id": "GalaxyPearl", "item": "Terraria/GalaxyPearl", "group": "stats", "available": "always" },
+  { "id": "GummyWorm", "item": "Terraria/GummyWorm", "group": "stats", "available": "always" },
+  { "id": "Ambrosia", "item": "Terraria/Ambrosia", "group": "stats", "available": "always" },
+
+  { "id": "ArtisanLoaf", "item": "Terraria/ArtisanLoaf", "group": "qol", "available": "always" },
+  { "id": "TorchGodsFavor", "item": "Terraria/TorchGodsFavor", "group": "qol", "available": "always" },
+  { "id": "MinecartUpgradeKit", "item": "Terraria/MinecartPowerup", "group": "qol", "available": "v.MechAll", "requires": "w.Expert" },
+
+  { "id": "MushroomPlasmaRoot", "item": "CalamityMod/MushroomPlasmaRoot", "group": "rage", "mod": "CalamityMod", "available": "cal.Crabulon", "requires": "cal.Revengeance" },
+  { "id": "InfernalBlood", "item": "CalamityMod/InfernalBlood", "group": "rage", "mod": "CalamityMod", "available": "cal.Ravager", "requires": "cal.Revengeance" },
+  { "id": "RedLightningContainer", "item": "CalamityMod/RedLightningContainer", "group": "rage", "mod": "CalamityMod", "available": "cal.Dragonfolly", "requires": "cal.Revengeance" },
+
+  { "id": "ElectrolyteGelPack", "item": "CalamityMod/ElectrolyteGelPack", "group": "adrenaline", "mod": "CalamityMod", "available": "cal.SlimeGod", "requires": "cal.Revengeance" },
+  { "id": "StarlightFuelCell", "item": "CalamityMod/StarlightFuelCell", "group": "adrenaline", "mod": "CalamityMod", "available": "cal.AstrumAureus", "requires": "cal.Revengeance" },
+  { "id": "Ectoheart", "item": "CalamityMod/Ectoheart", "group": "adrenaline", "mod": "CalamityMod", "available": "cal.Polterghast", "requires": "cal.Revengeance" },
+
+  { "id": "GoozmaSoul", "item": "CalamityHunt/GoozmaSoul", "group": "souls", "mod": "CalamityHunt", "available": "hunt.Goozma" },
+  { "id": "YharonSoul", "item": "CalamityHunt/YharonSoul", "group": "souls", "mod": "CalamityHunt", "available": "cal.Yharon", "show": "mod:CalamityMod" },
+  { "id": "RottenSoul", "item": "CalamityHunt/RottenSoul", "group": "souls", "mod": "CalamityHunt", "available": "cal.OldDuke", "show": "mod:CalamityMod" },
+
+  { "id": "PeddlersSatchel", "item": "Terraria/PeddlersSatchel", "group": "world", "available": "always" }
+]

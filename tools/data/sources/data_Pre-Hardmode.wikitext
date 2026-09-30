@@ -1,0 +1,461 @@
+= pre-boss =
+{{ClassSetupsItem|melee|pre-boss|weapon|{{item|Burnt Sienna}}}}<!--
+-->{{ClassSetupsItem|melee|pre-boss|weapon|{{item|Enchanted Boomerang}}}}<!--
+-->{{ClassSetupsItem|melee|pre-boss|weapon|{{item|Monstrous Knives}}}}<!--
+-->{{ClassSetupsItem|melee|pre-boss|weapon|{{item|Starfury}}}}<!--
+-->{{ClassSetupsItem|melee|pre-boss|weapon|{{item|Terragrim}}|Can be obtained by shimmering an {{item|Enchanted Sword}}.}}<!--
+-->{{ClassSetupsItem|melee|pre-boss|accessoryOffense|{{item|Feral Claws}}}}<!--
+-->{{ClassSetupsItem|melee|pre-boss|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|weapon|{{item|Demon Bow}} / {{item|Tendon Bow}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|weapon|{{item|Flintlock Pistol}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|weapon|{{item|Molotov Cocktail}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|weapon|{{item|Paintball Gun}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|weapon|{{item|Spark Spreader}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|armor|{{item|Fossil armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|armor|{{item|Snow Ruffian armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|accessoryOffense|{{item|Scions Curio}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|ammo|{{item|Frostburn Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|ammo|{{item|Jester's Arrow|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|ammo|{{item|Unholy Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|ammo|{{item|Flash Round|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-boss|ammo|{{item|Silver Bullet|s}} / {{item|Tungsten Bullet|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|weapon|{{item|Amber Staff}}}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|weapon|{{item|Crimson Rod}}|This is best on worms and other multi-hit scenarios, and is a support weapon.|'''C''' '''+'''}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|weapon|{{item|Vilethorn}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|weapon|{{item|Thunder Zapper}}}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|weapon|{{item|Veering Wind}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|armor|{{item|Diamond Robe|image=Diamond Robe (equipped).png}} / {{item|Mystic Robe|image=Mystic Robe (equipped).png}}|The {{item|Mystic Robe}} is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|armor|{{item|Magic Hat|image=Magic Hat (equipped).png}} / {{item|Wizard Hat|image=Wizard Hat (equipped).png}}|These are difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|accessoryOffense|{{item|Band of Starpower}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|magic|pre-boss|buff|{{item|Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|minions|{{item|Enchanted Knife Staff}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|minions|{{item|Stormjaw Staff}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|minions|{{item|Sun Spirit Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|sentries|{{item|Rusty Beacon Prototype}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|sentries|{{item|Squirrel Squire Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|weaponSummon|{{item|Leather Whip}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|armor|{{item|Flinx Fur Coat|image=Flinx Fur Coat (equipped).png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|armor|{{item|Wulfrum armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|pre-boss|accessoryOffense|{{item|Wulfrum Battery}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponSpam|{{item|Antlion Skewer}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponSpam|{{item|Contaminated Bile}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponSpam|{{item|Gilded Dagger|Gilded}} / {{item|Gleaming Dagger}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponSpam|{{item|Urchin Stinger}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponSpam|{{item|Wulfrum Knife}}|This should be used with {{item|Purple Haze}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponStealth|{{item|Contaminated Bile}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponStealth|{{item|Gilded Dagger|Gilded}} / {{item|Gleaming Dagger}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponStealth|{{item|Iron Francisca}} / {{item|Lead Tomahawk}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|weaponStealth|{{item|Wulfrum Knife}}|This should be used with {{item|Purple Haze}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|armor|{{item|Desert Prowler armor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|armor|{{item|Gladiator armor}}|This works as a rogue armor and is difficult to obtain.|'''Δ *'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|accessoryStealth|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|accessoryStealth|{{item|Scuttler's Jewel}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-boss|buffOffense|{{item|Purple Haze}}|This should be used with {{item|Wulfrum Knife}}.|'''Ω<sup>1</sup>'''}}<!--
+--->{{ClassSetupsItem|rogue|pre-boss|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-boss|support|{{item|Wulfrum Controller|scale=0.75}}|Use in its defensive form.}}<!--
+-->{{ClassSetupsItem|all|pre-boss|armor|{{item|Gi}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|armor|{{item|Gold armor}} / {{item|Platinum armor}}|These have a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|armor|{{item|Silver armor}}|This has a new set bonus and is difficult to obtain if your world did not spawn silver.|'''Δ *'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryDefense|{{item|Gladiator's Locket|scale=0.75}}|This is difficult to obtain, and only one can be obtained per world.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryDefense|{{item|Ilmeris' Spark}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryDefense|{{item|Rover Drive}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryMobilityPrimary|{{item|Extra jump|Any Double Jump|image=Extra jumps in a Bottles.gif}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryMobility|{{item|Hermes Boots}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryMobility|{{item|Magiluminescence}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|accessoryOffense|{{item|Black Glass Band}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-boss|accessoryOffense|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-boss|accessoryOffense|{{item|Shark Tooth Necklace}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buff|{{item|Lesser Healing Potion|s}} / {{item|Eggnog}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffGeneral|{{item|Roasted Bird|Well Fed}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffDefense|{{item|Heartreach Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-boss|buffOffense|{{item|Rage Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffOffense|{{item|Thorns Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-boss|buffOffense|{{item|Wrath Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}
+
+= pre-evil1 =
+{{ClassSetupsItem|melee|pre-evil1|weapon|{{item|Basher|scale=0.75}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|weapon|{{item|Sahara Slicers}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|weapon|{{item|Seashine Sword}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|weapon|{{item|Urchin Mace}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|weapon|{{item|Trimarang}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|armor|{{item|Victide armor|image=Victide armor Shellmet.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|accessoryOffense|{{item|Feral Claws}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil1|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|weapon|{{item|Blood Rain Bow}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|weapon|{{item|Boomstick}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|weapon|{{item|Fungicide}}|This should be used with {{item|Musket Ball|s}} / {{item|Tungsten Bullet|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|weapon|{{item|Spark Spreader}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|weapon|{{item|Spiky Ball|s}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|armor|{{item|Fossil armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|armor|{{item|Snow Ruffian armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|armor|{{item|Victide armor|image=Victide armor Coral Turban.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|accessoryOffense|{{item|Scions Curio}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|ammo|{{item|Shimmer Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|ammo|{{item|Flash Round|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil1|ammo|{{item|Musket Ball}} / {{item|Tungsten Bullet}}|This should be used with {{item|Fungicide}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|weapon|{{item|Acid Gun}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|weapon|{{item|Crimson Rod}}|This is best on worms and other multi-hit scenarios, and is a support weapon.|'''C''' '''+'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|weapon|{{item|Gray Zapinator}}|This is difficult to use and to obtain.|'''†''' '''*'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|weapon|{{item|Sparkling Empress}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|weapon|{{item|Thunder Zapper}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|armor|{{item|Jungle armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|armor|{{item|Victide armor|image=Victide armor Hermit Helmet.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|accessoryOffense|{{item|Mana Flower}} / {{item|Magic Cuffs}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|buff|{{item|Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil1|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|minions|{{item|Brittle Star Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|minions|{{item|Deathstare Rod}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|minions|{{item|Enchanted Conch}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|sentries|{{item|Polyp Launcher}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|sentries|{{item|Rusty Beacon Prototype}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|weaponSummon|{{item|Snapthorn}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|armor|{{item|Flinx Fur Coat|image=Flinx Fur Coat (equipped).png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|armor|{{item|Victide armor|image=Victide armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|armor|{{item|Wulfrum armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|accessoryOffense|{{item|Voltaic Jelly}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil1|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponSpam|{{item|Pumpkaboom}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponSpam|{{item|Sand Dollar}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponSpam|{{item|Seafoam Bomb}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponSpam|{{item|Spore Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponStealth|{{item|Contaminated Bile}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponStealth|{{item|Scourge of the Desert|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|weaponStealth|{{item|Spore Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|armor|{{item|Sulphurous armor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|armor|{{item|Victide armor|image=Victide armor Headcrab.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|accessorySpam|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|accessoryStealth|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|accessoryStealth|{{item|Scuttler's Jewel}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil1|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-evil1|support|{{item|Brittle Star Staff|scale=0.75}} / {{item|Wulfrum Controller|scale=0.75}}|Use in its defensive form.}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|armor|{{item|Gold armor}} / {{item|Platinum armor}}|These have a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryDefense|{{item|Unholy Tonic|scale=0.75}} / {{item|Vicious Tonic|scale=0.75}}|Use which matches your world evil.}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryDefense|{{item|Crown Jewel}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryDefense|{{item|Gladiator's Locket|scale=0.75}}|This is difficult to obtain, and only one can be obtained per world.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryDefense|{{item|Rover Drive}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryMobilityPrimary|{{item|Extra jump|Any Balloon|image=Extra jumps Horseshoe Balloon.gif}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryMobilityPrimary|{{item|Fledgling Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryMobility|{{item|Lightning Boots}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryMobility|{{item|Magiluminescence}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryMobility|{{item|Shield of Cthulhu}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryGeneral|{{item|Fungal Clump}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryOffense|{{item|Amidias' Pendant}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|accessoryOffense|{{item|Black Glass Band}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-evil1|accessoryOffense|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buff|{{item|Healing Potion|s}} / {{item|Strange Brew}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffDefense|{{item|Heartreach Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffMobility|{{item|Bounding Potion|s}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-evil1|buffOffense|{{item|Rage Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffOffense|{{item|Thorns Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil1|buffOffense|{{item|Wrath Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}
+= pre-evil2 =
+{{ClassSetupsItem|melee|pre-evil2|weapon|{{item|Old Lord Claymore|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|weapon|{{item|Seashine Sword}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|weapon|{{item|Smoking Comet}}|This should be used with a {{item|Counterweights|image=Black_Counterweight.png|Counterweight}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|weapon|{{item|The Meatball}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|weapon|{{item|Urchin Mace}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|armor|{{item|Molten armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|accessoryOffense|{{item|Feral Claws}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|accessoryOffense|{{item|Magma Stone}}}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|accessoryOffense|{{item|Counterweights|image=Black_Counterweight.png|Counterweight}}|This should be used with {{item|Smoking Comet}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-evil2|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|weapon|{{item|Boomstick}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|weapon|{{item|Firestorm Cannon}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|weapon|{{item|Magna Cannon|scale=0.75}} / {{item|Opal Striker|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|weapon|{{item|Molten Fury}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|weapon|{{item|Spiky Ball|s}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|armor|{{item|Victide armor|image=Victide armor Coral Turban.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|accessoryOffense|{{item|Protolith Bangle}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|accessoryOffense|{{item|Scions Curio}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|ammo|{{item|Meteor Shot}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|ammo|{{item|Hellfire Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-evil2|ammo|{{item|Unholy Arrow|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|weapon|{{item|The Cauldron}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|weapon|{{item|Demon Scythe}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|weapon|{{item|Flare Bolt}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|weapon|{{item|Hellwing Staff|scale=0.75}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|weapon|{{item|Space Gun}}|This should be used with {{item|Meteor armor}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|armor|{{item|Jungle armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|armor|{{item|Meteor armor}}|This should be used with {{item|Space Gun}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|accessoryOffense|{{item|Batholith Bangle}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|accessoryOffense|{{item|Mana Flower}} / {{item|Magic Cuffs}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|buff|{{item|Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-evil2|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|minions|{{item|Imp Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|minions|{{item|Scab Ripper}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|minions|{{item|Vile Feeder}}|This item is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|sentries|{{item|Polyp Launcher}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|sentries|{{item|Rusty Beacon Prototype}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|weaponSummon|{{item|Snapthorn}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|armor|{{item|Obsidian armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|accessoryOffense|{{item|Voltaic Jelly}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-evil2|buffOffense|{{item|War Table|Strategist}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponSpam|{{item|Ashen Stalactite}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponSpam|{{item|Infernal Kris}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponSpam|{{item|Meteor Fist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponSpam|{{item|Sludge Splotch}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponStealth|{{item|Ashen Stalactite}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponStealth|{{item|Meteor Fist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|weaponStealth|{{item|Sludge Splotch}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|armor|{{item|Sulphurous armor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|accessorySpam|{{item|Black Glass Band}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|accessorySpam|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|accessorySpam|{{item|Shark Tooth Necklace}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|accessoryStealth|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|accessoryStealth|{{item|Scuttler's Jewel}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|accessoryStealth|{{item|Silencing Sheath}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-evil2|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-evil2|support|{{item|Brittle Star Staff|scale=0.75}} / {{item|Wulfrum Controller|scale=0.75}}|Use in its defensive form.}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|armor|{{item|Crimson armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|armor|{{item|Shadow armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryDefense|{{item|Brain of Confusion}}|Dodges in Calamity are guaranteed on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryDefense|{{item|Unholy Tonic|scale=0.75}} / {{item|Vicious Tonic|scale=0.75}}|Use which matches your world evil.}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryDefense|{{item|Crown Jewel}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryDefense|{{item|Gladiator's Locket|scale=0.75}}|This is difficult to obtain, and only one can be obtained per world.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryDefense|{{item|Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryMobilityPrimary|{{item|Extra jump|Any Balloon|image=Extra jumps Horseshoe Balloon.gif}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryMobilityPrimary|{{item|Fledgling Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryMobility|{{item|Lightning Boots}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryMobility|{{item|Magiluminescence}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryMobility|{{item|Shield of Cthulhu}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|accessoryGeneral|{{item|Fungal Clump}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-evil2|accessoryOffense|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buff|{{item|Healing Potion|s}} / {{item|Honeyfin|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffDefense|{{item|Heartreach Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffMobility|{{item|Bounding Potion|s}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-evil2|buffOffense|{{item|Rage Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffOffense|{{item|Thorns Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-evil2|buffOffense|{{item|Wrath Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}
+
+= pre-skeletron =
+{{ClassSetupsItem|melee|pre-skeletron|weapon|{{item|Aorta}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|weapon|{{item|Bladecrest Oathsword}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|weapon|{{item|Goldplume Spear|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|weapon|{{item|Perfect Dark}} / {{item|Vein Burster}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|weapon|{{item|Wind Blade}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|armor|{{item|Aerospec armor|image=Aerospec armor Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|armor|{{item|Molten armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|accessoryOffense|{{item|Bloody Worm Tooth}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|accessoryOffense|{{item|Feral Claws}}}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|buffOffense|{{item|Flask of Fire}}|This should be used on Skeletron.}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|buffOffense|{{item|Flask of Poison}}|This should be used on Deerclops.}}<!--
+-->{{ClassSetupsItem|melee|pre-skeletron|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|weapon|{{item|Aquashard Shotgun}}|This should be used with {{item|Musket Ball|s}} or {{item|Tungsten Bullet|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|weapon|{{item|Galeforce|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|weapon|{{item|Firestorm Cannon}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|weapon|{{item|Shadethrower|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|weapon|{{item|P-TSL: Short Circuit}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|armor|{{item|Aerospec armor|image=Aerospec armor Hood.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|accessoryOffense|{{item|Protolith Bangle}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|ammo|{{item|Hellfire Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-skeletron|ammo|{{item|Musket Ball|s}} / {{item|Tungsten Bullet|s}}|This should be used with {{item|Aquashard Shotgun}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|weapon|{{item|Blood Bath}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|weapon|{{item|Shaderain Staff}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|weapon|{{item|Space Gun}}|This should be used with {{item|Meteor armor}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|weapon|{{item|Tradewinds}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|armor|{{item|Aerospec armor|image=Aerospec armor Hat.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|armor|{{item|Meteor armor}}|This should be used with {{item|Space Gun}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|accessoryOffense|{{item|Batholith Bangle}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|accessoryOffense|{{item|Mana Flower}} / {{item|Magic Cuffs}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|buff|{{item|Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-skeletron|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|minions|{{item|Dank Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|minions|{{item|Hornet Staff}}|This should be used with {{item|Hive Pack}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|minions|{{item|Imp Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|minions|{{item|P-PMA: Aqueous Hunter Drone}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|sentries|{{item|Houndius Shootius}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|sentries|{{item|Polyp Launcher}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|weaponSummon|{{item|Snapthorn}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|armor|{{item|Aerospec armor|image=Aerospec armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|armor|{{item|Bee armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|armor|{{item|Obsidian armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|accessoryOffense|{{item|Hive Pack}}|This should be used with {{item|Hornet Staff}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|accessoryOffense|{{item|Pygmy Necklace}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|accessoryGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|accessoryOffense|{{item|Voltaic Jelly}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|buffOffense|{{item|Flask of Fire}}|This should be used on Skeletron.}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|buffOffense|{{item|Flask of Poison}}|This should be used on Deerclops.}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-skeletron|buffOffense|{{item|War Table|Strategist}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponSpam|{{item|Hardened Honeycomb}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponSpam|{{item|Feather Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponSpam|{{item|Meteor Fist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponSpam|{{item|P-LSR: Aerial Tracker}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponSpam|{{item|Rot Ball}} / {{item|Tooth Ball}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponStealth|{{item|Hardened Honeycomb}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponStealth|{{item|Feather Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponStealth|{{item|Meteor Fist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|weaponStealth|{{item|P-LSR: Aerial Tracker}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|armor|{{item|Aerospec armor|image=Aerospec armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|accessoryGeneral|{{item|Bloodstained Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|accessorySpam|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|accessorySpam|{{item|Shark Tooth Necklace}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|accessoryStealth|{{item|Filthy Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|accessoryStealth|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|accessoryStealth|{{item|Silencing Sheath}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|buffOffense|{{item|Flask of Fire}}|This should be used on Skeletron.}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|buffOffense|{{item|Flask of Poison}}|This should be used on Deerclops.}}<!--
+-->{{ClassSetupsItem|rogue|pre-skeletron|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-skeletron|support|{{item|Brittle Star Staff|scale=0.75}} / {{item|Wulfrum Controller|scale=0.75}}|Use in its defensive form.}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|armor|{{item|Crimson armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|armor|{{item|Shadow armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryDefense|{{item|Brain of Confusion}}|Dodges in Calamity are guaranteed on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryDefense|{{item|Crown Jewel}} / {{item|Honey Dew}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryDefense|{{item|Gladiator's Locket|scale=0.75}}|This is difficult to obtain, and only one can be obtained per world.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryDefense|{{item|Worm Scarf}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryMobilityPrimary|{{item|Bundle of Horseshoe Balloons}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryMobilityPrimary|{{item|Skyline Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryMobility|{{item|Lightning Boots}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|accessoryMobility|{{item|Magiluminescence}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-skeletron|accessoryOffense|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buff|{{item|Healing Potion|s}} / {{item|Honeyfin|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffDefense|{{item|Heartreach Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffDefense|{{item|Warmth Potion|s}}|This should be used on Deerclops.}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffMobility|{{item|Bounding Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-skeletron|buffOffense|{{item|Rage Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-skeletron|buffOffense|{{item|Wrath Potion|s}}|This is difficult to obtain depending on your world evil.|'''*'''}}
+
+= pre-wof =
+{{ClassSetupsItem|melee|pre-wof|weapon|{{item|Dark Lance}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|weapon|{{item|Fractured Ark}}|This weapon does not benefit from melee speed bonuses.}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|weapon|{{item|Goldplume Spear}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|weapon|{{item|Wind Blade}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|armor|{{item|Molten armor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|armor|{{item|Statigel armor|image=Statigel armor Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|accessoryOffense|{{item|Bloody Worm Tooth}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|accessoryOffense|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|accessoryOffense|{{item|Feral Claws}}}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|buffOffense|{{item|Flask of Fire}}|This should be used on Slime God.}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|buffOffense|{{item|Flask of Poison}}|This should be used on Wall of Flesh.}}<!--
+-->{{ClassSetupsItem|melee|pre-wof|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|weapon|{{item|Archerfish|scale=0.75}}|This should be used with {{item|Musket Ball|s}} or {{item|Tungsten Bullet|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|weapon|{{item|Flurrystorm Cannon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|weapon|{{item|Gunk Shot|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|weapon|{{item|Lunarian Bow}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|weapon|{{item|Shadethrower}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|armor|{{item|Necro armor}}|This has a new set bonus.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|armor|{{item|Statigel armor|image=Statigel armor Headgear.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|accessoryOffense|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|accessoryOffense|{{item|Protolith Bangle}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|ammo|{{item|Shimmer Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|ammo|{{item|Meteor Shot}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-wof|ammo|{{item|Musket Ball|s}} / {{item|Tungsten Bullet|s}}|This should be used with {{item|Archerfish|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|weapon|{{item|Abyssal Tome}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|weapon|{{item|Aqua Scepter}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|weapon|{{item|Blood Bath}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|weapon|{{item|Demon Scythe}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|weapon|{{item|Eldritch Tome}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|weapon|{{item|Night's Ray}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|armor|{{item|Aerospec armor|image=Aerospec armor Hat.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|armor|{{item|Meteor armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|armor|{{item|Statigel armor|image=Statigel armor Cap.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|accessoryOffense|{{item|Batholith Bangle}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|accessoryOffense|{{item|Mana Flower}} / {{item|Magic Cuffs}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|accessoryOffense|{{item|Mana Polarizer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|buff|{{item|Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-wof|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|minions|{{item|Dank Staff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|minions|{{item|Flesh of Infidelity}}|This requires an arena set at the same height as one of the Wall of Flesh's eyes.|'''†'''}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|minions|{{item|Imp Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|minions|{{item|Staff of Necrosteocytes}}|This requires an arena set at the same height as one of the Wall of Flesh's eyes.|'''†'''}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|sentries|{{item|Polyp Launcher}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|sentries|{{item|Houndius Shootius}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|weaponSummon|{{item|Spinal Tap}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|armor|{{item|Bee armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|armor|{{item|Obsidian armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|armor|{{item|Statigel armor|image=Statigel armor Hood.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|accessoryOffense|{{item|Jelly-Charged Battery}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|accessoryOffense|{{item|Pygmy Necklace}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|accessorGeneral|{{item|Spirit Glyph}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|buffOffense|{{item|Flask of Fire}}|This should be used on Slime God.}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|buffOffense|{{item|Flask of Poison}}|This should be used on Wall of Flesh.}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-wof|buffOffense|{{item|War Table|Strategist}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponSpam|{{item|Feather Knife}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponSpam|{{item|Gel Dart}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponSpam|{{item|Glaive}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponSpam|{{item|Lionfish}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponSpam|{{item|Walking Cane}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponStealth|{{item|Gel Dart}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponStealth|{{item|Glaive}}|This requires aggresive play to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponStealth|{{item|Lionfish}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|weaponStealth|{{item|Shinobi Blade}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|armor|{{item|Statigel armor|image=Statigel armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|accessoryGeneral|{{item|Bloodstained Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|accessorySpam|{{item|Craw Carapace}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|accessorySpam|{{item|Shark Tooth Necklace}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|accessoryStealth|{{item|Filthy Glove}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|accessoryStealth|{{item|Coin of Deceit}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|accessoryStealth|{{item|Mirage Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|buffOffense|{{item|Flask of Fire}}|This should be used on Slime God.}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|buffOffense|{{item|Flask of Poison}}|This should be used on Wall of Flesh.}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|buffOffense|{{item|Shadow Potion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-wof|ammo|{{item|Gold Coin|s}}|Upgrades of this are also viable, and should be in the inventory if using {{item|Walking Cane}}.|'''≤ Ω'''}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-wof|support|{{item|Brittle Star Staff|scale=0.75}} / {{item|Wulfrum Controller|scale=0.75}}|Use in its defensive form.}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryDefense|{{item|Brain of Confusion}}|Dodges in Calamity are guaranteed on a cooldown.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryDefense|{{item|Crown Jewel}} / {{item|Honey Dew}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryDefense|{{item|Gladiator's Locket|scale=0.75}}|This is difficult to obtain, and only one can be obtained per world.|'''*'''}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryDefense|{{item|Obsidian Shield}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryDefense|{{item|Radiant Ooze}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryMobilityPrimary|{{item|Bundle of Horseshoe Balloons}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryMobilityPrimary|{{item|Skyline Wings}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryMobility|{{item|Counter Scarf}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryMobility|{{item|Frog Leg}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryMobility|{{item|Magiluminescence}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|accessoryMobility|{{item|Terraspark Boots}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-wof|accessoryOffense|{{item|Bone Glove}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buff|{{item|Honeyfin|s}} / {{item|Restoration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffGeneral|{{item|Inferno Potion|s}}|This is difficult to use due to screen clutter.|'''†'''}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffDefense|{{item|Heartreach Potion|s}}|This should be used on Wall of Flesh.}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffMobility|{{item|Bounding Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffMobility|{{item|Slice of Cake}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-wof|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-wof|buffOffense|{{item|Wrath Potion|s}}}}

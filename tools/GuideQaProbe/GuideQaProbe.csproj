@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Test-only mod that drives Better Guide in an isolated profile (tools/RunClientQa.ps1). Never shipped.
+       Build with -p:TMLInstallPath=... -p:BuildMod=false after building KhuMue. -->
+  <PropertyGroup>
+    <AssemblyName>GuideQaProbe</AssemblyName>
+    <RootNamespace>GuideQaProbe</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+  </PropertyGroup>
+  <Import Project="$(TMLInstallPath)/tMLMod.targets" Condition="'$(TMLInstallPath)' != ''" />
+  <ItemGroup>
+    <Reference Include="KhuMue">
+      <HintPath>../../bin/Release/net8.0/KhuMue.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,199 @@
+{
+  "exitWhenDone": true,
+  "itemStep": 1,
+  "sweepThai": true,
+  "world": {
+    "vanilla": {
+      "downedSlimeKing": true,
+      "downedBoss1": true,
+      "downedBoss2": true,
+      "downedBoss3": true,
+      "hardMode": true,
+      "downedMechBoss1": true,
+      "downedMechBossAny": true,
+      "downedQueenBee": true
+    },
+    "calamity": {
+      "downedDesertScourge": true,
+      "downedCrabulon": true,
+      "downedHiveMind": true,
+      "downedPerforator": true,
+      "downedSlimeGod": true,
+      "downedCryogen": true
+    },
+    "revengeance": true
+  },
+  "shots": [
+    {
+      "name": "en-home",
+      "page": "home",
+      "lang": "en-US",
+      "wait": 40
+    },
+    {
+      "name": "en-progression",
+      "page": "progression"
+    },
+    {
+      "name": "en-entry-sirnautilus",
+      "page": "entry:SirNautilus"
+    },
+    {
+      "name": "en-entry-moonlord",
+      "page": "entry:MoonLord"
+    },
+    {
+      "name": "en-loadouts-armor",
+      "page": "loadouts:pre-plantera:melee",
+      "scroll": 520
+    },
+    {
+      "name": "en-items-search",
+      "page": "items:life"
+    },
+    {
+      "name": "en-item-rod",
+      "page": "item:Terraria/RodofDiscord"
+    },
+    {
+      "name": "en-item-voucher",
+      "page": "item:SpiritReforged/PrefixVoucher"
+    },
+    {
+      "name": "en-item-hermes",
+      "page": "item:Terraria/HermesBoots"
+    },
+    {
+      "name": "en-item-swordfish",
+      "page": "item:Terraria/ObsidianSwordfish"
+    },
+    {
+      "name": "en-item-anglerhat",
+      "page": "item:Terraria/AnglerHat"
+    },
+    {
+      "name": "en-item-truffleworm",
+      "page": "item:Terraria/TruffleWorm"
+    },
+    {
+      "name": "en-item-nightsedge",
+      "page": "item:Terraria/NightsEdge"
+    },
+    {
+      "name": "en-item-nightsedge-totals",
+      "page": "item:Terraria/NightsEdge",
+      "scroll": 560
+    },
+    {
+      "name": "en-guide-fishing",
+      "page": "guide:fishing"
+    },
+    {
+      "name": "en-upgrades",
+      "page": "upgrades"
+    },
+    {
+      "name": "en-settings",
+      "page": "settings"
+    },
+    {
+      "name": "th-home",
+      "page": "home",
+      "lang": "th-TH",
+      "wait": 90
+    },
+    {
+      "name": "th-items-search",
+      "page": "items:ไฟ"
+    },
+    {
+      "name": "th-item-tear",
+      "page": "item:CalamityMod/CausticTear"
+    },
+    {
+      "name": "th-item-scourge",
+      "page": "item:Terraria/ScourgeoftheCorruptor"
+    },
+    {
+      "name": "th-item-bloodfin",
+      "page": "item:CalamityMod/Bloodfin"
+    },
+    {
+      "name": "th-guide-fishing",
+      "page": "guide:fishing"
+    },
+    {
+      "name": "th-item-nightsedge",
+      "page": "item:Terraria/NightsEdge"
+    },
+    {
+      "name": "th-settings",
+      "page": "settings"
+    },
+    {
+      "name": "tip-auric",
+      "page": "item:CalamityMod/AuricBar",
+      "lang": "en-US",
+      "hover": "CalamityMod/AuricBar",
+      "wait": 40
+    },
+    {
+      "name": "tip-shadowspec",
+      "page": "item:CalamityMod/ShadowspecBar",
+      "hover": "CalamityMod/ShadowspecBar"
+    },
+    {
+      "name": "tip-zenith",
+      "page": "item:Terraria/Zenith",
+      "hover": "Terraria/Zenith"
+    },
+    {
+      "name": "after-tooltips",
+      "page": "home"
+    },
+    {
+      "name": "c-sidebar-items",
+      "page": "home",
+      "click": [
+        92,
+        228
+      ],
+      "expect": "ItemsPage",
+      "wait": 30
+    },
+    {
+      "name": "c-back",
+      "page": "entry:MoonLord",
+      "click": [
+        212,
+        27
+      ],
+      "expect": "ItemsPage",
+      "wait": 30
+    },
+    {
+      "name": "c-open-details",
+      "page": "home",
+      "clickNode": "Button",
+      "expect": "EntryPage",
+      "wait": 30
+    },
+    {
+      "name": "c-item-cell",
+      "page": "items:life",
+      "clickNode": "ItemGrid",
+      "expect": "ItemPage",
+      "wait": 30
+    },
+    {
+      "name": "c-close",
+      "page": "home",
+      "click": [
+        -28,
+        27
+      ],
+      "expect": "closed",
+      "wait": 30
+    }
+  ]
+}

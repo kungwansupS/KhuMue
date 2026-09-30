@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Tool-only mod: dumps the live item/recipe/drop/shop/boss registries of the loaded
+       mod pack to JSON so KhuMue's curated data can be verified against the real game.
+       Never shipped. Build with -p:TMLInstallPath=... and -p:BuildMod=false, then package
+       with tModLoader -build into an isolated profile (see tools/RunDataDump.ps1). -->
+  <PropertyGroup>
+    <AssemblyName>BGDataDump</AssemblyName>
+    <RootNamespace>BGDataDump</RootNamespace>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+  </PropertyGroup>
+  <Import Project="$(TMLInstallPath)/tMLMod.targets" Condition="'$(TMLInstallPath)' != ''" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "exitWhenDone": true,
+  "itemStep": 50,
+  "shots": [
+    { "name": "c-home", "page": "home", "lang": "en-US", "wait": 40 },
+    { "name": "c-sidebar-items", "page": "home", "click": [92, 228], "expect": "ItemsPage", "wait": 30 },
+    { "name": "c-back", "page": "entry:MoonLord", "click": [212, 27], "expect": "ItemsPage", "wait": 30 },
+    { "name": "c-open-details", "page": "home", "clickNode": "Button", "expect": "EntryPage", "wait": 30 },
+    { "name": "c-item-cell", "page": "items:life", "clickNode": "ItemGrid", "expect": "ItemPage", "wait": 30 },
+    { "name": "c-close", "page": "home", "click": [-28, 27], "expect": "closed", "wait": 30 }
+  ]
+}

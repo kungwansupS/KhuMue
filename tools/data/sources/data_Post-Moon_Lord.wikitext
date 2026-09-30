@@ -1,0 +1,674 @@
+= pre-provi =
+{{ClassSetupsItem|melee|pre-provi|weapon|{{item|Ark of the Elements|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|weapon|{{item|Greatsword of Judgement|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|weapon|{{item|Lightspeed|scale=0.75}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|weapon|{{item|Meowmere}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|weapon|{{item|Stellar Contempt|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|armor|{{item|Solar Flare armor}}|This should be used with {{item|Solar Wings}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|accessoryGeneral|{{item|Celestial Shell}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|accessoryOffense|{{item|Fire Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|accessoryMobilityPrimary|{{item|Solar Wings}}|This should be used with {{item|Solar Flare armor}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|melee|pre-provi|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|weapon|{{item|Barracuda Gun}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|weapon|{{item|Clockwork Bow|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|weapon|{{item|Prideful Hunter's Planar Ripper}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|weapon|{{item|Planetary Annihilation|scale=0.75}}|This should be used with {{item|Wooden Arrow|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|weapon|{{item|Superradiant Slaughterer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|armor|{{item|Lunic Corps armor}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|armor|{{item|Vortex armor}}|This should be used with {{item|Vortex Booster}}.|'''† Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|accessoryOffense|{{item|Daawnlight Spirit Origin}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|accessoryOffense|{{item|Dynamo Stem Cells|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|accessoryOffense|{{item|Recon Scope}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|accessoryMobilityPrimary|{{item|Vortex Booster}}|This restores flight time while in Vortex stealth and so should be used with {{item|Vortex armor}}.|'''Δ Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|ammo|{{item|Venom Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|ammo|{{item|Wooden Arrow|s}}|This should be used with {{item|Planetary Annihilation|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-provi|ammo|{{item|Endless Musket Pouch}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|weapon|{{item|Chronomancer's Scythe|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|weapon|{{item|Genesis}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|weapon|{{item|Nucleosynthesis|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|weapon|{{item|Nuclear Fury}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|weapon|{{item|Rouge Slash}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|armor|{{item|Nebula armor}}|This should be used with {{item|Nebula Mantle}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|accessoryOffense|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|accessoryMobilityPrimary|{{item|Nebula Mantle}}|This grants increased booster pickup range and so should be used with {{item|Nebula armor}}.|'''Δ Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|buff|{{item|Supreme Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-provi|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|minions|{{item|Legion of Celestia|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|minions|{{item|Flowers of Mortality|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|minions|{{item|Tactical Plague Engine}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|sentries|{{item|Lunar Portal Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|sentries|{{item|Rainbow Crystal Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|sentries|{{item|Sanctified Spark|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|armor|{{item|Stardust armor}}|This should be used with {{item|Stardust Wings}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|accessoryMobilityPrimary|{{item|Stardust Wings}}|This should be used with {{item|Stardust armor}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|accessoryGeneral|{{item|Heart of the Elements}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|accessoryOffense|{{item|Star-Tainted Generator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|accessoryOffense|{{item|Statis' Curse}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|summon|pre-provi|ammo|{{item|Holy Fire Bullet|s}} / {{item|Luminite Bullet|s}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponSpam|{{item|Celestial Reaper|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponSpam|{{item|Lunar Kunai}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponSpam|{{item|Profaned Partisan|scale=0.85}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponSpam|{{item|Rebounding Rainbow}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponStealth|{{item|Celestial Reaper|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponStealth|{{item|Lunar Kunai}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponStealth|{{item|Profaned Partisan|scale=0.85}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|weaponStealth|{{item|Utensil Poker}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|armor|{{item|Empyrean armor}}|This should be used with {{item|Exodus Wings}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessoryMobilityPrimary|{{item|Exodus Wings|scale=0.75}}|This should be used with {{item|Empyrean armor}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessorySpam|{{item|Blunder Booster}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessorySpam|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessorySpam|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessoryStealth|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-provi|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|support|{{item|Eye of Magnus|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|support|{{item|Relic of Deliverance|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|support|{{item|Rod of Discord}}|Calamity adds a sidegrade to this item, the {{item|Normality Relocator}}.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-provi|armor|{{item|Astral armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-provi|accessoryGeneral|{{item|The Community|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryDefense|{{item|Ambrosial Ampoule}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryDefense|{{item|Bloom Stone|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryDefense|{{item|Deific Amulet}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryDefense|{{item|Frozen Shield|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryMobilityPrimary|{{item|Celestial Starboard}}|This has powerful hover and boost abilities.}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryMobilityPrimary|{{item|Moon Walkers|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryMobility|{{item|Asgard's Valor|scale=0.75}} / {{item|Statis' Ninja Belt}} / {{item|Shield of the High Ruler|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryMobility|{{item|Soaring Insignia}}|This no longer grants infinite flight.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-provi|accessoryOffense|{{item|Sand Shark Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|accessoryOffense|{{item|Warbanner of the Righteous|scale=0.75}}|This requires being close to the boss to perform well.|'''†'''}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buff|{{item|Super Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffGeneral|{{item|Candles#Purchased|Buff Candles|image=Buff Candles.gif|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffDefense|{{item|Heartreach Potion|s}}|Use this on Dragonfolly.}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffDefense|{{item|Photosynthesis Potion|s}}|Use this on Dragonfolly.}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-provi|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-provi|buffOffense|{{item|Wrath Potion|s}}}}
+
+= pre-polter =
+{{ClassSetupsItem|melee|pre-polter|weapon|{{item|Empyrean Knives}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|weapon|{{item|Holy Collider|scale=0.75}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|weapon|{{item|Meowmere}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|weapon|{{item|Pulse Dragon}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|weapon|{{item|Stellar Contempt}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|weapon|{{item|Terratomere}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|armor|{{item|Tarragon armor|image=Tarragon armor Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|accessoryOffense|{{item|Badge of Bravery}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|accessoryOffense|{{item|Fire Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|accessoryOffense|{{item|Warbanner of the Righteous|scale=0.75}}|This requires being close to the boss to perform well.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|buffOffense|{{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-polter|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|weapon|{{item|Angelic Shotgun}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|weapon|{{item|Blood Boiler}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|weapon|{{item|Ontological Despoiler}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|weapon|{{item|Spyker}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|weapon|{{item|Telluric Glare|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|armor|{{item|Tarragon armor|image=Tarragon armor Visage.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|accessoryOffense|{{item|Daawnlight Spirit Origin}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|accessoryOffense|{{item|Dynamo Stem Cells|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|accessoryOffense|{{item|Recon Scope}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|ammo|{{item|Bloodfire Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|ammo|{{item|Luminite Arrow|s}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-polter|ammo|{{item|Endless Musket Pouch}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|weapon|{{item|Nano Purge}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|weapon|{{item|Plasma Caster}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|weapon|{{item|Purge Guzzler}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|weapon|{{item|Thorn Blossom}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|weapon|{{item|Volterion|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|armor|{{item|Prismatic armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|armor|{{item|Tarragon armor|image=Tarragon armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|accessoryOffense|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|buff|{{item|Supreme Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-polter|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|minions|{{item|Dragonblood Disgorger}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|minions|{{item|King of Constellations, Tenryū|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|minions|{{item|Snake Eyes}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|minions|{{item|Virid Vanguard}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|sentries|{{item|Lunar Portal Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|sentries|{{item|Rainbow Crystal Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|sentries|{{item|Sanctified Spark|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|armor|{{item|Tarragon armor|image=Tarragon armor Horned Helm.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|armor|{{item|Stardust armor}}|This should be used with {{item|Stardust Wings}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|armor|{{item|Valhalla Knight armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|accessoryGeneral|{{item|Profaned Soul Artifact}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|accessoryMobilityPrimary|{{item|Stardust Wings}}|This should be used with {{item|Stardust armor}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|accessoryOffense|{{item|Star-Tainted Generator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|accessoryOffense|{{item|Statis' Curse}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|buffOffense|{{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-polter|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponSpam|{{item|Cosmic Kunai}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponSpam|{{item|Molten Amputator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponSpam|{{item|Tarragon Throwing Dart}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponSpam|{{item|Twisting Thunder}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponSpam|{{item|Wave Pounder}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponStealth|{{item|Molten Amputator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponStealth|{{item|Profaned Partisan}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|weaponStealth|{{item|Reality Rupture|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|armor|{{item|Empyrean armor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|armor|{{item|Tarragon armor|image=Tarragon armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessorySpam|{{item|Blunder Booster}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessorySpam|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessorySpam|{{item|Destroyer Emblem}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessoryStealth|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessoryStealth|{{item|Spectral Veil|scale=0.75}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|buffOffense|{{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-polter|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|support|{{item|Claret Cannon}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|all|pre-polter|support|{{item|Eye of Magnus|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|support|{{item|Relic of Deliverance|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|support|{{item|Rod of Discord}}|Calamity adds a sidegrade to this item, the {{item|Normality Relocator}}.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryGeneral|{{item|The Evolution|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-polter|accessoryGeneral|{{item|The Community|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryDefense|{{item|Ambrosial Ampoule}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryDefense|{{item|Deific Amulet}}}}<!---->{{ClassSetupsItem|all|pre-polter|accessoryMobilityPrimary|{{item|Elysian Wings|scale=0.75}}|This is faster than the other wings.}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryMobilityPrimary|{{item|Moon Walkers|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryMobilityPrimary|{{item|Tarragon Wings|scale=0.75}}|This has more flight time than the other wings.}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryMobility|{{item|Ascendant Insignia}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|accessoryMobility|{{item|Elysian Aegis|scale=0.75}} / {{item|Statis' Ninja Belt}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-polter|accessoryOffense|{{item|Arc Flash Ring}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buff|{{item|Bloodfin}} / {{item|Supreme Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffGeneral|{{item|Candles#Purchased|Buff Candles|image=Buff Candles.gif|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-polter|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-polter|buffOffense|{{item|Wrath Potion|s}}}}
+
+= pre-dog =
+{{ClassSetupsItem|melee|pre-dog|weapon|{{item|Banshee Hook|scale=0.5}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|weapon|{{item|Crescent Moon}}|This should be used with {{item|Stratus Sphere}}.}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|weapon|{{item|Death's Ascension|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|weapon|{{item|Galileo Gladius}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|weapon|{{item|Neptune's Bounty|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|armor|{{item|Bloodflare armor|image=Bloodflare armor Ram Mask.png}}|This should be used with {{item|Heartreach Potion|s}} and {{item|Photosynthesis Potion|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|accessoryOffense|{{item|Badge of Bravery}}}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|accessoryOffense|{{item|Fire Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|accessoryOffense|{{item|Warbanner of the Righteous|scale=0.75}}|This requires being close to the boss to perform well.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|buffDefense|{{item|Heartreach Potion|s}} / {{item|Photosynthesis Potion|s}}|These should be used with {{item|Bloodflare armor|image=Bloodflare armor Ram Mask.png}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|melee|pre-dog|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|weapon|{{item|Fetid Emesis}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|weapon|{{item|Halley's Inferno}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|weapon|{{item|Monsoon}}|This should be used with {{item|Quiver of Nihility|scale=0.75}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|weapon|{{item|Sulphuric Acid Cannon}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|weapon|{{item|Tau Cannon|scale=0.75}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|armor|{{item|Bloodflare armor|image=Bloodflare armor Horned Helm.png}}|This should be used with {{item|Heartreach Potion|s}} and {{item|Photosynthesis Potion|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|accessoryOffense|{{item|Daawnlight Spirit Origin}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|accessoryOffense|{{item|Quiver of Nihility|scale=0.75}}|This is difficult to use and should be used with {{item|Monsoon|scale=0.75}}.|'''† Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|accessoryOffense|{{item|Recon Scope}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|buffDefense|{{item|Heartreach Potion|s}} / {{item|Photosynthesis Potion|s}}|These should be used with {{item|Bloodflare armor|image=Bloodflare armor Horned Helm.png}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|ammo|{{item|Wooden Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|ammo|{{item|Bloodfire Bullet|s}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|ammo|{{item|Holy Fire Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|ammo|{{item|Luminite Bullet|s}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-dog|ammo|{{item|Mini Nuke I|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|weapon|{{item|Dark Spark}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|weapon|{{item|Phantasmal Fury|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|weapon|{{item|Shadowbolt Staff}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|weapon|{{item|Venusian Trident}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|weapon|{{item|Vitriolic Viper}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|armor|{{item|Bloodflare armor|image=Bloodflare armor Hydra Hood.png}}|This should be used with {{item|Heartreach Potion|s}} and {{item|Photosynthesis Potion|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|armor|{{item|Prismatic armor}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|accessoryOffense|{{item|Arcane Flower}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|buff|{{item|Supreme Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|buffDefense|{{item|Heartreach Potion|s}} / {{item|Photosynthesis Potion|s}}|These should be used with {{item|Bloodflare armor|image=Bloodflare armor Hydra Hood.png}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-dog|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|minions|{{item|Dragonblood Disgorger}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|minions|{{item|Ethereal Subjugator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|minions|{{item|King of Constellations, Tenryū|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|minions|{{item|Mutated Truffle}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|minions|{{item|Virid Vanguard}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|sentries|{{item|Cadaverous Carrion|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|sentries|{{item|Lunar Portal Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|sentries|{{item|Sanctified Spark|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|armor|{{item|Bloodflare armor|image=Bloodflare armor Wyvern Helm.png}}|This should be used with {{item|Heartreach Potion|s}} and {{item|Photosynthesis Potion|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|armor|{{item|Stardust armor}}|This is riskier to use and should be used with {{item|Stardust Wings}}.|'''† Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|accessoryGeneral|{{item|Profaned Soul Artifact}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|accessoryMobilityPrimary|{{item|Stardust Wings}}|This should be used with {{item|Stardust armor}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|accessoryOffense|{{item|Star-Tainted Generator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|accessoryOffense|{{item|Statis' Curse}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|buffDefense|{{item|Heartreach Potion|s}} / {{item|Photosynthesis Potion|s}}|These should be used with {{item|Bloodflare armor|image=Bloodflare armor Wyvern Helm.png}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-dog|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponSpam|{{item|Deep Sea Dumbbell}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponSpam|{{item|Jaws of Oblivion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponSpam|{{item|The Old Reaper|scale=0.5}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponSpam|{{item|Sealed Singularity}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponSpam|{{item|Toxicant Twister}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponSpam|{{item|Vega|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponStealth|{{item|Jaws of Oblivion}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponStealth|{{item|Molten Amputator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponStealth|{{item|The Old Reaper|scale=0.5}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponStealth|{{item|Toxicant Twister}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponStealth|{{item|Twisting Thunder}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|weaponStealth|{{item|Vega|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|armor|{{item|Bloodflare armor|image=Bloodflare armor Imp Mask.png}}|This should be used with {{item|Heartreach Potion|s}} and {{item|Photosynthesis Potion|s}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|armor|{{item|Tarragon armor|image=Tarragon armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessorySpam|{{item|Blunder Booster}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessorySpam|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessoryStealth|{{item|Abyssal Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessoryStealth|{{item|Dark Matter Sheath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessoryStealth|{{item|Spectral Veil|scale=0.75}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|accessoryStealth|{{item|Vampiric Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|buffDefense|{{item|Heartreach Potion|s}} / {{item|Photosynthesis Potion|s}}|These should be used with {{item|Bloodflare armor|image=Bloodflare armor Imp Mask.png}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-dog|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|support|{{item|Claret Cannon}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|all|pre-dog|support|{{item|Eye of Magnus|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|support|{{item|Rod of Discord}}|Calamity adds a sidegrade to this item, the {{item|Normality Relocator}}.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-dog|support|{{item|Stratus Sphere}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|armor|{{item|Omega Blue armor}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryGeneral|{{item|Affliction|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-dog|accessoryGeneral|{{item|The Community|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryGeneral|{{item|The Evolution|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryDefense|{{item|Ambrosial Ampoule}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryDefense|{{item|Deific Amulet}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryMobilityPrimary|{{item|Elysian Wings|scale=0.75}}|This is faster than the other wings.}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryMobilityPrimary|{{item|Void Striders|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryMobilityPrimary|{{item|Tarragon Wings|scale=0.75}}||This has more flight time than the other wings.}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryMobility|{{item|Leviathan Ambergris}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryMobility|{{item|Ascendant Insignia}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|accessoryMobility|{{item|Elysian Aegis|scale=0.75}} / {{item|Statis' Ninja Belt}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-dog|accessoryOffense|{{item|Arc Flash Ring}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-dog|accessoryOffense|{{item|Reaper Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buff|{{item|Bloodfin}} / {{item|Supreme Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffGeneral|{{item|Candles#Purchased|Buff Candles|image=Buff Candles.gif|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-dog|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-dog|buffOffense|{{item|Wrath Potion|s}}}}
+= pre-yharon =
+{{ClassSetupsItem|melee|pre-yharon|weapon|{{item|Cosmic Discharge}}|This is risky to use and difficult to obtain.|'''† *'''}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|weapon|{{item|Devil's Devastation|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|weapon|{{item|Galaxy Smasher|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|weapon|{{item|Murasama|scale=0.75}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|weapon|{{item|The Obliterator}}|This should be used with {{item|Yoyo Bag}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|armor|{{item|God Slayer armor|image=God Slayer armor Horned Greathelm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|armor|{{item|Omega Blue armor}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|accessoryOffense|{{item|Badge of Bravery}}}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|accessoryOffense|{{item|Elemental Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|accessoryOffense|{{item|Warbanner of the Righteous|scale=0.75}}|This requires being close to the boss to perform well.|'''†'''}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|accessoryOffense|{{item|Yoyo Bag}}|This should be used with {{item|The Obliterator}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|buffOffense|{{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|melee|pre-yharon|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|weapon|{{item|Cleansing Blaze|scale=0.75}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|weapon|{{item|Onyxia}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|weapon|{{item|Scorched Earth}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|weapon|{{item|Thread of Eradication}}|This item does not benefit from increasing critical strike chance.}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|weapon|{{item|Universal Genesis|scale=0.5}}|This should be used with {{item|Endless Musket Pouch}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|armor|{{item|God Slayer armor|image=God Slayer armor Helmet.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|accessoryOffense|{{item|Daawnlight Spirit Origin}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|accessoryOffense|{{item|Planebreaker's Pouch}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|ammo|{{item|Venom Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|ammo|{{item|Bloodfire Bullet|s}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|ammo|{{item|Holy Fire Bullet|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|ammo|{{item|Endless Musket Pouch}}|This should be used with {{item|Universal Genesis|scale=0.5}}.|'''Ω<sup>2</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-yharon|ammo|{{item|Mini Nuke I|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|weapon|{{item|Hyperdeath Rift Scepter|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|weapon|{{item|Omicron|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|weapon|{{item|Primordial Ancient}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|weapon|{{item|Tesla Cannon}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|weapon|{{item|Voltaic Climax|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|armor|{{item|Silva armor|image=Silva armor Masked Cap.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|accessoryOffense|{{item|Ethereal Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|buff|{{item|Supreme Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-yharon|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|minions|{{item|Corvid Harbinger Staff}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|minions|{{item|Ethereal Subjugator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|minions|{{item|Mirror of Kalandra}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|minions|{{item|Sirius}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|minions|{{item|Void Eater Marionette|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|sentries|{{item|Cadaverous Carrion|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|sentries|{{item|Sanctified Spark|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|armor|{{item|Fearmonger armor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|armor|{{item|Silva armor|image=Silva armor Horned Hood.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|accessoryOffense|{{item|Nucleogenesis|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|accessoryGeneral|{{item|Profaned Soul Artifact}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|buffOffense|{{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-yharon|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponSpam|{{item|Dimension-Tearing Disk|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponSpam|{{item|Executioner's Blade|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponSpam|{{item|The Old Reaper|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponSpam|{{item|Plasma Grenade}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponSpam|{{item|Toxicant Twister}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponStealth|{{item|Dimension-Tearing Disk|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponStealth|{{item|Executioner's Blade|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponStealth|{{item|The Old Reaper|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponStealth|{{item|Plasma Grenade}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|weaponStealth|{{item|Toxicant Twister}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|armor|{{item|God Slayer armor|image=God Slayer armor Mask.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|accessorySpam|{{item|Eclipse Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|accessorySpam|{{item|Nanotech|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|accessoryStealth|{{item|Eclipse Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|accessoryStealth|{{item|Nanotech|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|accessoryStealth|{{item|Spectral Veil|scale=0.75}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|buffOffense|{{item|Flask of Ichor}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-yharon|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|support|{{item|Claret Cannon}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|support|{{item|Eye of Magnus|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|support|{{item|Rod of Discord}}|Calamity adds a sidegrade to this item, the {{item|Normality Relocator}}.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|support|{{item|Stratus Sphere}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryGeneral|{{item|Affliction|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryGeneral|{{item|The Amalgam|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-yharon|accessoryGeneral|{{item|The Community|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryGeneral|{{item|Dark Sun Ring|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryGeneral|{{item|The Evolution|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryDefense|{{item|Ambrosial Ampoule}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryDefense|{{item|Bloom Stone|scale=0.75}}|This should be used with {{item|Chalice of the Blood God|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryDefense|{{item|Chalice of the Blood God|scale=0.75}}|This should be used with {{item|Bloom Stone|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryDefense|{{item|Deific Amulet}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryDefense|{{item|The Sponge|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryMobilityPrimary|{{item|Void Striders|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryMobilityPrimary|{{item|Silva Wings|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryMobility|{{item|Ascendant Insignia}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|accessoryMobility|{{item|Asgardian Aegis|scale=0.5}} / {{item|Statis' Void Sash|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-yharon|accessoryOffense|{{item|Arc Flash Ring}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-yharon|accessoryOffense|{{item|Reaper Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buff|{{item|Omega Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffGeneral|{{item|Candles#Purchased|Buff Candles|image=Buff Candles.gif|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-yharon|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-yharon|buffOffense|{{item|Wrath Potion|s}}}}
+= pre-scal-exo = <!-- use pre-scal for post-exo loot, pre-exo for post-scal loot-->
+{{ClassSetupsItem|melee|pre-scal-exo|weapon|{{item|Ark of the Cosmos|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|weapon|{{item|The Burning Sky|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|weapon|{{item|Dragon Pow|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|weapon|{{item|Orderbringer|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|weapon|{{item|Zenith}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal|weapon|{{item|Exoblade|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal|weapon|{{item|Photon Ripper|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-exo|weapon|{{item|Violence|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Royal Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|accessoryOffense|{{item|Badge of Bravery}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|accessoryOffense|{{item|Elemental Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|accessoryGeneral|{{item|The Amalgam|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|melee|pre-scal-exo|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|weapon|{{item|Ace's High}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|weapon|{{item|Chicken Cannon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|weapon|{{item|Dragon's Breath|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|weapon|{{item|Starmada}}|This is difficult to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|weapon|{{item|Tyranny's End|scale=0.75}}|This should be used with {{item|Endless Musket Pouch}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal|weapon|{{item|Photoviscerator|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal|weapon|{{item|Surge Driver|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Hooded Facemask.png}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|accessoryOffense|{{item|Daawnlight Spirit Origin}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|accessoryOffense|{{item|Planebreaker's Pouch}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|accessoryGeneral|{{item|The Amalgam|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|ammo|{{item|Holy Fire Bullet|s|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|ammo|{{item|Endless Musket Pouch}}|This should be used with {{item|Tyranny's End|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|ranged|pre-scal-exo|ammo|{{item|Mini Nuke I|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|weapon|{{item|Aetherflux Cannon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|weapon|{{item|Hyperdeath Rift Scepter|scale=0.75}}|This is best on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|weapon|{{item|Primordial Ancient}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|weapon|{{item|Void Vortex|scale=0.5}}|This should be used with {{item|The Amalgam|scale=0.75}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|weapon|{{item|Yharim's Crystal}}|This is difficult to obtain.|'''*'''}}<!--
+-->{{ClassSetupsItem|magic|pre-exo|weapon|{{item|Vehemence|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Wire-Hemmed Visage.png}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|accessoryGeneral|{{item|The Amalgam|scale=0.75}}|This should be used with {{item|Void Vortex|scale=0.5}}.|'''Ω<sup>1</sup>'''}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|accessoryOffense|{{item|Ethereal Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|buff|{{item|Supreme Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|pre-scal-exo|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|magic|pre-exo|buffOffense|[[File:Enchantment Rune Oblatory.png|middle]] [[Oblatory]]|This is an enchantment obtained from the [[Brimstone Witch]] NPC.}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|minions|{{item|Lilies of Finality}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|minions|{{item|Midnight Sun Beacon}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|minions|{{item|Mirror of Kalandra|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|minions|{{item|Saros Possession}}}}<!--
+-->{{ClassSetupsItem|summon|pre-exo|minions|{{item|Metastasis}}}}<!--
+-->{{ClassSetupsItem|summon|pre-exo|sentries|{{item|Perdition|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-exo|weaponSummon|{{item|Cinders of Lament|scale=0.75}}|This is risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|summon|pre-scal|minions|{{item|Ares' Exoskeleton}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal|minions|{{item|Cosmic Immaterializer|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|sentries|{{item|Cadaverous Carrion}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|sentries|{{item|Sanctified Spark|scale=0.75}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|weaponSummon|{{item|Saros Possession}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Space Helmet.png}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|accessoryOffense|{{item|Nucleogenesis|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|accessoryGeneral|{{item|The Amalgam|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|accessoryGeneral|{{item|Profaned Soul Artifact}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|pre-scal-exo|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponSpam|{{item|Dimension-Tearing Disk|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponSpam|{{item|Dynamic Pursuer}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponSpam|{{item|Seraphim|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponSpam|{{item|Wrathwing|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponStealth|{{item|Dynamic Pursuer}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponStealth|{{item|The Old Reaper|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|weaponStealth|{{item|Wrathwing|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal|weaponSpam|{{item|Celestus|scale=0.5}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal|weaponSpam|{{item|Supernova|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal|weaponStealth|{{item|Refraction Rotor|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal|weaponStealth|{{item|Supernova|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-exo|weaponSpam|{{item|Sacrifice|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Plumed Helm.png}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessorySpam|{{item|Eclipse Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessorySpam|{{item|Nanotech|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessoryStealth|{{item|Eclipse Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessoryStealth|{{item|Nanotech|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessoryStealth|{{item|Spectral Veil|scale=0.75}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|accessoryGeneral|{{item|The Amalgam|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|rogue|pre-scal-exo|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|support|{{item|Eye of Magnus|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|support|{{item|Rod of Discord}}|Calamity adds a sidegrade to this item, the {{item|Normality Relocator}}.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-scal|armor|{{item|Gem Tech armor}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryGeneral|{{item|Affliction|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-scal-exo|accessoryGeneral|{{item|The Community|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryGeneral|{{item|Dark Sun Ring|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryGeneral|{{item|The Evolution|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryDefense|{{item|Chalice of the Blood God|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryDefense|{{item|Radiance|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryDefense|{{item|Rampart of Deities|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryDefense|{{item|The Sponge|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryMobilityPrimary|{{item|Wings of Rebirth|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryMobilityPrimary|{{item|Seraph Tracers|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryMobility|{{item|Ascendant Insignia}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|accessoryMobility|{{item|Asgardian Aegis|scale=0.5}} / {{item|Statis' Void Sash|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-scal-exo|accessoryOffense|{{item|Arc Flash Ring}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|pre-scal-exo|accessoryOffense|{{item|Reaper Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal|accessoryDefense|{{item|Draedon's Heart|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-exo|accessoryGeneral|{{item|Shattered Community|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-exo|accessoryOffense|{{item|Calamity|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buff|{{item|Omega Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffGeneral|{{item|Candles#Purchased|Buff Candles|image=Buff Candles.gif|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|pre-scal-exo|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|pre-scal-exo|buffOffense|{{item|Wrath Potion|s}}}}
+
+= endgame =
+{{ClassSetupsItem|melee|endgame|weapon|{{item|Earth|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|weapon|{{item|Draconic Destruction|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|weapon|{{item|Illustrious Knives}}|This is used for support.|'''+'''}}<!--
+-->{{ClassSetupsItem|melee|endgame|weapon|{{item|Red Sun}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|weapon|{{item|Triactis' True Paladinian Mage-Hammer of Might|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Royal Helm.png}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|accessoryOffense|{{item|Badge of Bravery}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|accessoryOffense|{{item|Elemental Gauntlet}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|melee|endgame|buffOffense|{{item|Sharpening Station|Sharpened}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|weapon|{{item|Contagion|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|weapon|{{item|Halibut Cannon|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|weapon|{{item|Soma Prime}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|weapon|{{item|Svantechnical}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|weapon|{{item|Voidragon}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Hooded Facemask.png}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|accessoryOffense|{{item|Daawnlight Spirit Origin}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|accessoryOffense|{{item|Planebreaker's Pouch}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|accessoryOffense|{{item|Sniper Scope}}|This grants critical strike damage.|'''Δ'''}}<!--
+-->{{ClassSetupsItem|ranged|endgame|buffOffense|{{item|Ammo Reservation Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|buffOffense|{{item|Archery Potion|s}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|buffOffense|{{item|Ammo Box}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|ammo|{{item|Vanquisher Arrow|s}}}}<!--
+-->{{ClassSetupsItem|ranged|endgame|ammo|{{item|God Slayer Slug|s|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|weapon|{{item|Apotheosis}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|weapon|{{item|The Dance of Light}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|weapon|{{item|Eternity}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|weapon|{{item|Rainbow Party Cannon}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|weapon|{{item|Staff of Blushie}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|weapon|{{item|Sylvestaff|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Wire-Hemmed Visage.png}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|accessoryOffense|{{item|Ethereal Talisman|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|accessoryOffense|{{item|Sigil of Calamitas}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|buff|{{item|Supreme Mana Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|buffOffense|{{item|Magic Power Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|buffOffense|{{item|Mana Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|buffOffense|{{item|Crystal Ball|Clairvoyance}}}}<!--
+-->{{ClassSetupsItem|magic|endgame|buffOffense|[[File:Enchantment Rune Oblatory.png|middle]] [[Oblatory]]|This is an enchantment obtained from the [[Brimstone Witch]] NPC.}}<!--
+-->{{ClassSetupsItem|summon|endgame|minions|{{item|Endogenesis|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|minions|{{item|Saros Possession}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|minions|{{item|Temporal Umbrella|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|sentries|{{item|Cadaverous Carrion}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|sentries|{{item|Perdition|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|weaponSummon|{{item|Flamsteed Ring}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|weaponSummon|{{item|Kaleidoscope}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|weaponSummon|{{item|Saros Possession}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|weaponSummon|{{item|Universe Splitter|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Space Helmet.png}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|accessoryOffense|{{item|Angelic Alliance|scale=0.65}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|accessoryOffense|{{item|Nucleogenesis|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|accessoryGeneral|{{item|Profaned Soul Crystal}}|This is difficult to use.|'''†'''/ {{item|Profaned Soul Artifact}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|buffOffense|{{item|Summoning Potion|s}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|buffOffense|{{item|Bewitching Table|Bewitched}}}}<!--
+-->{{ClassSetupsItem|summon|endgame|buffOffense|{{item|War Table|Strategist}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|weaponSpam|{{item|Celestus|scale=0.5}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|rogue|endgame|weaponSpam|{{item|Sacrifice}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|weaponStealth|{{item|Celestus|scale=0.5}}|This is best used on worms and other multi-hit scenarios.|'''C'''}}<!--
+-->{{ClassSetupsItem|rogue|endgame|weaponStealth|{{item|Scarlet Devil|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|armor|{{item|Auric Tesla armor|image=Auric Tesla armor Plumed Helm.png}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|accessorySpam|{{item|Eclipse Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|accessorySpam|{{item|Nanotech|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|accessoryStealth|{{item|Eclipse Mirror}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|accessoryStealth|{{item|Glove of Precision}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|accessoryStealth|{{item|Nanotech|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|accessoryStealth|{{item|Spectral Veil|scale=0.75}}|This is difficult and risky to use.|'''†'''}}<!--
+-->{{ClassSetupsItem|rogue|endgame|buffOffense|{{item|Flask of Crumbling}}}}<!--
+-->{{ClassSetupsItem|rogue|endgame|buffOffense|{{item|Shadow Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|support|{{item|Eye of Magnus|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|support|{{item|Rod of Harmony}}|}}<!--
+-->{{ClassSetupsItem|all|endgame|armor|{{item|Demonshade armor}}}}<!--
+-->{{ClassSetupsItem|all|endgame|armor|{{item|Gem Tech armor}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryGeneral|{{item|The Absorber}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryGeneral|{{item|Affliction|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryGeneral|{{item|The Amalgam|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryGeneral|{{item|Dark Sun Ring|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryGeneral|{{item|The Evolution|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryDefense|{{item|Chalice of the Blood God|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryDefense|{{item|Draedon's Heart|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryDefense|{{item|Radiance|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryDefense|{{item|Rampart of Deities|scale=0.5}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryDefense|{{item|The Sponge|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryMobilityPrimary|{{item|Wings of Rebirth|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryMobilityPrimary|{{item|Seraph Tracers|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryMobility|{{item|Ascendant Insignia}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryMobility|{{item|Asgardian Aegis|scale=0.5}} / {{item|Statis' Void Sash|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|endgame|accessoryOffense|{{item|Arc Flash Ring}}}}<!--
+-->{{ClassSetupsItem|all|endgame|accessoryOffense|{{item|Calamity|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all-but-stealth|endgame|accessoryOffense|{{item|Reaper Tooth Necklace|scale=0.75}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buff|{{item|Omega Healing Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffGeneral|{{item|Candles#Purchased|Buff Candles|image=Buff Candles.gif|scale=0.8}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffGeneral|{{item|Seafood Dinner|Plenty Satisfied}}|Upgrades of this are also viable.|'''≤'''}}<!--
+-->{{ClassSetupsItem|all|endgame|buffDefense|{{item|Endurance Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffDefense|{{item|Ironskin Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffDefense|{{item|Lifeforce Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffDefense|{{item|Regeneration Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffMobility|{{item|Soaring Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffMobility|{{item|Swiftness Potion|s}}}}<!--
+-->{{ClassSetupsItem|all-but-summoner|endgame|buffOffense|{{item|Rage Potion|s}}}}<!--
+-->{{ClassSetupsItem|all|endgame|buffOffense|{{item|Wrath Potion|s}}}}

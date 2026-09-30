@@ -1,0 +1,6 @@
+displayName = KhuMue Data Dump (tool)
+author = KhuMue Contributors
+version = 1.0.0
+side = Both
+includeSource = false
+buildIgnore = bin\*, obj\*

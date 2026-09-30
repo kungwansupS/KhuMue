@@ -1,0 +1,31 @@
+[
+  { "id": "using-guide", "category": "start", "icon": "Terraria/Book", "sections": ["Open", "Home", "Progress", "Gear", "Items", "Upgrades"] },
+  { "id": "first-steps", "category": "start", "icon": "Terraria/CopperPickaxe", "sections": ["Shelter", "Explore", "Life", "Progress"] },
+  { "id": "difficulties", "category": "start", "icon": "Terraria/Skull", "sections": ["Classic", "Expert", "Master", "Journey"] },
+  { "id": "classes", "category": "start", "icon": "Terraria/WarriorEmblem", "sections": ["Melee", "Ranged", "Magic", "Summoner", "Mixing"] },
+  { "id": "boss-prep", "category": "start", "icon": "Terraria/Campfire", "sections": ["Arena", "Buffs", "Mobility", "Healing"] },
+  { "id": "hardmode", "category": "start", "icon": "Terraria/Pwnhammer", "sections": ["Changes", "Ores", "Spread", "Next"] },
+  { "id": "shimmer", "category": "start", "icon": "Terraria/BottomlessShimmerBucket", "sections": ["Find", "Transform", "Boosters", "Careful"] },
+  { "id": "fishing", "category": "start", "icon": "Terraria/ReinforcedFishingPole", "sections": ["Basics", "Power", "Water", "Lava", "Crates", "Angler"] },
+
+  { "id": "cal-difficulty", "category": "calamity", "icon": "Terraria/Skull", "mods": ["CalamityMod"], "sections": ["Select", "Revengeance", "Death", "Malice"] },
+  { "id": "cal-rage-adrenaline", "category": "calamity", "icon": "CalamityMod/MushroomPlasmaRoot", "mods": ["CalamityMod"], "sections": ["Adrenaline", "Rage", "Boosters", "TrueMelee"] },
+  { "id": "cal-rogue", "category": "calamity", "icon": "CalamityMod/RogueEmblem", "mods": ["CalamityMod"], "sections": ["Stealth", "Strikes", "Gear"] },
+  { "id": "cal-summon", "category": "calamity", "icon": "Terraria/SummonerEmblem", "mods": ["CalamityMod"], "sections": ["Penalty", "Exceptions"] },
+  { "id": "cal-defense-damage", "category": "calamity", "icon": "Terraria/IronskinPotion", "mods": ["CalamityMod"], "sections": ["How"] },
+  { "id": "cal-biomes", "category": "calamity", "icon": "CalamityMod/SulphurousSand", "mods": ["CalamityMod"], "sections": ["SunkenSea", "Sulphurous", "Abyss", "Astral", "Crag", "Labs"] },
+  { "id": "cal-acid-rain", "category": "calamity", "icon": "CalamityMod/CausticTear", "mods": ["CalamityMod"], "sections": ["Start", "Tiers", "Fail"] },
+  { "id": "cal-draedon", "category": "calamity", "icon": "CalamityMod/CodebreakerBase", "mods": ["CalamityMod"], "sections": ["Labs", "Codebreaker", "Power", "ExoMechs"] },
+  { "id": "cal-npcs", "category": "calamity", "icon": "CalamityMod/AmidiasPendant", "mods": ["CalamityMod"], "sections": ["SeaKing", "Bandit", "Archmage", "Witch"] },
+  { "id": "cal-boss-rush", "category": "calamity", "icon": "CalamityMod/Terminus", "mods": ["CalamityMod"], "sections": ["Start", "Rules"] },
+
+  { "id": "infernum", "category": "addons", "icon": "InfernumMode/RedBait", "mods": ["InfernumMode"], "sections": ["What", "Enable", "Limits"] },
+  { "id": "wotg", "category": "addons", "icon": "NoxusBoss/StarCharm", "mods": ["NoxusBoss"], "sections": ["Story", "Genesis"] },
+  { "id": "fables", "category": "addons", "icon": "CalamityFables/Hookstaff", "mods": ["CalamityFables"], "sections": ["Replace", "Bosses"] },
+  { "id": "hunt", "category": "addons", "icon": "CalamityHunt/PluripotentSpawnEgg", "mods": ["CalamityHunt"], "sections": ["Goozma", "Souls", "Curse"] },
+  { "id": "catalyst", "category": "addons", "icon": "CatalystMod/AstralCommunicator", "mods": ["CatalystMod"], "sections": ["Astrageldon"] },
+  { "id": "spirit", "category": "addons", "icon": "SpiritReforged/ScarabAltarItem", "mods": ["SpiritReforged"], "sections": ["Scarabeus"] },
+
+  { "id": "mistakes", "category": "warnings", "icon": "Terraria/GuideVoodooDoll", "sections": ["Hardmode", "Dungeon", "Enrage", "Empress"] },
+  { "id": "cal-mistakes", "category": "warnings", "icon": "Terraria/RodofDiscord", "mods": ["CalamityMod"], "sections": ["Abyss", "Triggers", "Tear", "SmallWorld"] }
+]

@@ -1,0 +1,3237 @@
+{
+ "CalamityMod/AbandonedWulfrumHelmet": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "CalamityMod/AbyssShocker": [
+  {
+   "how": "chest",
+   "chest": "CalAbyssShrine"
+  }
+ ],
+ "CalamityMod/AlluringBait": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sulphur"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/AnechoicPlating": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/Archerfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/ArcturusAstroidean": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "astral"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/AstralCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "astral",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/BallOFugu": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/BelladonnaSpiritStaff": [
+  {
+   "how": "chest",
+   "chest": "CalVernal"
+  }
+ ],
+ "CalamityMod/BlackAnurian": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/Bloodfin": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone",
+     "after:Providence"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Brimlish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/BrimstoneCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone",
+     "crate",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/BrokenWaterFilter": [
+  {
+   "how": "chest",
+   "chest": "CalSulphur"
+  }
+ ],
+ "CalamityMod/CharredLasher": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/CorruptionEffigy": [
+  {
+   "how": "chest",
+   "chest": "CalShrineCorruption",
+   "with": "CalamityMod"
+  }
+ ],
+ "CalamityMod/CragBullhead": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/CrimsonEffigy": [
+  {
+   "how": "chest",
+   "chest": "CalShrineCrimson",
+   "with": "CalamityMod"
+  }
+ ],
+ "CalamityMod/CyanSeekingMechanism": [
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/DepthCharm": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/DepthCrusher": [
+  {
+   "how": "chest",
+   "chest": "CalAbyssShrine"
+  }
+ ],
+ "CalamityMod/DesertMedallion": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "CalamityMod/DraedonsLogHell": [
+  {
+   "how": "chest",
+   "chest": "CalLabHell"
+  }
+ ],
+ "CalamityMod/DraedonsLogJungle": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlague"
+  }
+ ],
+ "CalamityMod/DraedonsLogPlanetoid": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlanetoid"
+  }
+ ],
+ "CalamityMod/DraedonsLogSnowBiome": [
+  {
+   "how": "chest",
+   "chest": "CalLabIce"
+  }
+ ],
+ "CalamityMod/DraedonsLogSunkenSea": [
+  {
+   "how": "chest",
+   "chest": "CalLabSunkenSea"
+  }
+ ],
+ "CalamityMod/DragoonDrizzlefish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Driftwood": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/DubiousPlating": [
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/EffigyOfDecay": [
+  {
+   "how": "chest",
+   "chest": "CalSulphur"
+  }
+ ],
+ "CalamityMod/EnchantedKnifeStaff": [
+  {
+   "how": "chest",
+   "chest": "Cavern"
+  }
+ ],
+ "CalamityMod/EnchantedStarfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/EncryptedSchematicHell": [
+  {
+   "how": "chest",
+   "chest": "CalLabHell"
+  }
+ ],
+ "CalamityMod/EncryptedSchematicIce": [
+  {
+   "how": "chest",
+   "chest": "CalLabIce"
+  }
+ ],
+ "CalamityMod/EncryptedSchematicJungle": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlague"
+  }
+ ],
+ "CalamityMod/EncryptedSchematicPlanetoid": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlanetoid"
+  }
+ ],
+ "CalamityMod/EncryptedSchematicSunkenSea": [
+  {
+   "how": "chest",
+   "chest": "CalLabSunkenSea"
+  }
+ ],
+ "CalamityMod/EnergyCore": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "CalamityMod/EutrophicCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "sunkensea",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/EutrophicSandfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/FellerofEvergreens": [
+  {
+   "how": "chest",
+   "chest": "CalVernal"
+  }
+ ],
+ "CalamityMod/FishofEleum": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/FishofFlight": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hardmode",
+     "sky"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Floodtide": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Leviathan"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/FrozenCube": [
+  {
+   "how": "chest",
+   "chest": "CalShrineIce",
+   "with": "CalamityMod"
+  }
+ ],
+ "CalamityMod/FungalSymbiote": [
+  {
+   "how": "chest",
+   "chest": "CalShrineMushroom",
+   "with": "CalamityMod"
+  }
+ ],
+ "CalamityMod/GladiatorsLocket": [
+  {
+   "how": "chest",
+   "chest": "CalShrineMarble"
+  }
+ ],
+ "CalamityMod/GlimmeringGemfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "cavern"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Gorecodile": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "bloodmoon",
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/GreenSeekingMechanism": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlanetoid"
+  },
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/GreenwaveLoach": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Havocfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/HeavenfallenStardisk": [
+  {
+   "how": "chest",
+   "chest": "CalAstral"
+  }
+ ],
+ "CalamityMod/HerringStaff": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/HydrothermalCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "sulphur",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/InkBomb": [
+  {
+   "how": "chest",
+   "chest": "CalAbyssShrine"
+  }
+ ],
+ "CalamityMod/IronBoots": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/Kylie": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "CalamityMod/LabSeekingMechanism": [
+  {
+   "how": "chest",
+   "chest": "CalLabIce"
+  },
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/Lionfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/LuxorsGift": [
+  {
+   "how": "chest",
+   "chest": "CalShrineDesert",
+   "with": "CalamityMod"
+  }
+ ],
+ "CalamityMod/MonolithCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "astral",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Murasama": [
+  {
+   "how": "chest",
+   "chest": "CalLabHell"
+  }
+ ],
+ "CalamityMod/MysteriousCircuitry": [
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/PlasmaDriveCore": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlanetoid"
+  }
+ ],
+ "CalamityMod/PrismCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "sunkensea",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/PrismaticGuppy": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/RedSeekingMechanism": [
+  {
+   "how": "chest",
+   "chest": "CalLabPlague"
+  },
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/RoverDrive": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "CalamityMod/RustedJingleBell": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/RustyBeaconPrototype": [
+  {
+   "how": "chest",
+   "chest": "CalSulphur"
+  }
+ ],
+ "CalamityMod/ScionsCurio": [
+  {
+   "how": "chest",
+   "chest": "CalSulphur"
+  }
+ ],
+ "CalamityMod/SeaSpiritAmulet": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea",
+     "after:DesertScourge"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SerpentsBite": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Serpentuna": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Shadowfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SlagCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone",
+     "crate",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SlagfireDouser": [
+  {
+   "how": "chest",
+   "chest": "CalBrimstone"
+  }
+ ],
+ "CalamityMod/SlurperPole": [
+  {
+   "how": "chest",
+   "chest": "CalBrimstone"
+  }
+ ],
+ "CalamityMod/Slurpfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "brimstone"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/Spadefish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SparklingEmpress": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea",
+     "after:DesertScourge"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/StrangeOrb": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/StuffedFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SulphurousCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "sulphur",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SunbeamFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sky"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SunkenSailfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SurfClam": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sunkensea"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/SuspiciousScrap": [
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/Terminus": [
+  {
+   "how": "chest",
+   "chest": "CalAbyssShrine"
+  }
+ ],
+ "CalamityMod/TheComb": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "CalamityMod/TorrentialTear": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "after:Skeletron",
+     "abyss"
+    ]
+   ]
+  },
+  {
+   "how": "chest",
+   "chest": "CalAbyss"
+  }
+ ],
+ "CalamityMod/TrinketofChi": [
+  {
+   "how": "chest",
+   "chest": "CalShrineSurface"
+  }
+ ],
+ "CalamityMod/TwinklingPollox": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "astral"
+    ]
+   ]
+  }
+ ],
+ "CalamityMod/UnstableGraniteCore": [
+  {
+   "how": "chest",
+   "chest": "CalShrineGranite"
+  }
+ ],
+ "CalamityMod/WhiteSeekingMechanism": [
+  {
+   "how": "chest",
+   "chest": "CalLabHell"
+  },
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "CalamityMod/WulfrumBattery": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "CalamityMod/WulfrumMetalScrap": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "CalamityMod/YellowSeekingMechanism": [
+  {
+   "how": "chest",
+   "chest": "CalLabSunkenSea"
+  },
+  {
+   "how": "chest",
+   "chest": "CalLabWorkshop"
+  }
+ ],
+ "Terraria/ActuationAccessory": [
+  {
+   "how": "chest",
+   "chest": "CalMechanic",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Aglet": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/AlchemyTable": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "dungeon"
+    ]
+   ]
+  }
+ ],
+ "Terraria/AmanitaFungifin": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "mushroom"
+    ]
+   ]
+  }
+ ],
+ "Terraria/AncientChisel": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/Angelfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sky"
+    ]
+   ]
+  }
+ ],
+ "Terraria/AnglerEarring": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/AnglerHat": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/AnglerPants": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/AnglerVest": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/AnkletoftheWind": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  },
+  {
+   "how": "chest",
+   "chest": "CalVernal",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/ApprenticeBait": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/AquaScepter": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/ArmoredCavefish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/AtlanticCod": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/BabyBirdStaff": [
+  {
+   "how": "chest",
+   "chest": "LivingWood"
+  }
+ ],
+ "Terraria/BalloonPufferfish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/BandofRegeneration": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/Bass": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Batfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/BeeMinecart": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  },
+  {
+   "how": "chest",
+   "chest": "CalHive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Bezoar": [
+  {
+   "how": "chest",
+   "chest": "CalHive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Bladetongue": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crimson",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/BlizzardinaBottle": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/BloodyManowar": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crimson"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Blowpipe": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/BlueJellyfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/BlueMoon": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/BombFish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Bonefish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Boomstick": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  }
+ ],
+ "Terraria/BottomlessBucket": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/BottomlessHoneyBucket": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/BottomlessLavaBucket": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava"
+    ]
+   ]
+  }
+ ],
+ "Terraria/BreathingReed": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  }
+ ],
+ "Terraria/BrickLayer": [
+  {
+   "how": "chest",
+   "chest": "CalMechanic",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/BumblebeeTuna": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "honey"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Bunnyfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/BunnyfishTrophy": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/CanOfWorms": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/CapnTunabeard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CatBast": [
+  {
+   "how": "chest",
+   "chest": "SandstoneDeep"
+  }
+ ],
+ "Terraria/Catfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle",
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CelestialMagnet": [
+  {
+   "how": "chest",
+   "chest": "Skyware"
+  }
+ ],
+ "Terraria/ChaosFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow",
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ClimbingClaws": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/Cloudfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sky"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CloudinaBottle": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/Clownfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CobaltShield": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/CombatBook": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "bloodmoon"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CompassRose": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/CordageGuide": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/CorruptFishingCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "corruption",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CorruptFishingCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "corruption",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CorruptionKey": [
+  {
+   "how": "chest",
+   "chest": "CalShrineCorruption",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/CouchGag": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/CratePotion": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/CreativeWings": [
+  {
+   "how": "chest",
+   "chest": "Skyware",
+   "without": "CalamityMod"
+  }
+ ],
+ "Terraria/CrimsonFishingCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "crimson",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CrimsonFishingCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "crimson",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/CrimsonKey": [
+  {
+   "how": "chest",
+   "chest": "CalShrineCrimson",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/CrimsonTigerfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crimson"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Crustography": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/CrystalSerpent": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Cursedfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "corruption"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Damselfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sky"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DarkLance": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/DemonConch": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DemonicHellfish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Derpfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle",
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DesertMinecart": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/Dirtfish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/DivingHelmet": [
+  {
+   "how": "chest",
+   "chest": "CalPlanetoid",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/DoubleCod": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DreadoftheRedSea": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "bloodmoon"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DungeonDesertKey": [
+  {
+   "how": "chest",
+   "chest": "CalShrineDesert",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/DungeonFishingCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "dungeon",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DungeonFishingCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "dungeon",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/DynamiteFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/EaterofPlankton": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "corruption"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Ebonkoi": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "corruption"
+    ]
+   ]
+  }
+ ],
+ "Terraria/EncumberingStone": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/ExtendoGrip": [
+  {
+   "how": "chest",
+   "chest": "CalMechanic",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Extractinator": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  },
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/FallenStarfish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Fangs": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FeralClaws": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  },
+  {
+   "how": "chest",
+   "chest": "CalVernal",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/FiberglassFishingPole": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  }
+ ],
+ "Terraria/FinWings": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Fish": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/FishCostumeFinskirt": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishCostumeMask": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishCostumeShirt": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishHook": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishMinecart": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishermansGuide": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishingBobber": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishingPotion": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/FishingSeaweed": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Fishotron": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Fishron": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow",
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Flamelash": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/FlareGun": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/FlarefinKoi": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Flipper": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  },
+  {
+   "how": "chest",
+   "chest": "CalPlanetoid",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/FloatingIslandFishingCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "sky",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FloatingIslandFishingCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "sky",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FloatingTube": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  }
+ ],
+ "Terraria/Flounder": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "desert"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FlowerBoots": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  },
+  {
+   "how": "chest",
+   "chest": "CalHive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/FlowerofFire": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/FlurryBoots": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/FlyingCarpet": [
+  {
+   "how": "chest",
+   "chest": "Pyramid"
+  }
+ ],
+ "Terraria/FrogLeg": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/FrostDaggerfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FrostMinnow": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FrozenCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "snow",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FrozenCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "snow",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/FrozenKey": [
+  {
+   "how": "chest",
+   "chest": "CalShrineIce",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/FuzzyCarrot": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/GoldenBugNet": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/GoldenCarp": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/GoldenCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/GoldenCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/GoldenFishingRod": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/GoldenKey": [
+  {
+   "how": "chest",
+   "chest": "DungeonOpen"
+  }
+ ],
+ "Terraria/GoldfishTrophy": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/GreenJellyfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/GuideVoodooFish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/HallowedFishingCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "hallow",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/HallowedFishingCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "hallow",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Handgun": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/Harpyfish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/HellCake": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/HellMinecart": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/HellwingBow": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/Hemopiranha": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crimson"
+    ]
+   ]
+  }
+ ],
+ "Terraria/HerbBag": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/HermesBoots": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/HighTestFishingLine": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/HoneyAbsorbantSponge": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Honeyfin": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "honey"
+    ]
+   ]
+  }
+ ],
+ "Terraria/HotlineFishingHook": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Hungerfish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/IceBlade": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/IceBoomerang": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/IceMirror": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/IceSkates": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/Ichorfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crimson"
+    ]
+   ]
+  }
+ ],
+ "Terraria/InfectedScabbardfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "corruption"
+    ]
+   ]
+  }
+ ],
+ "Terraria/IronCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/IronCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Jewelfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/JojaCola": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/JourneymanBait": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/JungleFishingCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "jungle",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/JungleFishingCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "jungle",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/LadyOfTheLake": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/LadybugMinecart": [
+  {
+   "how": "chest",
+   "chest": "LivingWood"
+  }
+ ],
+ "Terraria/LavaAbsorbantSponge": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava"
+    ]
+   ]
+  }
+ ],
+ "Terraria/LavaCharm": [
+  {
+   "how": "chest",
+   "chest": "LavaLayer"
+  }
+ ],
+ "Terraria/LavaCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "crate",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/LavaCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "crate",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/LeafWand": [
+  {
+   "how": "chest",
+   "chest": "LivingWood"
+  }
+ ],
+ "Terraria/LifeCrystal": [
+  {
+   "how": "chest",
+   "chest": "CalShimmer",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/LifePreserver": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/LihzahrdPowerCell": [
+  {
+   "how": "chest",
+   "chest": "Lihzahrd"
+  }
+ ],
+ "Terraria/LivingMahoganyLeafWand": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  }
+ ],
+ "Terraria/LivingMahoganyWand": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  }
+ ],
+ "Terraria/LivingWoodWand": [
+  {
+   "how": "chest",
+   "chest": "LivingWood"
+  }
+ ],
+ "Terraria/LuckyHorseshoe": [
+  {
+   "how": "chest",
+   "chest": "Skyware"
+  }
+ ],
+ "Terraria/Mace": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/MagicConch": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/MagicMirror": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/MagicMissile": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/ManaCrystal": [
+  {
+   "how": "chest",
+   "chest": "CalShimmer",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/MasterBait": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/MermaidAdornment": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/MermaidTail": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/MirageFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow",
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Mudfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Muramasa": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/MushroomHat": [
+  {
+   "how": "chest",
+   "chest": "Mushroom"
+  }
+ ],
+ "Terraria/MushroomPants": [
+  {
+   "how": "chest",
+   "chest": "Mushroom"
+  }
+ ],
+ "Terraria/MushroomVest": [
+  {
+   "how": "chest",
+   "chest": "Mushroom"
+  }
+ ],
+ "Terraria/MutantFlinxfin": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow",
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/MysticCoilSnake": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/NaturesGift": [
+  {
+   "how": "chest",
+   "chest": "CalHive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/NeonTetra": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle"
+    ]
+   ]
+  }
+ ],
+ "Terraria/NotSoLostInParadise": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/OasisCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "desert",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/OasisCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "desert",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ObsidianSwordfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ObsidianWaterWalkingBoots": [
+  {
+   "how": "chest",
+   "chest": "CalBrimstone",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Obsidifish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "lava"
+    ]
+   ]
+  }
+ ],
+ "Terraria/OceanCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "ocean",
+     "surface",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/OceanCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "ocean",
+     "surface",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/OldShoe": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/OrnateShadowKey": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/Oyster": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "desert"
+    ]
+   ]
+  }
+ ],
+ "Terraria/PaintSprayer": [
+  {
+   "how": "chest",
+   "chest": "CalMechanic",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Pengfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/PharaohsMask": [
+  {
+   "how": "chest",
+   "chest": "Pyramid"
+  }
+ ],
+ "Terraria/PharaohsRobe": [
+  {
+   "how": "chest",
+   "chest": "Pyramid"
+  }
+ ],
+ "Terraria/PillaginMePixels": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/PinkJellyfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/PiranhaGun": [
+  {
+   "how": "chest",
+   "chest": "BiomeJungle"
+  }
+ ],
+ "Terraria/Pixiefish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/PortableCementMixer": [
+  {
+   "how": "chest",
+   "chest": "CalMechanic",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/PortableStool": [
+  {
+   "how": "chest",
+   "chest": "Surface",
+   "without": "CalamityMod"
+  }
+ ],
+ "Terraria/PrincessFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Prismite": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/PurpleClubberfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "corruption"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Radar": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/RainbowGun": [
+  {
+   "how": "chest",
+   "chest": "BiomeHallow"
+  }
+ ],
+ "Terraria/ReaverShark": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/RedSnapper": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/RockLobster": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "desert"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Rockfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Salmon": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/SandBoots": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/SandcastleBucket": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  }
+ ],
+ "Terraria/SandstorminaBottle": [
+  {
+   "how": "chest",
+   "chest": "Pyramid"
+  }
+ ],
+ "Terraria/SawtoothShark": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ScalyTruffle": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow",
+     "cavern",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ScarabBomb": [
+  {
+   "how": "chest",
+   "chest": "Sandstone"
+  }
+ ],
+ "Terraria/ScarabFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "desert"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ScorpioFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "desert"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ScourgeoftheCorruptor": [
+  {
+   "how": "chest",
+   "chest": "BiomeCorruption"
+  },
+  {
+   "how": "chest",
+   "chest": "CalEvilIsland",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/SeashellHairpin": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Seaweed": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  }
+ ],
+ "Terraria/SeaweedPlanter": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Sextant": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/ShadowKey": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  },
+  {
+   "how": "chest",
+   "chest": "CalArchive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/SharkBait": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  }
+ ],
+ "Terraria/SharkteethTrophy": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/ShinyRedBalloon": [
+  {
+   "how": "chest",
+   "chest": "Skyware"
+  }
+ ],
+ "Terraria/ShipInABottle": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/ShipsWheel": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/ShoeSpikes": [
+  {
+   "how": "chest",
+   "chest": "Underground"
+  }
+ ],
+ "Terraria/Shrimp": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ShroomMinecart": [
+  {
+   "how": "chest",
+   "chest": "Mushroom"
+  }
+ ],
+ "Terraria/Shroomerang": [
+  {
+   "how": "chest",
+   "chest": "Mushroom",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/SilentFish": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Slimefish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/SnowballCannon": [
+  {
+   "how": "chest",
+   "chest": "Frozen"
+  }
+ ],
+ "Terraria/SonarPotion": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Spear": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/SpecularFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/SpellTome": [
+  {
+   "how": "chest",
+   "chest": "CalArchive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Spiderfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/StaffofRegrowth": [
+  {
+   "how": "chest",
+   "chest": "Ivy"
+  },
+  {
+   "how": "chest",
+   "chest": "CalVernal",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/StaffoftheFrostHydra": [
+  {
+   "how": "chest",
+   "chest": "BiomeFrozen"
+  }
+ ],
+ "Terraria/Starfury": [
+  {
+   "how": "chest",
+   "chest": "Skyware"
+  }
+ ],
+ "Terraria/Stinkfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/StormTigerStaff": [
+  {
+   "how": "chest",
+   "chest": "BiomeDesert"
+  }
+ ],
+ "Terraria/SunflowerMinecart": [
+  {
+   "how": "chest",
+   "chest": "LivingWood"
+  }
+ ],
+ "Terraria/Sunfury": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/SuperAbsorbantSponge": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Swordfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/SwordfishTrophy": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/TackleBox": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/TallyCounter": [
+  {
+   "how": "chest",
+   "chest": "CalArchive",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/TheDuke": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/TheFishofCthulu": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/ThunderSpear": [
+  {
+   "how": "chest",
+   "chest": "SandstoneDeep"
+  }
+ ],
+ "Terraria/ThunderStaff": [
+  {
+   "how": "chest",
+   "chest": "SandstoneDeep"
+  }
+ ],
+ "Terraria/TinCan": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/Toolbox": [
+  {
+   "how": "chest",
+   "chest": "CalMechanic",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Toxikarp": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "corruption",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/TreasureMagnet": [
+  {
+   "how": "chest",
+   "chest": "Shadow"
+  }
+ ],
+ "Terraria/TreasureMap": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/Trident": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  },
+  {
+   "how": "chest",
+   "chest": "CalPlanetoid",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/TropicalBarracuda": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle",
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Trout": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/TruffleWorm": [
+  {
+   "how": "chest",
+   "chest": "CalShrineMushroom",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/Tuna": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/TundraTrout": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "snow",
+     "surface"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Umbrella": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/UnicornFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "hallow"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Valor": [
+  {
+   "how": "chest",
+   "chest": "Dungeon"
+  }
+ ],
+ "Terraria/VampireKnives": [
+  {
+   "how": "chest",
+   "chest": "BiomeCrimson"
+  },
+  {
+   "how": "chest",
+   "chest": "CalEvilIsland",
+   "with": "CalamityMod"
+  }
+ ],
+ "Terraria/VariegatedLardfish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "jungle",
+     "underground"
+    ]
+   ]
+  }
+ ],
+ "Terraria/WallAnchor": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/WandofSparking": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/WaterWalkingBoots": [
+  {
+   "how": "chest",
+   "chest": "Water"
+  }
+ ],
+ "Terraria/WeatherRadio": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/WebSlinger": [
+  {
+   "how": "chest",
+   "chest": "Web"
+  }
+ ],
+ "Terraria/WhatLurksBelow": [
+  {
+   "how": "angler"
+  }
+ ],
+ "Terraria/WoodenBoomerang": [
+  {
+   "how": "chest",
+   "chest": "Surface"
+  }
+ ],
+ "Terraria/WoodenCrate": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "prehardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/WoodenCrateHard": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "crate",
+     "hardmode"
+    ]
+   ]
+  }
+ ],
+ "Terraria/Wyverntail": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "sky"
+    ]
+   ]
+  }
+ ],
+ "Terraria/ZephyrFish": [
+  {
+   "how": "fishing",
+   "where": [
+    []
+   ]
+  }
+ ],
+ "Terraria/ZombieFish": [
+  {
+   "how": "fishing",
+   "where": [
+    [
+     "surface"
+    ]
+   ]
+  }
+ ]
+}

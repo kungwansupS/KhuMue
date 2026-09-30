@@ -1,0 +1,16 @@
+Khu Mue [Calamity] (internal name KhuMue): data licensing
+
+loadouts-calamity.json
+  Adapted from "Guide:Class setups", Calamity Mod Wiki (https://calamitymod.wiki.gg/wiki/Guide:Class_setups),
+  retrieved 2026-09-24. Licensed CC BY-NC-SA 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+loadouts-vanilla.json
+  Adapted from "Guide:Class setups", Terraria Wiki, revision 957024
+  (https://terraria.wiki.gg/wiki/Guide:Class_setups?oldid=957024), retrieved 2026-09-24.
+  Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+The loadout notes (Mods.KhuMue.Guide.LoadoutNotes.*) in the localization files are adapted from the same
+pages under the same licenses. The wiki snapshots and adapted generator inputs in tools/data are
+also covered by their source licenses; see ../THIRD_PARTY_NOTICES.md for the file-level scope.
+The remaining project files use the MIT License, except for the artwork listed in ../LICENSE-ART,
+which uses CC0 1.0 Universal.
