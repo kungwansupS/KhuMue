@@ -184,7 +184,8 @@ Mods: {
 
 			Items: {
 				Title: Items
-				SearchHint: Search items (name, English or Thai)...
+				SearchHint: Search items by name or tooltip...
+				SearchWords: ""
 				ResultCount: "{0} items"
 				NoResults: No item matches. Try fewer words or clear the filters.
 				AnyClass: Any class

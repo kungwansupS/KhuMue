@@ -26,7 +26,9 @@ internal sealed class HomePage : Page
     private static string Signature()
     {
         EntryStatus? next = ProgressService.Next;
-        return (next?.Entry.Id ?? "-") + "|" + ProgressService.StageIndex + "|" + ProgressService.Entries.Count(e => e.Done == true);
+        // The difficulty badges too: Calamity switches Revengeance to Death by itself in Master worlds.
+        return (next?.Entry.Id ?? "-") + "|" + ProgressService.StageIndex + "|" + ProgressService.Entries.Count(e => e.Done == true)
+            + "|" + Main.GameMode + "|" + Flags.Get("cal.Revengeance") + "|" + Flags.Get("cal.Death") + "|" + Flags.Get("inf.Active");
     }
 
     public override Node Build(int width)

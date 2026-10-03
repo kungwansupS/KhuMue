@@ -5,7 +5,7 @@ Khu Mue [Calamity] 2.0
 - Home: where your world is, the next step of the route with how to summon it, what else you can do now, and permanent upgrades you have not used.
 - Progression: every boss, event and quest of your mods in order, with live done / next / available / locked status.
 - Gear: recommended weapons, armor, accessories and buffs for each class and stage (Calamity and Terraria wikis).
-- Items: search any item (English or Thai) and see every recipe (with total base materials), drop, shop, bag and Shimmer result read live from your game, plus the chests, fishing spots and Angler rewards it comes from.
+- Items: search any item by name, tooltip or Thai word (ดาบ, ปีก ...) and see every recipe (with total base materials), drop, shop, bag and Shimmer result read live from your game, plus the chests, fishing spots and Angler rewards it comes from.
 - Upgrades: every permanent upgrade and what this character has used.
 - Guides: Calamity mechanics, add-on mods and the traps that are easy to regret.
 
@@ -25,7 +25,7 @@ Khu Mue [Calamity] 2.0 (คู่มือ Calamity)
 - หน้าแรก: โลกของคุณอยู่ช่วงไหน ขั้นต่อไปพร้อมวิธีเรียกบอส สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้
 - ความก้าวหน้า: บอส อีเวนต์ และเควสต์ทั้งหมดของม็อดที่เปิดอยู่ พร้อมสถานะจากโลกจริง
 - ชุดแนะนำ: อาวุธ ชุดเกราะ เครื่องประดับ และบัฟ ตามคลาสและช่วงของเกม (จากวิกิ Calamity และ Terraria)
-- ไอเทม: ค้นหาไอเทมทั้งชื่อไทยและอังกฤษ ดูสูตรคราฟต์ (พร้อมวัตถุดิบพื้นฐานรวม) ดรอป ร้านค้า ถุง และ Shimmer ที่อ่านจากเกมโดยตรง รวมถึงหีบที่พบ จุดตกปลา และรางวัลของ Angler
+- ไอเทม: ค้นหาไอเทมด้วยชื่ออังกฤษหรือคำไทย เช่น ดาบ ปีก ไฟ ดูสูตรคราฟต์ (พร้อมวัตถุดิบพื้นฐานรวม) ดรอป ร้านค้า ถุง และ Shimmer ที่อ่านจากเกมโดยตรง รวมถึงหีบที่พบ จุดตกปลา และรางวัลของ Angler
 - อัปเกรดถาวร: รายการอัปเกรดถาวรทั้งหมด และตัวละครนี้ใช้อะไรไปแล้วบ้าง
 - คู่มือ: ระบบของ Calamity ม็อดเสริม และกับดักที่พลาดแล้วเสียดาย
 

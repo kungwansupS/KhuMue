@@ -1,5 +1,29 @@
 # Changelog
 
+## 2.2.1 (2026-10-03)
+
+### Changed
+- Item search also looks through tooltips, so words in the tooltip language find items. Item names in the Thai
+  pack stay in English, so Thai search words ("ดาบ", "ปีก", "ไฟ" ...) also match English name parts (Sword, Blade,
+  Wings, Fire, Flame ...), and words typed together without a space ("ดาบไฟ") are split. Items found only through
+  their tooltip come after name matches.
+- "You have N" on item pages counts personal banks and equipped items too, the same places the owned marker
+  checks.
+- Thai wording: less translated-sounding phrasing (passive "ถูก…", "ของคุณ", "สามารถ…"); item names and game terms
+  are unchanged. The Available state reads "ทำได้เลย".
+
+### Fixed
+- The difficulty badge on the Home page stayed stale when the difficulty changed while the guide was open (Calamity
+  switches Revengeance to Death by itself in Master worlds).
+
+### Tools
+- `RunClientQa.ps1` and `RunDataDump.ps1` pick the installed tModLoader's release stream by default (2026.8 now).
+- `check_loadout_stages.py` uses `Data/obtain.json` (chests, fishing, Angler rewards) and prints on a Thai
+  Windows console.
+- QA plan: screenshots of Thai searches ("ดาบ", "ดาบไฟ", "ปีก"); the Home shot waits long enough to see the
+  difficulty badge update. The probe clicks a long item grid near its top (it looked for the grid's center, which a
+  long result list pushes below the view) and updates the search box between back-to-back searches.
+
 ## 2.2.0 (2026-09-25)
 
 ### Added

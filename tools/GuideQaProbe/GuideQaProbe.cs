@@ -213,16 +213,19 @@ public sealed class QaSystem : ModSystem
             _clickStage = 3;
             return false;
         }
-        // Near the top-left corner: a button's label area, or the first cell of a grid.
-        target = new Point(found.X + Math.Min(20, found.Width / 2), found.Y + Math.Min(20, found.Height / 2));
+        target = ClickPoint(found);
         return true;
     }
 
-    /// <summary>First node of the type, in window coordinates (scroll views shift their content).</summary>
+    /// <summary>Near the top-left corner: a button's label area, or the first cell of a grid.</summary>
+    private static Point ClickPoint(Rectangle bounds) => new(bounds.X + Math.Min(20, bounds.Width / 2), bounds.Y + Math.Min(20, bounds.Height / 2));
+
+    /// <summary>First node of the type whose click point is visible, in window coordinates (scroll views shift their content).</summary>
     private static Rectangle? FindNode(Node node, string type, int shiftY, Rectangle viewport)
     {
         var bounds = new Rectangle(node.Bounds.X, node.Bounds.Y - shiftY, node.Bounds.Width, node.Bounds.Height);
-        if (node.GetType().Name == type && viewport.Contains(bounds.Center))
+        // A long grid reaches far below the view, so test the point that will be clicked, not the center.
+        if (node.GetType().Name == type && viewport.Contains(ClickPoint(bounds)))
             return bounds;
         if (node is ScrollView scroll)
             return FindNode(scroll.Content, type, shiftY + (int)scroll.ScrollY, Rectangle.Intersect(viewport, scroll.Bounds));
@@ -566,9 +569,15 @@ public sealed class QaSystem : ModSystem
             case "entry": Navigator.OpenEntry(parts[1]); break;
             case "item": Navigator.OpenItem(GuideCatalog.ItemType(parts[1])); break;
             case "items":
-                typeof(ItemsPage).GetField("_query", Any)!.SetValue(null, parts.Length > 1 ? parts[1] : "");
+            {
+                string query = parts.Length > 1 ? parts[1] : "";
+                typeof(ItemsPage).GetField("_query", Any)!.SetValue(null, query);
+                // Back-to-back searches keep the open Items page (same key), so its search box needs the new text too.
+                if (Navigator.Current is ItemsPage open && typeof(ItemsPage).GetField("_search", Any)?.GetValue(open) is TextBox box)
+                    box.Value = query;
                 Navigator.Go(new ItemsPage());
                 break;
+            }
             case "loadouts":
             {
                 // loadouts[:stage[:class]]

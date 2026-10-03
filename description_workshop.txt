@@ -1,34 +1,47 @@
-[h1]Khu Mue [Calamity] (คู่มือ Calamity)[/h1]
-คู่มือในเกมสำหรับ Terraria และ Calamity เปิดด้วยปุ่มที่ตั้งไว้ (ค่าเริ่มต้น [b]B[/b]) หรือพิมพ์ [b]/khumue[/b] ในช่องแชต คู่มืออ่านสถานะโลกของคุณ แล้วบอกว่าควรทำอะไรต่อ เริ่มอย่างไร และควรเตรียมอะไร
+[h1]KhuMue - คู่มือสำหรับ Calamity[/h1]
+
+KhuMue เป็นคู่มือในเกมสำหรับ Terraria และ Calamity ที่ทำขึ้นเพื่อช่วยลดเวลาที่ต้องสลับไปเปิด Wiki ระหว่างเล่น
+
+เปิดคู่มือได้จากปุ่มที่ตั้งไว้ หรือพิมพ์ [b]/khumue[/b] ในช่องแชต ตัวคู่มือจะดูความคืบหน้าจากโลกที่กำลังเล่นอยู่ แล้วช่วยบอกว่าตอนนี้คุณอยู่ช่วงไหน ควรไปทำอะไรต่อ บอสตัวต่อไปคืออะไร และมีอะไรที่ควรเตรียมไว้ก่อน
 
 [list]
-[*][b]หน้าแรก[/b] โลกของคุณอยู่ช่วงไหน ขั้นต่อไปพร้อมวิธีเรียกบอส สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้
-[*][b]ความก้าวหน้า[/b] บอส อีเวนต์ และเควสต์ทั้งหมดเรียงตามลำดับ พร้อมสถานะจากโลกจริง
-[*][b]ชุดแนะนำ[/b] อาวุธ ชุดเกราะ เครื่องประดับ และบัฟ ตามคลาสและช่วงของเกม
-[*][b]ไอเทม[/b] ค้นหาได้ทั้งชื่อไทยและอังกฤษ ดูสูตรคราฟต์ (พร้อมวัตถุดิบพื้นฐานรวม) ดรอป ร้านค้า ถุงบอส และ Shimmer ที่อ่านจากเกมโดยตรง รวมถึงหีบที่พบ จุดตกปลา และรางวัลของ Angler
-[*][b]อัปเกรดถาวร[/b] ผลไม้ หัวใจ บูสเตอร์ Rage/Adrenaline และ Auric Soul ว่าตัวละครนี้ใช้อะไรไปแล้ว
-[*][b]คู่มือ[/b] ระบบของ Calamity ม็อดเสริม และกับดักที่พลาดแล้วเสียดาย
+[*][b]หน้าแรก[/b] — สรุปสถานะของโลก บอสหรือเป้าหมายถัดไป วิธีเรียกบอส สิ่งที่สามารถทำได้ในช่วงนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้
+[*][b]ความก้าวหน้า[/b] — รวมบอส อีเวนต์ และเควสต์ตามลำดับการเล่น พร้อมเช็กสถานะจากโลกจริงว่าอะไรผ่านไปแล้วบ้าง
+[*][b]ชุดแนะนำ[/b] — แนะนำอาวุธ ชุดเกราะ เครื่องประดับ และบัฟตามคลาสและช่วงของเกม
+[*][b]ไอเทม[/b] — ค้นหาได้ทั้งชื่ออังกฤษและคำไทย เช่น ดาบ ปีก ไฟ พร้อมดูสูตรคราฟต์ วัตถุดิบพื้นฐานที่ต้องใช้ ดรอป ร้านค้า Boss Bag และ Shimmer รวมถึงข้อมูลหีบ จุดตกปลา และรางวัลจาก Angler
+[*][b]อัปเกรดถาวร[/b] — เช็กว่าตัวละครใช้ผลไม้ หัวใจ Rage/Adrenaline Booster, Auric Soul และอัปเกรดอื่น ๆ ไปแล้วหรือยัง
+[*][b]คู่มือ[/b] — รวมคำอธิบายระบบต่าง ๆ ของ Calamity และม็อดเสริม รวมถึงเรื่องที่ควรรู้ก่อนพลาดแล้วต้องกลับมาแก้ทีหลัง
 [/list]
 
-[b]ตรวจข้อมูลกับ[/b] Calamity 2.2.4, Catalyst 1.1.8, Hunt of the Old God 1.2.3, Wrath of the Gods 1.2.31, Infernum 2.0.1.35, Calamity Fables 0.1.24 และ Spirit Reforged 0.2.2.8 ใช้ได้แม้ไม่มีม็อดเหล่านี้ สูตรคราฟต์ ดรอป และร้านค้าอ่านจากเกมที่เล่นอยู่ จึงตรงกับม็อดของคุณเสมอ ม็อดนี้ทำงานฝั่งผู้เล่นเท่านั้น
+ข้อมูลที่เปลี่ยนไปตามม็อด เช่น สูตรคราฟต์ ดรอป และร้านค้า จะถูกอ่านจากเกมที่คุณกำลังเล่นโดยตรง แทนที่จะใช้รายการที่เขียนตายตัวไว้ในม็อด เพราะงั้นถ้าม็อดอื่นแก้สูตรหรือเพิ่มไอเทม ข้อมูลใน KhuMue ก็จะอ้างอิงจากชุดม็อดที่คุณเปิดอยู่
 
-[b]ภาษาไทย[/b] มีคำแปลไทยครบในตัว ต้องใช้ม็อดภาษาไทยที่มีฟอนต์ไทยเพื่อแสดงตัวอักษรไทย
-[b]ตั้งปุ่ม[/b] tModLoader ไม่ตั้งปุ่มให้ม็อดใหม่เอง ให้ไปที่ Settings > Controls ค้นหา Khu Mue แล้วตั้งปุ่ม (B ซ้ำกับ Quick Buff ของเกม ถ้าใช้ B ควรย้าย Quick Buff ไปปุ่มอื่น)
-
-[hr][/hr]
-[h2]English[/h2]
-"Khu mue" is Thai for "guide". An in-game guide for Terraria and Calamity. Open it with your guide key or type [b]/khumue[/b] in chat.
-
+ปัจจุบันตรวจสอบการทำงานร่วมกับ:
 [list]
-[*][b]Home[/b]: where your world is, the next step and how to start it, what else you can do now, unused permanent upgrades.
-[*][b]Progression[/b]: every boss, event and quest of your mods in order, with live status from your world.
-[*][b]Gear[/b]: recommended weapons, armor, accessories and buffs for each class and stage.
-[*][b]Items[/b]: search any item and see recipes (with total base materials), drops, shops, bags and Shimmer results read live from your game, plus the chests, fishing spots and Angler rewards it comes from.
-[*][b]Upgrades[/b]: every permanent upgrade and what this character has used.
-[*][b]Guides[/b]: Calamity mechanics, add-on mods and common traps.
+[*]Calamity 2.2.4
+[*]Catalyst 1.1.8
+[*]Hunt of the Old God 1.2.3
+[*]Wrath of the Gods 1.2.31
+[*]Infernum 2.0.1.35
+[*]Calamity Fables 0.1.24
+[*]Spirit Reforged 0.2.2.8
 [/list]
 
-Route and advice checked against the mod versions listed above; works without them too. Client-side only. Full English and Thai text. tModLoader leaves new mod keys unbound: set one in Settings > Controls (search for Khu Mue); the default B is also vanilla's Quick Buff key.
+ไม่จำเป็นต้องติดตั้งม็อดเสริมเหล่านี้ทั้งหมด KhuMue สามารถใช้งานได้ตามม็อดที่คุณมี และทำงานฝั่งผู้เล่นเท่านั้น
+
+[b]ภาษาไทย[/b]
+มีคำแปลภาษาไทยมาให้ในตัว แต่จำเป็นต้องใช้ม็อดภาษาไทยที่รองรับฟอนต์ไทยเพื่อให้ตัวอักษรแสดงผลได้ถูกต้อง
+
+[b]การตั้งปุ่ม[/b]
+tModLoader จะไม่ตั้งปุ่มให้ม็อดใหม่โดยอัตโนมัติ ให้เข้าไปที่ [b]Settings > Controls[/b] แล้วค้นหา [b]Khu Mue[/b] เพื่อตั้งปุ่มที่ต้องการ
+
+ถ้าจะใช้ [b]B[/b] แนะนำให้ย้ายปุ่ม Quick Buff ของเกมไปปุ่มอื่นก่อน เพราะค่าเริ่มต้นของ Terraria ใช้ B สำหรับ Quick Buff อยู่แล้ว
+
+github
+https://github.com/kungwansupS/KhuMue
 
 [b]Credits and licenses[/b]
-Gear recommendations are adapted from "Guide:Class setups" on the [url=https://calamitymod.wiki.gg/wiki/Guide:Class_setups]Calamity Mod Wiki[/url] ([url=https://creativecommons.org/licenses/by-nc-sa/3.0/]CC BY-NC-SA 3.0[/url]) and the [url=https://terraria.wiki.gg/wiki/Guide:Class_setups?oldid=957024]Terraria Wiki[/url] ([url=https://creativecommons.org/licenses/by-nc-sa/4.0/]CC BY-NC-SA 4.0[/url]); that data stays under those licenses. Code: MIT. Not affiliated with Re-Logic or the authors of the supported mods.
+Gear recommendations are adapted from "Guide:Class setups" on the [url=https://calamitymod.wiki.gg/wiki/Guide:Class_setups]Calamity Mod Wiki[/url] ([url=https://creativecommons.org/licenses/by-nc-sa/3.0/]CC BY-NC-SA 3.0[/url]) and the [url=https://terraria.wiki.gg/wiki/Guide:Class_setups?oldid=957024]Terraria Wiki[/url] ([url=https://creativecommons.org/licenses/by-nc-sa/4.0/]CC BY-NC-SA 4.0[/url]); that data stays under those licenses.
+
+Code: MIT.
+
+Not affiliated with Re-Logic or the authors of the supported mods.

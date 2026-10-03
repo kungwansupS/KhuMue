@@ -20,7 +20,8 @@ param(
     [string]$Plan = '',
     [string]$Work = (Join-Path $env:TEMP 'KhuMueClientQa'),
     [Parameter(Mandatory = $true)][string]$TML,
-    [string]$TmlStream = '2026.7',
+    # tModLoader release stream (year.month); empty = the installed tModLoader's own stream.
+    [string]$TmlStream = '',
     # Fixture character and world (copies are made; the originals are only read).
     [string]$Fixtures = '',
     # Optional Thai pack to test the Thai texts and font (copied, never modified).
@@ -70,6 +71,10 @@ $sets = @{
                 'Luminance', 'Daybreak', 'NoxusBoss', 'InfernumMode', 'CalamityFables', 'SpiritMusic', 'SpiritReforged')
 }
 $workshop = [IO.Path]::GetFullPath([IO.Path]::Combine($TML, '..', '..', 'workshop', 'content', '1281930'))
+if (!$TmlStream) {
+    # ProductVersion looks like "1.4.4.9+2026.08.3.0|2026.08|stable|...".
+    $TmlStream = ([Diagnostics.FileVersionInfo]::GetVersionInfo((Join-Path $TML 'tModLoader.dll')).ProductVersion -split '\|')[1]
+}
 $stream = [version]$TmlStream
 
 # Mod version from a .tmod header ("TMOD", tML version, hash, signature, data length, name, version).

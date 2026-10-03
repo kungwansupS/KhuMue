@@ -91,7 +91,7 @@ E["GoblinArmy"] = {
     "Name": ("Goblin Army", "Goblin Army"),
     "Short": ("Goblin invasion; frees the Goblin Tinkerer.", "ก็อบลินบุก ปลดล็อก Goblin Tinkerer"),
     "Summary": ("An army of goblins invades your town. Beating it lets you rescue the Goblin Tinkerer, who reforges items and sells the Tinkerer's Workshop for combining accessories.",
-                "กองทัพก็อบลินบุกเมืองของคุณ ชนะแล้วจะช่วย Goblin Tinkerer ได้ ซึ่งรีฟอร์จไอเทมและขาย Tinkerer's Workshop สำหรับรวมเครื่องประดับ"),
+                "กองทัพก็อบลินบุกเมือง ชนะแล้วจะช่วย Goblin Tinkerer ได้ ซึ่งรีฟอร์จไอเทมและขาย Tinkerer's Workshop สำหรับรวมเครื่องประดับ"),
     "Summon": ("Use a [item:Terraria/GoblinBattleStandard]. It can also arrive at dawn once a Shadow Orb or Crimson Heart has been broken and a player has 200 max life.",
                "ใช้ [item:Terraria/GoblinBattleStandard] หรืออาจมาเองตอนรุ่งเช้า เมื่อเคยทุบ Shadow Orb หรือ Crimson Heart แล้วและมีผู้เล่นที่มีพลังชีวิตสูงสุด 200"),
     "Unlocks": ("The Goblin Tinkerer can be found tied up in the Cavern layer. Talk to him to free him.",
@@ -142,7 +142,7 @@ E["Skeletron"] = {
     "Unlocks": ("The Dungeon: its enemies, chests (Golden Keys) and the Mechanic, who is found bound inside.",
                 "Dungeon: ศัตรู หีบ (ใช้ Golden Key) และ Mechanic ที่ถูกมัดอยู่ข้างใน"),
     "UnlocksCal": ("The Dungeon: its enemies, chests (Golden Keys) and the Mechanic, who is found bound inside. Calamity also unlocks the locked chests of the Abyss.",
-                   "Dungeon: ศัตรู หีบ (ใช้ Golden Key) และ Mechanic ที่ถูกมัดอยู่ข้างใน ส่วนใน Calamity ยังปลดล็อกหีบที่ถูกล็อกใน Abyss ด้วย"),
+                   "Dungeon: ศัตรู หีบ (ใช้ Golden Key) และ Mechanic ที่ถูกมัดอยู่ข้างใน ส่วนใน Calamity ยังปลดล็อกหีบใน Abyss ด้วย"),
     "Warning": ("Do not enter the Dungeon before Skeletron is defeated: the Dungeon Guardian kills almost instantly.",
                 "อย่าเข้า Dungeon ก่อนชนะ Skeletron เพราะ Dungeon Guardian จะทำให้คุณตายแทบทันที"),
     "Tips": ("• Its spinning attack hurts a lot; keep moving and use a long platform arena.\n• The fight must end before dawn, or it becomes deadly.",
@@ -189,7 +189,7 @@ E["PirateInvasion"] = {
     "Name": ("Pirate Invasion", "Pirate Invasion"),
     "Short": ("Pirate invasion from the ocean.", "โจรสลัดบุกจากทะเล"),
     "Summary": ("Pirates invade your town, sometimes with the Flying Dutchman ship. They drop coins and pirate gear.",
-                "โจรสลัดบุกเมืองของคุณ บางครั้งมีเรือ Flying Dutchman มาด้วย ดรอปเหรียญและอุปกรณ์โจรสลัด"),
+                "โจรสลัดบุกเมือง บางครั้งมีเรือ Flying Dutchman มาด้วย ดรอปเหรียญและอุปกรณ์โจรสลัด"),
     "Summon": ("Use a [item:Terraria/PirateMap], dropped by enemies in the Ocean in Hardmode. It can also start by itself in Hardmode.",
                "ใช้ [item:Terraria/PirateMap] ซึ่งดรอปจากศัตรูในทะเลช่วง Hardmode หรืออาจเริ่มเองในช่วง Hardmode"),
     "Unlocks": ("After the first win, the Pirate can move in.", "หลังชนะครั้งแรก Pirate จะย้ายเข้ามาได้"),
@@ -785,7 +785,7 @@ E["Goozma"] = {
     "Summary": ("Goozma, the ancient slime god. A very hard fight designed for the end of the game, though it can be summoned in Hardmode.",
                 "Goozma เทพสไลม์โบราณ เป็นการต่อสู้ที่ยากมากซึ่งออกแบบไว้สำหรับช่วงท้ายเกม แม้จะเรียกได้ตั้งแต่ Hardmode"),
     "Summon": ("Throw an [item:CalamityMod/OverloadedSludge] onto King Slime during a Slime Rain, or use a [item:CalamityHunt/PluripotentSpawnEgg] on an empowered Slime Ninja Statue.",
-               "โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่ถูกเสริมพลัง"),
+               "โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่เสริมพลังแล้ว"),
     "Unlocks": ("The [item:CalamityHunt/GoozmaSoul]: touch it to absorb it for permanent stats (see the Upgrades tab). With Hunt's Shadowspec Curse option on (the default), items crafted from Shadowspec Bars can only be used after Goozma is defeated.", "[item:CalamityHunt/GoozmaSoul]: เดินไปแตะเพื่อดูดซับรับค่าสถานะถาวร (ดูในแท็บอัปเกรดถาวร) และถ้าเปิดตัวเลือก Shadowspec Curse ของ Hunt ไว้ (ค่าเริ่มต้น) ไอเทมที่คราฟต์จาก Shadowspec Bar จะใช้ได้หลังชนะ Goozma แล้วเท่านั้น"),
     "Requires": ("Hardmode.", "ต้องเป็น Hardmode"),
     "Warning": ("It is balanced for the end of the game; summoning it early is a trap.", "บอสนี้ปรับสมดุลไว้สำหรับช่วงท้ายเกม ถ้าเรียกมาสู้เร็วเกินไปจะเสียเปรียบมาก"),
@@ -798,14 +798,14 @@ E["SolynMeet"] = {
     "Short": ("Wrath of the Gods: meet the star traveler.", "Wrath of the Gods: พบนักเดินทางแห่งดวงดาว"),
     "Summary": ("Solyn, a traveler from the stars, starts the story of Wrath of the Gods.", "Solyn นักเดินทางจากดวงดาว คือจุดเริ่มต้นของเนื้อเรื่อง Wrath of the Gods"),
     "Summon": ("After Skeletron (or in Hardmode) Solyn can appear in your world. Find her and talk to her until the introduction ends.",
-               "หลังชนะ Skeletron (หรือเมื่อเข้า Hardmode) Solyn จะปรากฏในโลกของคุณได้ ตามหาเธอแล้วคุยจนบทแนะนำตัวจบ"),
+               "หลังชนะ Skeletron (หรือเมื่อเข้า Hardmode) Solyn จะปรากฏในโลกนี้ได้ ตามหาเธอแล้วคุยจนบทแนะนำตัวจบ"),
     "Requires": ("Defeat Skeletron first.", "ต้องชนะ Skeletron ก่อน"),
 }
 
 E["SolynCamp"] = {
     "Name": ("Solyn's camp", "แคมป์ของ Solyn"),
     "Short": ("Choose where Solyn sets up camp.", "เลือกที่ตั้งแคมป์ให้ Solyn"),
-    "Summary": ("Solyn wants a place to set up camp in your world.", "Solyn อยากได้ที่ตั้งแคมป์ในโลกของคุณ"),
+    "Summary": ("Solyn wants a place to set up camp in your world.", "Solyn อยากได้ที่ตั้งแคมป์ในโลกนี้"),
     "Summon": ("Talk to Solyn: she gives you a [item:NoxusBoss/StrangeFlagpole]. Place it on open, flat ground to choose the camp site.",
                "คุยกับ Solyn เธอจะมอบ [item:NoxusBoss/StrangeFlagpole] ให้ วางบนพื้นเรียบที่โล่งเพื่อเลือกที่ตั้งแคมป์"),
     "Requires": ("Meet Solyn first.", "ต้องพบ Solyn ก่อน"),
@@ -816,7 +816,7 @@ E["SolynStargaze"] = {
     "Short": ("Repair the telescope and stargaze with Solyn.", "ซ่อมกล้องโทรทรรศน์แล้วดูดาวกับ Solyn"),
     "Summary": ("Solyn wants to go stargazing. The quest ends with a gift: the [item:NoxusBoss/StarCharm].", "Solyn อยากดูดาว เควสต์จบลงด้วยของขวัญ: [item:NoxusBoss/StarCharm]"),
     "Summon": ("Talk to Solyn about stargazing, then repair the telescope at her camp with 10 Gold or Platinum Bars (whichever your world has) and 15 Wood. Talk to her again to watch the sky.",
-               "คุยกับ Solyn เรื่องดูดาว จากนั้นซ่อมกล้องโทรทรรศน์ที่แคมป์ด้วย Gold Bar หรือ Platinum Bar 10 แท่ง (แล้วแต่โลกของคุณมีแร่ชนิดไหน) และไม้ 15 ชิ้น แล้วคุยกับเธออีกครั้งเพื่อดูท้องฟ้า"),
+               "คุยกับ Solyn เรื่องดูดาว จากนั้นซ่อมกล้องโทรทรรศน์ที่แคมป์ด้วย Gold Bar หรือ Platinum Bar 10 แท่ง (แล้วแต่ว่าโลกนี้มีแร่ชนิดไหน) และไม้ 15 ชิ้น แล้วคุยกับเธออีกครั้งเพื่อดูท้องฟ้า"),
     "Requires": ("Meet Solyn first.", "ต้องพบ Solyn ก่อน"),
 }
 
@@ -895,7 +895,7 @@ E["FablesCrabulon"] = {
     "Summary": ("Calamity Fables' version of Crabulon. With Calamity loaded it replaces Calamity's Crabulon while Fables' \"replace Calamity\" option is on (the default).",
                 "Crabulon เวอร์ชันของ Calamity Fables ถ้าเปิด Calamity อยู่ จะใช้แทน Crabulon ของ Calamity ขณะที่ตัวเลือก \"replace Calamity\" ของ Fables เปิดอยู่ (ค่าเริ่มต้น)"),
     "Summon": ("Before its first defeat it can peek out naturally in the mushroom caves. Draw its attention with a [item:CalamityFables/Hookstaff] used while standing on mushroom grass underground.",
-               "ก่อนถูกชนะครั้งแรก มันอาจโผล่ออกมาเองในถ้ำเห็ด ดึงความสนใจของมันด้วย [item:CalamityFables/Hookstaff] โดยใช้ขณะยืนบนหญ้าเห็ดใต้ดิน"),
+               "ถ้ายังไม่เคยแพ้ มันอาจโผล่ออกมาเองในถ้ำเห็ด ดึงความสนใจของมันด้วย [item:CalamityFables/Hookstaff] โดยใช้ขณะยืนบนหญ้าเห็ดใต้ดิน"),
 }
 
 # ====================================================================== Spirit Reforged 0.2.2.8

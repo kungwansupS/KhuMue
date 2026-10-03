@@ -28,7 +28,7 @@ GUIDE = {
         "pre-wof": {
             "Name": ("Pre-Wall of Flesh", "ก่อน Wall of Flesh"),
             "Hint": ("Skeletron opens the Dungeon and unlocks the locked chests of the Abyss. Fight the Slime God, then build a long flat arena in the Underworld for the Wall of Flesh.",
-                     "Skeletron เปิดทางเข้า Dungeon และปลดล็อกหีบที่ถูกล็อกใน Abyss สู้ Slime God แล้วสร้างสนามยาวเรียบใน Underworld เพื่อสู้ Wall of Flesh"),
+                     "Skeletron เปิดทางเข้า Dungeon และปลดล็อกหีบใน Abyss สู้ Slime God แล้วสร้างสนามยาวเรียบใน Underworld เพื่อสู้ Wall of Flesh"),
         },
         "pre-mech": {
             "Name": ("Pre-Mechanical Bosses", "ก่อนบอสจักรกล"),
@@ -73,7 +73,7 @@ GUIDE = {
         "pre-provi": {
             "Name": ("Pre-Providence", "ก่อน Providence"),
             "Hint": ("The Moon Lord awakens the profaned flame: the Profaned Guardians and Providence are next. A new ore appears in space, strong Dungeon enemies can release Phantom Spirits, and the Dragonfolly can be fought in the Jungle.",
-                     "Moon Lord ปลุกเปลวไฟศักดิ์สิทธิ์ขึ้นมา บอสถัดไปคือ Profaned Guardians และ Providence แร่ชนิดใหม่เกิดในอวกาศ ศัตรูตัวแกร่งใน Dungeon อาจปล่อย Phantom Spirit ออกมา และสามารถสู้ Dragonfolly ได้ใน Jungle"),
+                     "Moon Lord ปลุกเปลวไฟศักดิ์สิทธิ์ขึ้นมา บอสถัดไปคือ Profaned Guardians และ Providence แร่ชนิดใหม่เกิดในอวกาศ ศัตรูตัวแกร่งใน Dungeon อาจปล่อย Phantom Spirit ออกมา และสู้ Dragonfolly ได้แล้วใน Jungle"),
         },
         "pre-polter": {
             "Name": ("Pre-Polterghast", "ก่อน Polterghast"),
@@ -134,7 +134,7 @@ GUIDE = {
         "v-pre-cultist": {
             "Name": ("Pre-Lunatic Cultist", "ก่อน Lunatic Cultist"),
             "Hint": ("Golem is down: the Lunatic Cultist appears at the Dungeon entrance, and Martian Probes can start Martian Madness.",
-                     "ชนะ Golem แล้ว: Lunatic Cultist จะปรากฏที่หน้าทางเข้า Dungeon และ Martian Probe สามารถเริ่ม Martian Madness ได้"),
+                     "ชนะ Golem แล้ว: Lunatic Cultist จะปรากฏที่หน้าทางเข้า Dungeon และ Martian Probe เริ่ม Martian Madness ได้แล้ว"),
         },
         "v-pre-moonlord": {
             "Name": ("Pre-Moon Lord", "ก่อน Moon Lord"),
@@ -144,7 +144,7 @@ GUIDE = {
         "v-endgame": {
             "Name": ("Endgame", "ช่วงท้ายเกม"),
             "Hint": ("The Moon Lord is defeated. Craft the best gear from Luminite and the lunar fragments.",
-                     "ชนะ Moon Lord แล้ว สามารถคราฟต์ของที่ดีที่สุดจาก Luminite และเศษชิ้นส่วนดวงจันทร์ได้"),
+                     "ชนะ Moon Lord แล้ว คราฟต์ของที่ดีที่สุดจาก Luminite และเศษชิ้นส่วนดวงจันทร์ได้เลย"),
         },
     },
 
@@ -329,7 +329,7 @@ GUIDE = {
         "C11": ("Use with the Wulfrum Knife.", "ใช้คู่กับ Wulfrum Knife"),
         "C12": ("Use it in its defensive form.", "ใช้ในรูปแบบป้องกัน"),
         "C13": ("These have a new set bonus.", "ชุดนี้มีโบนัสเซ็ตใหม่"),
-        "C14": ("New set bonus; difficult to obtain if your world has no Silver.", "มีโบนัสเซ็ตใหม่ และหายากถ้าโลกของคุณไม่มีแร่ Silver"),
+        "C14": ("New set bonus; difficult to obtain if your world has no Silver.", "มีโบนัสเซ็ตใหม่ และหายากถ้าโลกนี้ไม่มีแร่ Silver"),
         "C15": ("Difficult to obtain; only one per world.", "หายาก และได้แค่ชิ้นเดียวต่อโลก"),
         "C16": ("Difficult to obtain depending on your world evil.", "อาจหายากขึ้นอยู่กับสายชั่วร้ายของโลกคุณ"),
         "C17": ("This is risky to use.", "ชิ้นนี้ใช้แล้วเสี่ยง"),

@@ -714,16 +714,28 @@ internal static class Inventory
         return Owned.Contains(type);
     }
 
+    /// <summary>How many the player carries, wears or keeps in a personal bank: the same places <see cref="Owns"/> looks at.</summary>
     internal static int Count(int type)
     {
-        if (Main.gameMenu)
+        if (Main.gameMenu || type <= 0)
             return 0;
+        Player p = Main.LocalPlayer;
         int count = 0;
-        foreach (Item item in Main.LocalPlayer.inventory)
+        void AddAll(Item[] items)
         {
-            if (item is not null && item.type == type)
-                count += item.stack;
+            foreach (Item item in items)
+            {
+                if (item is not null && item.type == type)
+                    count += item.stack;
+            }
         }
+        AddAll(p.inventory);
+        AddAll(p.armor);
+        AddAll(p.miscEquips);
+        AddAll(p.bank.item);
+        AddAll(p.bank2.item);
+        AddAll(p.bank3.item);
+        AddAll(p.bank4.item);
         return count;
     }
 

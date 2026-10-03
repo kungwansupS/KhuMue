@@ -14,7 +14,8 @@ param(
     [string]$Work = (Join-Path $env:TEMP 'KhuMueDataDump'),
     [Parameter(Mandatory = $true)][string]$TML,
     # tModLoader release stream (year.month); picks the same Workshop version folder the game loads.
-    [string]$TmlStream = '2026.7'
+    # Empty = the installed tModLoader's own stream.
+    [string]$TmlStream = ''
 )
 $ErrorActionPreference = 'Stop'
 $TML = (Resolve-Path -LiteralPath $TML).Path
@@ -38,6 +39,10 @@ $utf8 = [Text.UTF8Encoding]::new($false)
 # A -nosteam server does not scan the Workshop folder, so copy the exact .tmod files the game
 # itself would select: the newest version folder that is not newer than the installed stream.
 $workshop = [IO.Path]::GetFullPath([IO.Path]::Combine($TML, '..', '..', 'workshop', 'content', '1281930'))
+if (!$TmlStream) {
+    # ProductVersion looks like "1.4.4.9+2026.08.3.0|2026.08|stable|...".
+    $TmlStream = ([Diagnostics.FileVersionInfo]::GetVersionInfo((Join-Path $TML 'tModLoader.dll')).ProductVersion -split '\|')[1]
+}
 $stream = [version]$TmlStream
 foreach ($name in $enabled) {
     if ($name -eq 'BGDataDump') { continue }

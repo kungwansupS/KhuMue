@@ -4,7 +4,8 @@ which each recommended item can be obtained, from the live data dump, and lists 
 recommended before that stage.
 
 This is a review aid only (the guide never shows these estimates): it propagates boss drops,
-shop conditions and a small table of progression-gated materials through the recipe graph.
+shop conditions, chest loot, fishing and Angler rewards (Data/obtain.json) and a small table of
+progression-gated materials through the recipe graph.
 
   python tools/data/check_loadout_stages.py <calamity-dump-folder>
 """
@@ -88,8 +89,39 @@ SHOP_TEXT = [
     (r"Lunatic Cultist", 12), (r"Cryogen", 5), (r"Astrum Deus", 12),
 ]
 
+# Data/obtain.json chest kinds that open later than the start of the game (any other kind: stage 0).
+CHEST_STAGE = {
+    "Dungeon": 3, "DungeonOpen": 3, "CalArchive": 3, "Shadow": 3, "CalAbyss": 3, "CalAbyssShrine": 3,
+    "Lihzahrd": 8, "BiomeJungle": 8, "BiomeCorruption": 8, "BiomeCrimson": 8, "BiomeHallow": 8, "BiomeFrozen": 8,
+    "BiomeDesert": 8, "CalAstral": 9,
+}
+
+# Fishing conditions that need world progress ("after:Boss" uses BOSS_STAGE; anything else: stage 0).
+FISHING_STAGE = {"hardmode": 5, "hallow": 5, "astral": 5, "dungeon": 3}
+
+
+def obtain_stage(source):
+    """Earliest stage of one Data/obtain.json source: a chest, a fishing catch or an Angler reward."""
+    if source["how"] == "chest":
+        return CHEST_STAGE.get(source["chest"], 0)
+    if source["how"] == "fishing":
+        best = 99
+        for conditions in source.get("where") or [[]]:
+            stage = 0
+            for c in conditions:
+                if c.startswith("after:"):
+                    boss = c[len("after:"):]
+                    stage = max(stage, BOSS_STAGE.get("CalamityMod " + boss, BOSS_STAGE.get("Terraria " + boss, 99)))
+                else:
+                    stage = max(stage, FISHING_STAGE.get(c, 0))
+            best = min(best, stage)
+        return best
+    return 0
+
 
 def main():
+    # Item keys and the "≈" below must print on any Windows console code page (cp874 on Thai systems).
+    sys.stdout.reconfigure(encoding="utf-8")
     dump = sys.argv[1]
     load = lambda n: json.load(open(os.path.join(dump, n), encoding="utf-8"))
     items = {i["key"]: i for i in load("items.json")}
@@ -129,6 +161,12 @@ def main():
                 if hits:
                     stage = max(stage, min(hits) if " or " in c["text"] else max(hits))
             lower(entry["item"], stage)
+    obtain = json.load(open(os.path.join(ROOT, "Data", "obtain.json"), encoding="utf-8"))
+    for key, sources in obtain.items():
+        for source in sources:
+            if source.get("without") == "CalamityMod":
+                continue
+            lower(key, obtain_stage(source))
 
     # Anything never reached by the above but droppable by ordinary enemies without conditions: stage 0 guess.
     for npc, drops in npc_loot.items():

@@ -57,7 +57,7 @@ Mods: {
 				Back: ย้อนกลับ (ปุ่มย้อนกลับของเมาส์)
 				Forward: ไปข้างหน้า
 				Close: ปิด (Esc)
-				PageError: แสดงหน้านี้ไม่ได้ ข้อผิดพลาดถูกบันทึกไว้ใน log ของ tModLoader แล้ว
+				PageError: แสดงหน้านี้ไม่ได้ บันทึกข้อผิดพลาดไว้ใน log ของ tModLoader แล้ว
 
 				Tabs: {
 					Home: หน้าแรก
@@ -87,7 +87,7 @@ Mods: {
 			States: {
 				Done: ผ่านแล้ว
 				Next: ถัดไป
-				Available: สามารถทำได้
+				Available: ทำได้เลย
 				Locked: ยังล็อกอยู่
 				Unknown: ไม่ทราบสถานะ
 			}
@@ -126,22 +126,22 @@ Mods: {
 				Revengeance: Revengeance
 				Death: Death
 				SmallWorld: โลกขนาดเล็ก
-				StageLine: ตอนนี้คุณอยู่ช่วง: {0}
+				StageLine: ตอนนี้อยู่ช่วง: {0}
 				RouteProgress: เส้นทางหลัก: {0} / {1}
 				NextLabel: ขั้นต่อไป
 				OpenEntry: ดูรายละเอียด
 				OpenLoadout: ชุดแนะนำสำหรับช่วงนี้
-				AlsoOpen: สิ่งที่สามารถทำได้ตอนนี้
+				AlsoOpen: ตอนนี้ทำอะไรได้อีกบ้าง
 				AlsoOpenHint: เนื้อหาเสริมและขั้นที่ข้ามไป
 				AllDoneTitle: จบเส้นทางหลักแล้ว
 				AllDone: ผ่านทุกขั้นของเส้นทางหลักในโลกนี้แล้ว ดูบอสและอีเวนต์เสริมได้ที่แท็บความก้าวหน้า
-				Upgrades: อัปเกรดถาวรที่สามารถใช้ได้ตอนนี้
+				Upgrades: อัปเกรดถาวรที่ใช้ได้ตอนนี้
 				UpgradesHint: ตัวละครนี้ยังไม่ได้ใช้
 				OpenUpgrades: อัปเกรดทั้งหมด
 				Checked: ตรวจสอบกับ
 				VersionNoticeTitle: เวอร์ชันม็อดไม่ตรงกัน
-				VersionNotice: ข้อมูลคู่มือถูกตรวจกับม็อดเวอร์ชันอื่นของ: {0} สูตรคราฟต์ ดรอป และร้านค้าอ่านจากเกมโดยตรงจึงยังถูกต้อง แต่คำแนะนำเส้นทางและชุดของม็อดเหล่านี้อาจไม่ตรงกับเวอร์ชันที่คุณใช้
-				Footer: สูตรคราฟต์ ดรอป ร้านค้า และค่าสถานะอ่านจากเกมของคุณโดยตรง จึงตรงกับม็อดที่คุณเปิดอยู่เสมอ
+				VersionNotice: คู่มือตรวจข้อมูลกับเวอร์ชันอื่นของ: {0} สูตรคราฟต์ ดรอป และร้านค้ายังถูกต้องเพราะอ่านจากเกมโดยตรง แต่เส้นทางและชุดแนะนำของม็อดเหล่านี้อาจไม่ตรงกับเวอร์ชันที่ใช้อยู่
+				Footer: สูตรคราฟต์ ดรอป ร้านค้า และค่าสถานะอ่านจากเกมโดยตรง จึงตรงกับม็อดที่เปิดอยู่เสมอ
 			}
 
 			Progression: {
@@ -177,14 +177,15 @@ Mods: {
 				BaseStatsNote: ก่อนคูณตามระดับความยากและจำนวนผู้เล่น
 				LockedGeneric: ยังทำไม่ได้: ต้องผ่านขั้นก่อนหน้าในเส้นทางหลักก่อน
 				MultiplayerNote: โหมดผู้เล่นหลายคน: ม็อดนี้ไม่ส่งสถานะของขั้นนี้ให้ผู้เล่นคนอื่น ผู้เล่นที่เข้ามาทีหลังจึงอาจเห็นว่ายังไม่ผ่าน
-				UnknownState: คู่มืออ่านไม่ได้ว่าโลกของคุณผ่านขั้นนี้แล้วหรือยัง (ม็อดนั้นอาจมีการเปลี่ยนแปลง)
+				UnknownState: คู่มืออ่านไม่ได้ว่าโลกนี้ผ่านขั้นนี้แล้วหรือยัง (ม็อดนั้นอาจเปลี่ยนไป)
 				PrepareGear: ชุดที่แนะนำ
 				Source: เนื้อหาจาก {0}
 			}
 
 			Items: {
 				Title: ไอเทม
-				SearchHint: ค้นหาไอเทม (ชื่ออังกฤษหรือไทย)...
+				SearchHint: ค้นหาไอเทมจากชื่อหรือคำอธิบาย เช่น ดาบ ปีก ยา...
+				SearchWords: ดาบ=sword blade saber katana cutlass claymore;มีด=knife knives dagger;กริช=dagger;หอก=spear lance trident halberd glaive pike javelin;ขวาน=axe waraxe hamaxe;ค้อน=hammer hamaxe;ธนู=bow;หน้าไม้=crossbow repeater;ปืน=gun shotgun rifle pistol revolver blaster minishark musket sniper launcher;กระสุน=bullet round shell;ลูกศร=arrow;จรวด=rocket missile;ระเบิด=bomb grenade dynamite explosive mine;ไม้เท้า=staff wand rod scepter cane;คทา=scepter wand rod;ตำรา=tome book;หนังสือ=tome book;แส้=whip;โยโย่=yoyo;บูมเมอแรง=boomerang;ดาวกระจาย=shuriken;จักร=chakram disc;ตะขอ=hook;จอบ=pickaxe pick drill;สว่าน=drill;เลื่อย=saw chainsaw;เบ็ด=fishing pole fishing rod;เหยื่อ=bait worm;ประแจ=wrench;กุญแจ=key;หมวก=helmet hat mask hood headgear helm cap crown;เสื้อ=breastplate chestplate shirt robe vest jacket coat mail;เกราะ=armor breastplate chestplate mail plate;กางเกง=leggings greaves pants cuisses;ปีก=wings;รองเท้า=boots treads shoes;โล่=shield;แหวน=ring band;สร้อย=necklace pendant amulet charm;ถุงมือ=glove gauntlet mitt;ผ้าพันคอ=scarf;ผ้าคลุม=cloak cape;แว่น=goggles glasses lens;ตรา=emblem insignia sigil;เข็มขัด=belt;ยา=potion flask elixir;อาหาร=food soup stew pie cake;แร่=ore;แท่ง=bar;เศษ=fragment shard scrap;วิญญาณ=soul spirit;คริสตัล=crystal;อัญมณี=gem amethyst topaz sapphire emerald ruby diamond amber;ถุง=bag pouch;ลัง=crate;เหรียญ=coin medal;ไม้=wood wooden;หิน=stone rock;อิฐ=brick;บล็อก=block;กำแพง=wall;แพลตฟอร์ม=platform;ประตู=door gate;โต๊ะ=table desk;เก้าอี้=chair throne;เตียง=bed;หีบ=chest;ตู้=dresser bookcase;โคม=lantern lamp chandelier;คบเพลิง=torch;เทียน=candle;กล่องเพลง=music box;แบนเนอร์=banner;รูปปั้น=statue;ภาพวาด=painting;สีย้อม=dye;สี=paint dye;สายไฟ=wire;กับดัก=trap;ไฟ=fire flame flaming fiery inferno blaze hellfire ember burning molten;ไฟฟ้า=electric volt shock thunder lightning;น้ำแข็ง=ice frost frozen cryo glacial;หิมะ=snow;สายฟ้า=thunder lightning storm electric volt;น้ำ=water aqua;น้ำผึ้ง=honey;ผึ้ง=bee hive;แมงมุม=spider;กระดูก=bone skull;เลือด=blood;พิษ=poison venom toxic;ทอง=gold golden;เงิน=silver coin;ทองแดง=copper;เหล็ก=iron;มังกร=dragon wyrm;ปีศาจ=demon devil;นางฟ้า=fairy angel;ผี=ghost spectre phantom;เงา=shadow;มืด=dark shadow night;แสง=light radiant;ดาว=star astral;ดวงจันทร์=moon lunar;ดวงอาทิตย์=sun solar;ทะเล=sea ocean;ป่า=jungle forest;ทะเลทราย=desert sand;เห็ด=mushroom shroom;ดอกไม้=flower bloom petal blossom;ใบไม้=leaf;ปลา=fish
 				ResultCount: พบ {0} รายการ
 				NoResults: ไม่พบไอเทมที่ตรงกัน ลองใช้คำให้น้อยลงหรือล้างตัวกรอง
 				AnyClass: ทุกคลาส
@@ -420,10 +421,10 @@ Mods: {
 
 			Upgrades: {
 				Title: อัปเกรดถาวร
-				Intro: ไอเทมที่กดใช้แล้วเพิ่มพลังให้ตัวละครนี้อย่างถาวร สีทองคือสามารถหาได้แล้วตอนนี้ คลิกแต่ละแถวเพื่อดูวิธีหา
+				Intro: ไอเทมที่กดใช้แล้วเพิ่มพลังให้ตัวละครนี้อย่างถาวร สีทองคือหาได้แล้วตอนนี้ คลิกแต่ละแถวเพื่อดูวิธีหา
 				Summary: ใช้แล้ว {0} / {1}
 				ReadyTitle: พร้อมให้ใช้
-				ReadyHint: สามารถหาได้แล้ว แต่ยังไม่ได้ใช้
+				ReadyHint: หาได้แล้ว แต่ยังไม่ได้ใช้
 				Used: ใช้แล้ว
 				NotUsed: ยังไม่ได้ใช้
 				UsedCount: "{0} / {1}"
@@ -633,17 +634,17 @@ Mods: {
 
 					Home: {
 						Title: หน้าแรก
-						Body: หน้าแรกอ่านสถานะโลกของคุณ แล้วแสดงว่าตอนนี้อยู่ช่วงไหน ขั้นหลักถัดไปพร้อมวิธีเริ่ม สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้
+						Body: หน้าแรกอ่านสถานะของโลก แล้วแสดงว่าตอนนี้อยู่ช่วงไหน ขั้นหลักถัดไปพร้อมวิธีเริ่ม สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้
 					}
 
 					Progress: {
 						Title: ความก้าวหน้า
-						Body: บอส อีเวนต์ และเควสต์ทั้งหมดจากม็อดที่เปิดอยู่ เรียงตามลำดับ พร้อมสถานะ "ผ่านแล้ว" "ถัดไป" "สามารถทำได้" หรือ "ยังล็อกอยู่" คลิกเพื่อดูวิธีเริ่ม สิ่งที่ปลดล็อก และของที่ดรอป (อ่านจากเกม)
+						Body: บอส อีเวนต์ และเควสต์ทั้งหมดจากม็อดที่เปิดอยู่ เรียงตามลำดับ พร้อมสถานะ "ผ่านแล้ว" "ถัดไป" "ทำได้เลย" หรือ "ยังล็อกอยู่" คลิกเพื่อดูวิธีเริ่ม สิ่งที่ปลดล็อก และของที่ดรอป (อ่านจากเกม)
 					}
 
 					Gear: {
 						Title: ชุดแนะนำ
-						Body: อาวุธ ชุดเกราะ เครื่องประดับ และบัฟที่แนะนำตามคลาสและช่วงของคุณ ดัดแปลงจากวิกิของ Calamity และ Terraria หน้านี้จะเปิดที่ช่วงของโลกคุณ ใช้ลูกศรเพื่อดูช่วงอื่น
+						Body: อาวุธ ชุดเกราะ เครื่องประดับ และบัฟที่แนะนำตามคลาสและช่วงเกม ดัดแปลงจากวิกิของ Calamity และ Terraria หน้านี้จะเปิดที่ช่วงของโลกที่เล่นอยู่ ใช้ลูกศรเพื่อดูช่วงอื่น
 					}
 
 					Items: {
@@ -801,7 +802,7 @@ Mods: {
 
 					Transform: {
 						Title: การเปลี่ยนรูปไอเทม
-						Body: โยนไอเทมลงใน Shimmer เพื่อแปลงเป็นอย่างอื่น และไอเทมที่คราฟต์หลายชนิดจะถูกแยกกลับเป็นวัตถุดิบ หน้าไอเทมแสดงผลลัพธ์ Shimmer ไว้ในส่วนวิธีหา
+						Body: โยนไอเทมลงใน Shimmer เพื่อแปลงเป็นอย่างอื่น และไอเทมที่คราฟต์หลายชนิดจะแยกกลับเป็นวัตถุดิบ หน้าไอเทมแสดงผลลัพธ์ Shimmer ไว้ในส่วนวิธีหา
 					}
 
 					Boosters: {
@@ -942,7 +943,7 @@ Mods: {
 
 					How: {
 						Title: ทำงานอย่างไร
-						Body: การโจมตีบางอย่างจะลดพลังป้องกันของคุณชั่วคราว และจะฟื้นกลับอย่างรวดเร็วเมื่อไม่โดนโจมตีต่อ การหลบไม่ให้โดนติด ๆ กันจึงสำคัญกว่าการเพิ่มพลังป้องกันอย่างเดียว
+						Body: การโจมตีบางอย่างจะลดพลังป้องกันชั่วคราว และจะฟื้นกลับอย่างรวดเร็วเมื่อไม่โดนโจมตีต่อ การหลบไม่ให้โดนติด ๆ กันจึงสำคัญกว่าการเพิ่มพลังป้องกันอย่างเดียว
 					}
 				}
 
@@ -962,7 +963,7 @@ Mods: {
 
 					Abyss: {
 						Title: Abyss
-						Body: ลึกลงไปใต้ Sulphurous Sea: มืด ลึก และอันตราย เตรียมอุปกรณ์ดำน้ำและแสงให้พร้อม หีบที่ถูกล็อกจะเปิดได้หลังชนะ Skeletron และห้ามวาร์ปด้วย Rod of Discord ที่นั่นเด็ดขาด
+						Body: ลึกลงไปใต้ Sulphurous Sea: มืด ลึก และอันตราย เตรียมอุปกรณ์ดำน้ำและแสงให้พร้อม หีบที่ล็อกอยู่จะเปิดได้หลังชนะ Skeletron และห้ามวาร์ปด้วย Rod of Discord ที่นั่นเด็ดขาด
 					}
 
 					Astral: {
@@ -1047,7 +1048,7 @@ Mods: {
 
 					Witch: {
 						Title: Brimstone Witch (Calamitas)
-						Body: ย้ายเข้ามาหลังชนะ Supreme Calamitas เธอเสริมพลังใหม่ให้ไอเทมของคุณได้
+						Body: ย้ายเข้ามาหลังชนะ Supreme Calamitas เธอเสริมพลังใหม่ให้ไอเทมได้
 					}
 				}
 
@@ -1112,7 +1113,7 @@ Mods: {
 
 					Bosses: {
 						Title: บอสของม็อดนี้
-						Body: Sir Nautilus รออยู่ในห้องลับใต้เนินทราย ส่วน Desert Scourge ล่อออกมาได้ด้วยตัวอ่อน Stormlion และ Crabulon ถูกยั่วให้ออกมาด้วย Hookstaff บนหญ้าเห็ดใต้ดิน ถ้าเปิด Spirit Reforged ด้วย การถวายตัวอ่อนที่ Ancient Altar จะเริ่มศึกดวล Scourge vs. Scarab
+						Body: Sir Nautilus รออยู่ในห้องลับใต้เนินทราย ส่วน Desert Scourge ล่อออกมาได้ด้วยตัวอ่อน Stormlion และยั่ว Crabulon ให้ออกมาได้ด้วย Hookstaff บนหญ้าเห็ดใต้ดิน ถ้าเปิด Spirit Reforged ด้วย การถวายตัวอ่อนที่ Ancient Altar จะเริ่มศึกดวล Scourge vs. Scarab
 					}
 				}
 
@@ -1122,12 +1123,12 @@ Mods: {
 
 					Goozma: {
 						Title: Goozma
-						Body: โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่ถูกเสริมพลัง เรียกได้ตั้งแต่ Hardmode แต่ปรับสมดุลไว้สำหรับช่วงท้ายเกม
+						Body: โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่เสริมพลังแล้ว เรียกได้ตั้งแต่ Hardmode แต่ปรับสมดุลไว้สำหรับช่วงท้ายเกม
 					}
 
 					Souls: {
 						Title: Auric Soul
-						Body: Goozma, Yharon และ Old Duke จะดรอป Auric Soul ทุกครั้งที่ถูกชนะ ตราบใดที่ยังมีผู้เล่นในโลกที่ยังไม่ได้ดูดซับ Soul นั้น เดินไปแตะเพื่อดูดซับ: พลังชีวิตสูงสุด +10 มานาสูงสุด +20 พลังป้องกัน +3 และ +3% ให้ดาเมจ อัตราคริติคอล ความเร็วโจมตีระยะประชิด และความเร็วเคลื่อนที่
+						Body: Goozma, Yharon และ Old Duke จะดรอป Auric Soul ทุกครั้งที่ชนะบอสเหล่านี้ ตราบใดที่ยังมีผู้เล่นในโลกที่ยังไม่ได้ดูดซับ Soul นั้น เดินไปแตะเพื่อดูดซับ: พลังชีวิตสูงสุด +10 มานาสูงสุด +20 พลังป้องกัน +3 และ +3% ให้ดาเมจ อัตราคริติคอล ความเร็วโจมตีระยะประชิด และความเร็วเคลื่อนที่
 					}
 
 					Curse: {
@@ -1211,17 +1212,17 @@ Mods: {
 				Title: ตั้งค่า
 				Options: ตัวเลือก
 				Key: เปิดหรือปิดคู่มือด้วยปุ่ม {0} เปลี่ยนปุ่มได้ที่ Settings > Controls (ค้นหา Khu Mue) ถ้าปุ่มนี้ซ้ำกับคำสั่งอื่น ให้เปลี่ยนปุ่มของคำสั่งใดคำสั่งหนึ่ง
-				KeyClash: ปุ่ม {0} ถูกตั้งให้ใช้กับ: {1} ด้วย กดแล้วจะทำงานทั้งสองอย่าง
+				KeyClash: ปุ่ม {0} ใช้กับ {1} ด้วย กดแล้วจะทำงานทั้งสองอย่าง
 				KeyNone: ยังไม่มีปุ่มเปิดคู่มือ เพราะ tModLoader ไม่ตั้งปุ่มให้ม็อดใหม่เอง ตั้งปุ่มได้ที่ Settings > Controls (ค้นหา Khu Mue) หรือพิมพ์ /khumue ในช่องแชต
 				KeyNoneChat: Khu Mue ยังไม่มีปุ่มเปิด ตั้งปุ่มได้ที่ Settings > Controls (ค้นหา Khu Mue) หรือพิมพ์ /khumue ในช่องแชตเพื่อเปิด
-				KeyClashChat: Khu Mue เปิดด้วยปุ่ม {0} ซึ่งถูกตั้งให้ใช้กับ: {1} ด้วย ถ้ากดแล้วเกิดสิ่งที่ไม่ต้องการ ให้เปลี่ยนปุ่มใดปุ่มหนึ่งที่ Settings > Controls
+				KeyClashChat: Khu Mue เปิดด้วยปุ่ม {0} ซึ่งใช้กับ {1} ด้วย ถ้ากดแล้วเกิดสิ่งที่ไม่ต้องการ ให้เปลี่ยนปุ่มใดปุ่มหนึ่งที่ Settings > Controls
 				TextSize: ขนาดตัวอักษร
 				WindowSize: ขนาดหน้าต่าง
 				HideSpoilers: ซ่อนสปอยล์
 				OpenForNew: เปิดให้อัตโนมัติสำหรับตัวละครใหม่
 				VersionNotice: แจ้งเตือนเวอร์ชัน
 				Mods: ม็อดที่รองรับ
-				ModsIntro: ข้อมูลเส้นทางและชุดแนะนำตรวจสอบกับเวอร์ชันเหล่านี้โดยตรง ส่วนสูตรคราฟต์ ดรอป และร้านค้าอ่านจากเกมของคุณเสมอ
+				ModsIntro: ข้อมูลเส้นทางและชุดแนะนำตรวจสอบกับเวอร์ชันเหล่านี้โดยตรง ส่วนสูตรคราฟต์ ดรอป และร้านค้าอ่านจากเกมโดยตรงเสมอ
 				NotLoaded: ไม่ได้เปิดใช้
 				CheckedFor: ตรวจสอบกับ: {0}
 
@@ -1234,7 +1235,7 @@ Mods: {
 
 				DataErrors: ข้อมูลคู่มือผิดพลาด
 				About: เกี่ยวกับ
-				AboutBody: Khu Mue อ่านสูตรคราฟต์ ดรอป ร้านค้า ผลลัพธ์ Shimmer และค่าสถานะจากเกมของคุณโดยตรง จึงตรงกับม็อดที่คุณใช้อยู่เสมอ ส่วนเส้นทาง ช่วงความก้าวหน้า และชุดแนะนำ ตรวจสอบด้วยมือกับเวอร์ชันม็อดที่แสดงด้านบน
+				AboutBody: Khu Mue อ่านสูตรคราฟต์ ดรอป ร้านค้า ผลลัพธ์ Shimmer และค่าสถานะจากเกมโดยตรง จึงตรงกับม็อดที่ใช้อยู่เสมอ ส่วนเส้นทาง ช่วงความก้าวหน้า และชุดแนะนำ ตรวจสอบด้วยมือกับเวอร์ชันม็อดที่แสดงด้านบน
 				Credits: ชุดแนะนำดัดแปลงจาก Calamity Mod Wiki (CC BY-NC-SA 3.0) และ Terraria Wiki (CC BY-NC-SA 4.0) Khu Mue ไม่ได้เกี่ยวข้องกับ Re-Logic หรือทีมผู้สร้างม็อดที่รองรับ
 			}
 
@@ -1319,7 +1320,7 @@ Mods: {
 				GoblinArmy: {
 					Name: Goblin Army
 					Short: ก็อบลินบุก ปลดล็อก Goblin Tinkerer
-					Summary: กองทัพก็อบลินบุกเมืองของคุณ ชนะแล้วจะช่วย Goblin Tinkerer ได้ ซึ่งรีฟอร์จไอเทมและขาย Tinkerer's Workshop สำหรับรวมเครื่องประดับ
+					Summary: กองทัพก็อบลินบุกเมือง ชนะแล้วจะช่วย Goblin Tinkerer ได้ ซึ่งรีฟอร์จไอเทมและขาย Tinkerer's Workshop สำหรับรวมเครื่องประดับ
 					Summon: ใช้ [item:Terraria/GoblinBattleStandard] หรืออาจมาเองตอนรุ่งเช้า เมื่อเคยทุบ Shadow Orb หรือ Crimson Heart แล้วและมีผู้เล่นที่มีพลังชีวิตสูงสุด 200
 					Unlocks: จะพบ Goblin Tinkerer ถูกมัดอยู่ในชั้นถ้ำ คุยกับเขาเพื่อปลดปล่อย
 					Tips: • อีเวนต์จบเมื่อกำจัดก็อบลินได้ครบตามจำนวน ดูความคืบหน้าได้จากแถบด้านบน
@@ -1361,7 +1362,7 @@ Mods: {
 					Summary: หัวกะโหลกยักษ์พร้อมมือสองข้างที่เฝ้า Dungeon ชนะแล้ว Dungeon จะเปิดและ Clothier จะเป็นอิสระ
 					Summon: คุยกับ Old Man ที่หน้าทางเข้า Dungeon ตอนกลางคืนแล้วเลือกสาปเขา หรือสวม [item:Terraria/ClothierVoodooDoll] แล้วกำจัด Clothier ตอนกลางคืน
 					Unlocks: Dungeon: ศัตรู หีบ (ใช้ Golden Key) และ Mechanic ที่ถูกมัดอยู่ข้างใน
-					UnlocksCal: Dungeon: ศัตรู หีบ (ใช้ Golden Key) และ Mechanic ที่ถูกมัดอยู่ข้างใน ส่วนใน Calamity ยังปลดล็อกหีบที่ถูกล็อกใน Abyss ด้วย
+					UnlocksCal: Dungeon: ศัตรู หีบ (ใช้ Golden Key) และ Mechanic ที่ถูกมัดอยู่ข้างใน ส่วนใน Calamity ยังปลดล็อกหีบใน Abyss ด้วย
 					Warning: อย่าเข้า Dungeon ก่อนชนะ Skeletron เพราะ Dungeon Guardian จะทำให้คุณตายแทบทันที
 					Tips:
 						'''
@@ -1402,7 +1403,7 @@ Mods: {
 				PirateInvasion: {
 					Name: Pirate Invasion
 					Short: โจรสลัดบุกจากทะเล
-					Summary: โจรสลัดบุกเมืองของคุณ บางครั้งมีเรือ Flying Dutchman มาด้วย ดรอปเหรียญและอุปกรณ์โจรสลัด
+					Summary: โจรสลัดบุกเมือง บางครั้งมีเรือ Flying Dutchman มาด้วย ดรอปเหรียญและอุปกรณ์โจรสลัด
 					Summon: ใช้ [item:Terraria/PirateMap] ซึ่งดรอปจากศัตรูในทะเลช่วง Hardmode หรืออาจเริ่มเองในช่วง Hardmode
 					Unlocks: หลังชนะครั้งแรก Pirate จะย้ายเข้ามาได้
 					Requires: ต้องเป็น Hardmode
@@ -1926,7 +1927,7 @@ Mods: {
 				Goozma: {
 					Short: เทพสไลม์แห่ง Hunt of the Old God
 					Summary: Goozma เทพสไลม์โบราณ เป็นการต่อสู้ที่ยากมากซึ่งออกแบบไว้สำหรับช่วงท้ายเกม แม้จะเรียกได้ตั้งแต่ Hardmode
-					Summon: โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่ถูกเสริมพลัง
+					Summon: โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่เสริมพลังแล้ว
 					Unlocks: "[item:CalamityHunt/GoozmaSoul]: เดินไปแตะเพื่อดูดซับรับค่าสถานะถาวร (ดูในแท็บอัปเกรดถาวร) และถ้าเปิดตัวเลือก Shadowspec Curse ของ Hunt ไว้ (ค่าเริ่มต้น) ไอเทมที่คราฟต์จาก Shadowspec Bar จะใช้ได้หลังชนะ Goozma แล้วเท่านั้น"
 					Requires: ต้องเป็น Hardmode
 					Warning: บอสนี้ปรับสมดุลไว้สำหรับช่วงท้ายเกม ถ้าเรียกมาสู้เร็วเกินไปจะเสียเปรียบมาก
@@ -1936,14 +1937,14 @@ Mods: {
 					Name: พบกับ Solyn
 					Short: Wrath of the Gods: พบนักเดินทางแห่งดวงดาว
 					Summary: Solyn นักเดินทางจากดวงดาว คือจุดเริ่มต้นของเนื้อเรื่อง Wrath of the Gods
-					Summon: หลังชนะ Skeletron (หรือเมื่อเข้า Hardmode) Solyn จะปรากฏในโลกของคุณได้ ตามหาเธอแล้วคุยจนบทแนะนำตัวจบ
+					Summon: หลังชนะ Skeletron (หรือเมื่อเข้า Hardmode) Solyn จะปรากฏในโลกนี้ได้ ตามหาเธอแล้วคุยจนบทแนะนำตัวจบ
 					Requires: ต้องชนะ Skeletron ก่อน
 				}
 
 				SolynCamp: {
 					Name: แคมป์ของ Solyn
 					Short: เลือกที่ตั้งแคมป์ให้ Solyn
-					Summary: Solyn อยากได้ที่ตั้งแคมป์ในโลกของคุณ
+					Summary: Solyn อยากได้ที่ตั้งแคมป์ในโลกนี้
 					Summon: คุยกับ Solyn เธอจะมอบ [item:NoxusBoss/StrangeFlagpole] ให้ วางบนพื้นเรียบที่โล่งเพื่อเลือกที่ตั้งแคมป์
 					Requires: ต้องพบ Solyn ก่อน
 				}
@@ -1952,7 +1953,7 @@ Mods: {
 					Name: ดูดาว
 					Short: ซ่อมกล้องโทรทรรศน์แล้วดูดาวกับ Solyn
 					Summary: Solyn อยากดูดาว เควสต์จบลงด้วยของขวัญ: [item:NoxusBoss/StarCharm]
-					Summon: คุยกับ Solyn เรื่องดูดาว จากนั้นซ่อมกล้องโทรทรรศน์ที่แคมป์ด้วย Gold Bar หรือ Platinum Bar 10 แท่ง (แล้วแต่โลกของคุณมีแร่ชนิดไหน) และไม้ 15 ชิ้น แล้วคุยกับเธออีกครั้งเพื่อดูท้องฟ้า
+					Summon: คุยกับ Solyn เรื่องดูดาว จากนั้นซ่อมกล้องโทรทรรศน์ที่แคมป์ด้วย Gold Bar หรือ Platinum Bar 10 แท่ง (แล้วแต่ว่าโลกนี้มีแร่ชนิดไหน) และไม้ 15 ชิ้น แล้วคุยกับเธออีกครั้งเพื่อดูท้องฟ้า
 					Requires: ต้องพบ Solyn ก่อน
 				}
 
@@ -2022,7 +2023,7 @@ Mods: {
 				FablesCrabulon: {
 					Short: Crabulon เวอร์ชันปรับใหม่ของ Fables
 					Summary: Crabulon เวอร์ชันของ Calamity Fables ถ้าเปิด Calamity อยู่ จะใช้แทน Crabulon ของ Calamity ขณะที่ตัวเลือก "replace Calamity" ของ Fables เปิดอยู่ (ค่าเริ่มต้น)
-					Summon: ก่อนถูกชนะครั้งแรก มันอาจโผล่ออกมาเองในถ้ำเห็ด ดึงความสนใจของมันด้วย [item:CalamityFables/Hookstaff] โดยใช้ขณะยืนบนหญ้าเห็ดใต้ดิน
+					Summon: ถ้ายังไม่เคยแพ้ มันอาจโผล่ออกมาเองในถ้ำเห็ด ดึงความสนใจของมันด้วย [item:CalamityFables/Hookstaff] โดยใช้ขณะยืนบนหญ้าเห็ดใต้ดิน
 				}
 
 				Scarabeus: {
@@ -2055,7 +2056,7 @@ Mods: {
 
 				pre-wof: {
 					Name: ก่อน Wall of Flesh
-					Hint: Skeletron เปิดทางเข้า Dungeon และปลดล็อกหีบที่ถูกล็อกใน Abyss สู้ Slime God แล้วสร้างสนามยาวเรียบใน Underworld เพื่อสู้ Wall of Flesh
+					Hint: Skeletron เปิดทางเข้า Dungeon และปลดล็อกหีบใน Abyss สู้ Slime God แล้วสร้างสนามยาวเรียบใน Underworld เพื่อสู้ Wall of Flesh
 				}
 
 				pre-mech: {
@@ -2100,7 +2101,7 @@ Mods: {
 
 				pre-provi: {
 					Name: ก่อน Providence
-					Hint: Moon Lord ปลุกเปลวไฟศักดิ์สิทธิ์ขึ้นมา บอสถัดไปคือ Profaned Guardians และ Providence แร่ชนิดใหม่เกิดในอวกาศ ศัตรูตัวแกร่งใน Dungeon อาจปล่อย Phantom Spirit ออกมา และสามารถสู้ Dragonfolly ได้ใน Jungle
+					Hint: Moon Lord ปลุกเปลวไฟศักดิ์สิทธิ์ขึ้นมา บอสถัดไปคือ Profaned Guardians และ Providence แร่ชนิดใหม่เกิดในอวกาศ ศัตรูตัวแกร่งใน Dungeon อาจปล่อย Phantom Spirit ออกมา และสู้ Dragonfolly ได้แล้วใน Jungle
 				}
 
 				pre-polter: {
@@ -2160,7 +2161,7 @@ Mods: {
 
 				v-pre-cultist: {
 					Name: ก่อน Lunatic Cultist
-					Hint: ชนะ Golem แล้ว: Lunatic Cultist จะปรากฏที่หน้าทางเข้า Dungeon และ Martian Probe สามารถเริ่ม Martian Madness ได้
+					Hint: ชนะ Golem แล้ว: Lunatic Cultist จะปรากฏที่หน้าทางเข้า Dungeon และ Martian Probe เริ่ม Martian Madness ได้แล้ว
 				}
 
 				v-pre-moonlord: {
@@ -2170,7 +2171,7 @@ Mods: {
 
 				v-endgame: {
 					Name: ช่วงท้ายเกม
-					Hint: ชนะ Moon Lord แล้ว สามารถคราฟต์ของที่ดีที่สุดจาก Luminite และเศษชิ้นส่วนดวงจันทร์ได้
+					Hint: ชนะ Moon Lord แล้ว คราฟต์ของที่ดีที่สุดจาก Luminite และเศษชิ้นส่วนดวงจันทร์ได้เลย
 				}
 			}
 
@@ -2188,7 +2189,7 @@ Mods: {
 				C11: ใช้คู่กับ Wulfrum Knife
 				C12: ใช้ในรูปแบบป้องกัน
 				C13: ชุดนี้มีโบนัสเซ็ตใหม่
-				C14: มีโบนัสเซ็ตใหม่ และหายากถ้าโลกของคุณไม่มีแร่ Silver
+				C14: มีโบนัสเซ็ตใหม่ และหายากถ้าโลกนี้ไม่มีแร่ Silver
 				C15: หายาก และได้แค่ชิ้นเดียวต่อโลก
 				C16: อาจหายากขึ้นอยู่กับสายชั่วร้ายของโลกคุณ
 				C17: ชิ้นนี้ใช้แล้วเสี่ยง

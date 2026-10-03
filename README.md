@@ -13,7 +13,7 @@
 
 ## Build
 
-ใช้ .NET SDK 8 และ tModLoader สาย 2026.7 สำหรับ Terraria 1.4.4.9
+ใช้ .NET SDK 8 และ tModLoader สาย 2026.7 ขึ้นไป (ทดสอบล่าสุดกับ 2026.8) สำหรับ Terraria 1.4.4.9
 ตั้ง `$tml` ให้ตรงกับที่ติดตั้งในเครื่อง:
 
 ```powershell

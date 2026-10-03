@@ -12,13 +12,13 @@ G["using-guide"] = {
                       "กด {0} เพื่อเปิดหรือปิดคู่มือ และกด Esc เพื่อปิดได้ ปุ่มย้อนกลับของเมาส์ (หรือลูกศรด้านบน) พากลับไปหน้าก่อน เปลี่ยนปุ่มได้ที่ Settings > Controls")},
     "Home": {"Title": ("Home", "หน้าแรก"),
              "Body": ("Home reads your world and shows where you are, the next main step with how to start it, other things you can do now, and permanent upgrades you have not used yet.",
-                      "หน้าแรกอ่านสถานะโลกของคุณ แล้วแสดงว่าตอนนี้อยู่ช่วงไหน ขั้นหลักถัดไปพร้อมวิธีเริ่ม สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้")},
+                      "หน้าแรกอ่านสถานะของโลก แล้วแสดงว่าตอนนี้อยู่ช่วงไหน ขั้นหลักถัดไปพร้อมวิธีเริ่ม สิ่งอื่นที่ทำได้ตอนนี้ และอัปเกรดถาวรที่ยังไม่ได้ใช้")},
     "Progress": {"Title": ("Progression", "ความก้าวหน้า"),
                  "Body": ("Every boss, event and quest of your mods in order, marked as done, next, available or locked. Click one for how to start it, what it unlocks and its drops (read from the game).",
-                          "บอส อีเวนต์ และเควสต์ทั้งหมดจากม็อดที่เปิดอยู่ เรียงตามลำดับ พร้อมสถานะ \"ผ่านแล้ว\" \"ถัดไป\" \"สามารถทำได้\" หรือ \"ยังล็อกอยู่\" คลิกเพื่อดูวิธีเริ่ม สิ่งที่ปลดล็อก และของที่ดรอป (อ่านจากเกม)")},
+                          "บอส อีเวนต์ และเควสต์ทั้งหมดจากม็อดที่เปิดอยู่ เรียงตามลำดับ พร้อมสถานะ \"ผ่านแล้ว\" \"ถัดไป\" \"ทำได้เลย\" หรือ \"ยังล็อกอยู่\" คลิกเพื่อดูวิธีเริ่ม สิ่งที่ปลดล็อก และของที่ดรอป (อ่านจากเกม)")},
     "Gear": {"Title": ("Gear", "ชุดแนะนำ"),
              "Body": ("Recommended weapons, armor, accessories and buffs for your class and stage, adapted from the Calamity and Terraria wikis. It opens on your world's stage; the arrows browse other stages.",
-                      "อาวุธ ชุดเกราะ เครื่องประดับ และบัฟที่แนะนำตามคลาสและช่วงของคุณ ดัดแปลงจากวิกิของ Calamity และ Terraria หน้านี้จะเปิดที่ช่วงของโลกคุณ ใช้ลูกศรเพื่อดูช่วงอื่น")},
+                      "อาวุธ ชุดเกราะ เครื่องประดับ และบัฟที่แนะนำตามคลาสและช่วงเกม ดัดแปลงจากวิกิของ Calamity และ Terraria หน้านี้จะเปิดที่ช่วงของโลกที่เล่นอยู่ ใช้ลูกศรเพื่อดูช่วงอื่น")},
     "Items": {"Title": ("Items", "ไอเทม"),
               "Body": ("Search any item in English or Thai. Its page shows every recipe with the base materials it needs in total, drops, shops, bags, Shimmer results, the chests and fishing spots it comes from and what it is used for. A green dot means you own it.",
                        "ค้นหาไอเทมได้ทั้งชื่ออังกฤษและไทย หน้าไอเทมแสดงสูตรคราฟต์พร้อมวัตถุดิบพื้นฐานที่ต้องใช้ทั้งหมด ดรอป ร้านค้า ถุง ผลลัพธ์ Shimmer หีบและจุดตกปลาที่พบไอเทมนั้น และนำไปคราฟต์อะไรได้บ้าง จุดสีเขียวหมายถึงคุณมีไอเทมนั้น")},
@@ -129,7 +129,7 @@ G["shimmer"] = {
                       "ทะเลสาบ Shimmer อยู่ใน Aether ไบโอมใต้ดินใกล้ขอบโลก ฝั่งตรงข้ามกับ Dungeon")},
     "Transform": {"Title": ("Transforming items", "การเปลี่ยนรูปไอเทม"),
                   "Body": ("Throw an item into Shimmer to transmute it, and many crafted items are taken apart into their ingredients. Item pages show Shimmer results under How to get.",
-                           "โยนไอเทมลงใน Shimmer เพื่อแปลงเป็นอย่างอื่น และไอเทมที่คราฟต์หลายชนิดจะถูกแยกกลับเป็นวัตถุดิบ หน้าไอเทมแสดงผลลัพธ์ Shimmer ไว้ในส่วนวิธีหา")},
+                           "โยนไอเทมลงใน Shimmer เพื่อแปลงเป็นอย่างอื่น และไอเทมที่คราฟต์หลายชนิดจะแยกกลับเป็นวัตถุดิบ หน้าไอเทมแสดงผลลัพธ์ Shimmer ไว้ในส่วนวิธีหา")},
     "Boosters": {"Title": ("Permanent boosters", "บูสเตอร์ถาวร"),
                  "Body": ("Life Crystal becomes [item:Terraria/AegisCrystal], Life Fruit becomes [item:Terraria/AegisFruit], Mana Crystal becomes [item:Terraria/ArcaneCrystal], a Pink Pearl becomes [item:Terraria/GalaxyPearl], a Gold Worm becomes [item:Terraria/GummyWorm] and any fruit becomes [item:Terraria/Ambrosia].",
                           "Life Crystal กลายเป็น [item:Terraria/AegisCrystal], Life Fruit กลายเป็น [item:Terraria/AegisFruit], Mana Crystal กลายเป็น [item:Terraria/ArcaneCrystal], Pink Pearl กลายเป็น [item:Terraria/GalaxyPearl], Gold Worm กลายเป็น [item:Terraria/GummyWorm] และผลไม้ชนิดใดก็ได้กลายเป็น [item:Terraria/Ambrosia]")},
@@ -230,7 +230,7 @@ G["cal-defense-damage"] = {
     "Summary": ("Why your defense drops after hits.", "ทำไมพลังป้องกันลดลงหลังโดนโจมตี"),
     "How": {"Title": ("How it works", "ทำงานอย่างไร"),
             "Body": ("Certain attacks also chip away at your defense for a short time. It regenerates quickly once you stop getting hit, so avoiding hits in a row matters more than stacking defense.",
-                     "การโจมตีบางอย่างจะลดพลังป้องกันของคุณชั่วคราว และจะฟื้นกลับอย่างรวดเร็วเมื่อไม่โดนโจมตีต่อ การหลบไม่ให้โดนติด ๆ กันจึงสำคัญกว่าการเพิ่มพลังป้องกันอย่างเดียว")},
+                     "การโจมตีบางอย่างจะลดพลังป้องกันชั่วคราว และจะฟื้นกลับอย่างรวดเร็วเมื่อไม่โดนโจมตีต่อ การหลบไม่ให้โดนติด ๆ กันจึงสำคัญกว่าการเพิ่มพลังป้องกันอย่างเดียว")},
 }
 
 G["cal-biomes"] = {
@@ -244,7 +244,7 @@ G["cal-biomes"] = {
                             "ทะเลฝั่งหนึ่งเป็นพิษ น้ำของมันจะทำให้คุณติดพิษเมื่ออยู่นาน Acid Rain และ Aquatic Scourge อยู่ที่นี่")},
     "Abyss": {"Title": ("The Abyss", "Abyss"),
               "Body": ("Deep below the Sulphurous Sea: dark, deep and dangerous. Bring proper diving gear and light. Its locked chests open after Skeletron. Never teleport there with a Rod of Discord.",
-                       "ลึกลงไปใต้ Sulphurous Sea: มืด ลึก และอันตราย เตรียมอุปกรณ์ดำน้ำและแสงให้พร้อม หีบที่ถูกล็อกจะเปิดได้หลังชนะ Skeletron และห้ามวาร์ปด้วย Rod of Discord ที่นั่นเด็ดขาด")},
+                       "ลึกลงไปใต้ Sulphurous Sea: มืด ลึก และอันตราย เตรียมอุปกรณ์ดำน้ำและแสงให้พร้อม หีบที่ล็อกอยู่จะเปิดได้หลังชนะ Skeletron และห้ามวาร์ปด้วย Rod of Discord ที่นั่นเด็ดขาด")},
     "Astral": {"Title": ("Astral Infection", "Astral Infection"),
                "Body": ("An alien biome from a fallen star. Astrum Aureus and Astrum Deus are fought here, and Astral Ore can be mined after Astrum Deus.",
                         "ไบโอมต่างดาวจากดาวที่ตกลงมา สู้ Astrum Aureus และ Astrum Deus ที่นี่ และขุดแร่ Astral ได้หลังชนะ Astrum Deus")},
@@ -299,7 +299,7 @@ G["cal-npcs"] = {
                  "Body": ("Moves in after Cryogen is defeated.", "ย้ายเข้ามาหลังชนะ Cryogen")},
     "Witch": {"Title": ("Brimstone Witch (Calamitas)", "Brimstone Witch (Calamitas)"),
               "Body": ("Moves in after Supreme Calamitas is defeated. She can enchant your items with new powers.",
-                       "ย้ายเข้ามาหลังชนะ Supreme Calamitas เธอเสริมพลังใหม่ให้ไอเทมของคุณได้")},
+                       "ย้ายเข้ามาหลังชนะ Supreme Calamitas เธอเสริมพลังใหม่ให้ไอเทมได้")},
 }
 
 G["cal-boss-rush"] = {
@@ -348,7 +348,7 @@ G["fables"] = {
                          "Fables ปรับ Desert Scourge และ Crabulon ใหม่ ขณะที่ตัวเลือก \"replace Calamity\" เปิดอยู่ (ค่าเริ่มต้น) คู่มือจะแสดงเวอร์ชันของ Fables แทนของ Calamity")},
     "Bosses": {"Title": ("Its bosses", "บอสของม็อดนี้"),
                "Body": ("Sir Nautilus waits in a hidden chamber under the dunes. The Desert Scourge is lured out with stormlion grubs. Crabulon is provoked with the Hookstaff on underground mushroom grass. With Spirit Reforged, a grub offered at the Ancient Altar starts the Scourge vs. Scarab duel.",
-                        "Sir Nautilus รออยู่ในห้องลับใต้เนินทราย ส่วน Desert Scourge ล่อออกมาได้ด้วยตัวอ่อน Stormlion และ Crabulon ถูกยั่วให้ออกมาด้วย Hookstaff บนหญ้าเห็ดใต้ดิน ถ้าเปิด Spirit Reforged ด้วย การถวายตัวอ่อนที่ Ancient Altar จะเริ่มศึกดวล Scourge vs. Scarab")},
+                        "Sir Nautilus รออยู่ในห้องลับใต้เนินทราย ส่วน Desert Scourge ล่อออกมาได้ด้วยตัวอ่อน Stormlion และยั่ว Crabulon ให้ออกมาได้ด้วย Hookstaff บนหญ้าเห็ดใต้ดิน ถ้าเปิด Spirit Reforged ด้วย การถวายตัวอ่อนที่ Ancient Altar จะเริ่มศึกดวล Scourge vs. Scarab")},
 }
 
 G["hunt"] = {
@@ -356,10 +356,10 @@ G["hunt"] = {
     "Summary": ("Goozma, the Auric Souls and the Shadowspec Curse.", "Goozma, Auric Soul และคำสาป Shadowspec"),
     "Goozma": {"Title": ("Goozma", "Goozma"),
                "Body": ("Throw an [item:CalamityMod/OverloadedSludge] onto King Slime during a Slime Rain, or use a [item:CalamityHunt/PluripotentSpawnEgg] on an empowered Slime Ninja Statue. It can be summoned from Hardmode on, but it is balanced for the end of the game.",
-                        "โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่ถูกเสริมพลัง เรียกได้ตั้งแต่ Hardmode แต่ปรับสมดุลไว้สำหรับช่วงท้ายเกม")},
+                        "โยน [item:CalamityMod/OverloadedSludge] ใส่ King Slime ระหว่าง Slime Rain หรือใช้ [item:CalamityHunt/PluripotentSpawnEgg] กับ Slime Ninja Statue ที่เสริมพลังแล้ว เรียกได้ตั้งแต่ Hardmode แต่ปรับสมดุลไว้สำหรับช่วงท้ายเกม")},
     "Souls": {"Title": ("Auric Souls", "Auric Soul"),
               "Body": ("Goozma, Yharon and the Old Duke each drop an Auric Soul every time they are defeated while anyone in the world has not absorbed that soul. Touch it to absorb it: +10 max life, +20 max mana, +3 defense and +3% to damage, crit chance, melee speed and movement speed.",
-                       "Goozma, Yharon และ Old Duke จะดรอป Auric Soul ทุกครั้งที่ถูกชนะ ตราบใดที่ยังมีผู้เล่นในโลกที่ยังไม่ได้ดูดซับ Soul นั้น เดินไปแตะเพื่อดูดซับ: พลังชีวิตสูงสุด +10 มานาสูงสุด +20 พลังป้องกัน +3 และ +3% ให้ดาเมจ อัตราคริติคอล ความเร็วโจมตีระยะประชิด และความเร็วเคลื่อนที่")},
+                       "Goozma, Yharon และ Old Duke จะดรอป Auric Soul ทุกครั้งที่ชนะบอสเหล่านี้ ตราบใดที่ยังมีผู้เล่นในโลกที่ยังไม่ได้ดูดซับ Soul นั้น เดินไปแตะเพื่อดูดซับ: พลังชีวิตสูงสุด +10 มานาสูงสุด +20 พลังป้องกัน +3 และ +3% ให้ดาเมจ อัตราคริติคอล ความเร็วโจมตีระยะประชิด และความเร็วเคลื่อนที่")},
     "Curse": {"Title": ("The Shadowspec Curse", "คำสาป Shadowspec"),
               "Body": ("Hunt's client option Shadowspec Curse is on by default: items crafted from Shadowspec Bars cannot be used or equipped until Goozma is defeated in the world, and they show a question mark in the inventory (and in this guide). Turn the option off in Hunt of the Old God's mod settings to lift it.",
                        "ตัวเลือก Shadowspec Curse ของ Hunt เปิดอยู่เป็นค่าเริ่มต้น ไอเทมที่คราฟต์จาก Shadowspec Bar จะใช้หรือสวมใส่ไม่ได้จนกว่าจะชนะ Goozma ในโลกนั้น และจะมีเครื่องหมายคำถามในช่องเก็บของ (รวมถึงในคู่มือนี้) ถ้าต้องการยกเลิก ให้ปิดตัวเลือกนี้ในการตั้งค่าม็อด Hunt of the Old God"),},
